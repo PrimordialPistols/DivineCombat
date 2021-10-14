@@ -1,0 +1,1807 @@
+﻿Log file open, 10/14/21 16:56:50
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DivineCombat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.874152
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/tdkos/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.14-20.56.57:010][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.14-20.56.57:010][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:031][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-20.56.57:071][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:071][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-20.56.57:072][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-20.56.57:072][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-20.56.57:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.14-20.56.57:088][  0]LogHAL: Display: Platform has ~ 16 GB [17013297152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.14-20.56.57:088][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.14-20.56.57:088][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-20.56.57:088][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-20.56.57:089][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.14-20.56.57:095][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.14-20.56.57:095][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.14-20.56.57:095][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.14-20.56.57:095][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unity Projects/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-20.56.57:108][  0]LogInit: Computer: DESKTOP-AKJQ6CT
+[2021.10.14-20.56.57:108][  0]LogInit: User: tdkos
+[2021.10.14-20.56.57:108][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.14-20.56.57:108][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.14-20.56.57:108][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.10.14-20.56.57:108][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.14-20.56.57:108][  0]LogMemory: Process Physical Memory: 140.93 MB used, 140.93 MB peak
+[2021.10.14-20.56.57:108][  0]LogMemory: Process Virtual Memory: 129.20 MB used, 129.20 MB peak
+[2021.10.14-20.56.57:108][  0]LogMemory: Physical Memory: 5132.90 MB used,  11092.24 MB free, 16225.14 MB total
+[2021.10.14-20.56.57:108][  0]LogMemory: Virtual Memory: 134188480.00 MB used,  29249.41 MB free, 134217728.00 MB total
+[2021.10.14-20.56.57:116][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.14-20.56.57:539][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.14-20.56.57:564][  0]LogInit: Using OS detected language (en-US).
+[2021.10.14-20.56.57:564][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.14-20.56.57:661][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.14-20.56.58:007][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.14-20.56.58:135][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.14-20.56.58:461][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.14-20.56.58:461][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.14-20.56.58:975][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-20.56.58:975][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.14-20.56.58:975][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.14-20.56.58:975][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.14-20.56.59:176][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.10.14-20.56.59:176][  0]LogD3D11RHI:       5980/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.14-20.56.59:178][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.14-20.56.59:178][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.14-20.56.59:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.14-20.56.59:193][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.14-20.56.59:193][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.14-20.56.59:193][  0]LogWindows: EnumDisplayDevices:
+[2021.10.14-20.56.59:193][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.10.14-20.56.59:193][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.10.14-20.56.59:193][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.14-20.56.59:194][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.10.14-20.56.59:194][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.14-20.56.59:194][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.10.14-20.56.59:194][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.10.14-20.56.59:194][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.10.14-20.56.59:194][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.10.14-20.56.59:250][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.14-20.56.59:251][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.14-20.56.59:251][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.14-20.56.59:564][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.14-20.56.59:568][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.14-20.57.00:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.14-20.57.00:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.14-20.57.00:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.14-20.57.00:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.14-20.57.00:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.14-20.57.00:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.14-20.57.00:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.14-20.57.00:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.14-20.57.00:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.14-20.57.00:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.14-20.57.00:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.14-20.57.00:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.14-20.57.00:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.14-20.57.00:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.14-20.57.00:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.14-20.57.00:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.14-20.57.00:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.14-20.57.00:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.14-20.57.00:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.14-20.57.00:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.14-20.57.00:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.14-20.57.00:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.14-20.57.00:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.14-20.57.00:731][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.14-20.57.01:215][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.14-20.57.02:016][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.14-20.57.02:036][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Unity Projects/DivineCombat/DivineCombat/Intermediate/Shaders/WorkingDirectory/12528/).
+[2021.10.14-20.57.02:037][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tdkos/AppData/Local/Temp/UnrealShaderWorkingDir/D91FC8844F03D33A635EFE80DAA4128E/'.
+[2021.10.14-20.57.02:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.14-20.57.02:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.14-20.57.04:200][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/tdkos/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tdkos/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unity Projects/DivineCombat/DivineCombat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unity Projects/DivineCombat/DivineCombat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-20.57.04:272][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.14-20.57.04:309][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.14-20.57.04:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-20.57.04:309][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.14-20.57.04:321][  0]LogDerivedDataCache: Speed tests for C:/Users/tdkos/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.14-20.57.04:321][  0]LogDerivedDataCache: Display: Performance to C:/Users/tdkos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=230.74MBs, RandomWriteSpeed=191.46MBs. Assigned SpeedClass 'Local'
+[2021.10.14-20.57.04:321][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tdkos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.14-20.57.04:321][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.14-20.57.04:321][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.14-20.57.04:422][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.14-20.57.04:511][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.14-20.57.05:059][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.10.14-20.57.07:743][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-20.57.07:743][  0]LogInit: Active device profile: [00000269AA19BA00][00000269A9859080 49] Windows
+[2021.10.14-20.57.07:743][  0]LogInit: Profiles: [00000269AA19BA00][00000269A9859080 49] Windows, [00000269AA143300][00000269A9861200 49] WindowsNoEditor, [00000269AA198E00][00000269A9865380 49] WindowsServer, [00000269AA141200][00000269A9869500 49] WindowsClient, [00000269AA19A900][00000269A985D640 49] IOS, [00000269AA140100][00000269A986D780 49] iPadAir, [00000269AA19A300][00000269A98718C0 49] iPadAir2, [00000269AA0DA600][00000269A987DB40 49] IPadPro, [00000269AA0DA700][00000269A9875B80 49] iPadAir3, [00000269AA142100][00000269A9881D00 49] iPadAir4, [00000269AA0DBF00][00000269A98841C0 49] iPadMini2, [00000269AA143000][00000269A9888340 49] iPadMini3, [00000269AA0D9500][00000269A988C4C0 49] iPadMini4, [00000269AA142000][00000269A9890640 49] iPadMini5, [00000269AA14DF00][00000269A9898900 49] iPhone6, [00000269AA14E000][00000269A9894940 49] iPodTouch6, [00000269AA0D9900][00000269A98A0C00 49] iPhone7, [00000269AA0D9800][00000269A989CC40 49] iPodTouch7, [00000269AA14F700][00000269A98A4DC0 49] iPhone5S, [00000269AA0D9100][00000269A98A8F40 49] iPhone6Plus, [00000269AA14D700][00000269A98AD0C0 49] iPhone6S, [00000269AA0DAE00][00000269A98B1240 49] iPhone6SPlus, [00000269AA14C700][00000269A98B53C0 49] iPhone7Plus, [00000269AA0DB400][00000269A98B9540 49] iPhoneSE, [00000269AA14F200][00000269A9879680 49] iPhone8, [00000269AA0D8500][00000269A98BD7C0 49] iPhone8Plus, [00000269AA14D500][00000269A98C1900 49] iPhoneX, [00000269AA0D8B00][00000269A98C5A40 49] iPhoneXS, [00000269AA14EC00][00000269A98CDBC0 49] iPhoneXSMax, [00000269AA0DB100][00000269A98D1D40 49] iPhoneXR, [00000269AA14CB00][00000269A98D4200 49] iPhone11, [00000269AA0DB900][00000269A98D8380 49] iPhone11Pro, [00000269AA14DC00][00000269A98DC500 49] iPhone11ProMax, [00000269AA0DAA00][00000269A98E0680 49] iPhoneSE2, [00000269AA14CA00][00000269A98E4800 49] iPhone12Mini, [00000269AA0D8C00][00000269A98E8980 49] iPhone12, [00000269AA14F500][00000269A98ECB00 49] iPhone12Pro, [00000269AA19B500][00000269A98F0C80 49] iPhone12ProMax, [00000269AA0D9D00][00000269A98F4E00 49] iPadPro105, [00000269AA199800][00000269A98F8F80 49] iPadPro129, [00000269AA0D8A00][00000269A98FD100 49] iPadPro97, [00000269AA14FB00][00000269AA911280 49] iPadPro2_129, [00000269AA198D00][00000269AA915400 49] iPad5, [00000269AA14FC00][00000269AA919580 49] iPad6, [00000269AA199F00][00000269AA91D700 49] iPad7, [00000269AA14D200][00000269A98C9840 49] iPad8, [00000269AA199200][00000269AA921980 49] iPadPro11, [00000269AA0DB800][00000269AA925AC0 49] iPadPro2_11, [00000269AA199000][00000269AA92DC40 49] iPadPro3_129, [00000269AA0D9F00][00000269AA930100 49] iPadPro4_129, [00000269AA198500][00000269AA934280 49] AppleTV, [00000269AA0DB500][00000269AA938400 49] AppleTV4K, [00000269AA19B600][00000269AA93C580 49] TVOS, [00000269AA0DA500][00000269AA940700 49] Mac, [00000269AA199600][00000269AA944880 49] MacClient, [00000269AA0D9A00][00000269AA948A00 49] MacNoEditor, [00000269AA19AD00][00000269AA94CB80 49] MacServer, [00000269AA0D9E00][00000269AA950D00 49] Linux, [00000269AA198B00][00000269AA954E80 49] LinuxNoEditor, [00000269AA0DA300][00000269AA959000 49] LinuxAArch64NoEditor, [00000269AA19B800][00000269AA95D180 49] LinuxClient, [00000269AA0D9200][00000269AA961300 49] LinuxAArch64Client, [00000269AA19A100][00000269AA965480 49] LinuxServer, [00000269AA0DAC00][00000269AA969600 49] LinuxAArch64Server, [00000269AA19BC00][00000269AA96D780 49] Android, [00000269AA0D8800][00000269AA9298C0 49] Android_Low, [00000269AA19AC00][00000269AA971A00 49] Android_Mid, [00000269AA0D9700][00000269AA975B40 49] Android_High, [00000269AA199100][00000269AA97DCC0 49] Android_Default, [00000269AA0D8400][00000269AA980180 49] Android_Adreno4xx, [00000269AA19B700][00000269AA984300 49] Android_Adreno5xx_Low, [00000269AA0D8D00][00000269AA988480 49] Android_Adreno5xx, [00000269AA198A00][00000269AA98C600 49] Android_Adreno6xx, [00000269AA0DBB00][00000269AA990780 49] Android_Adreno6xx_Vulkan, [00000269AA19BB00][00000269AA994900 49] Android_Mali_T6xx, [00000269AA0D8200][00000269AA998A80 49] Android_Mali_T7xx, [00000269AA19B400][00000269AA99CC00 49] Android_Mali_T8xx, [00000269AA0D8900][00000269AA9A0D80 49] Android_Mali_G71, [00000269AA199900][00000269AA9A4F00 49] Android_Mali_G72, [00000269AA0DAB00][00000269AA9A9080 49] Android_Mali_G72_Vulkan, [00000269AA199D00][00000269AA9AD200 49] Android_Mali_G76, [00000269AA0DB600][00000269AA9B1380 49] Android_Mali_G76_Vulkan, [00000269AA19B100][00000269AA9B5500 49] Android_Mali_G77, [00000269AA0D8600][00000269AA9B9680 49] Android_Mali_G77_Vulkan, [00000269AA19A700][00000269AA9BD800 49] Android_Vulkan_SM5, [00000269AA0D9000][00000269AA979940 49] Android_PowerVR_G6xxx, [00000269AA142600][00000269AA9C1A80 49] Android_PowerVR_GT7xxx, [00000269AA14F900][00000269AA9C5BC0 49] Android_PowerVR_GE8xxx, [00000269AA140600][00000269AA9C9D00 49] Android_PowerVR_GM9xxx, [00000269AA14E300][00000269AA9D01C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000269AA141400][00000269AA9D4340 49] Android_TegraK1, [00000269AA14D800][00000269AA9D84C0 49] Android_Unknown_Vulkan, [00000269AA140A00][00000269AA9DC640 49] Lumin, [00000269AA14DD00][00000269AA9E07C0 49] Lumin_Desktop, [00000269AA142A00][00000269AA9E4940 49] HoloLens, 
+[2021.10.14-20.57.09:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.14-20.57.09:022][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.14-20.57.09:022][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.14-20.57.09:022][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.14-20.57.09:022][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.14-20.57.10:219][  0]LogNetVersion: DivineCombat 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2491796348)
+[2021.10.14-20.57.15:877][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.14-20.57.15:940][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.055157 seconds
+[2021.10.14-20.57.15:968][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.10.14-20.57.15:968][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.10.14-20.57.15:968][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.14-20.57.17:333][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.14-20.57.17:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.14-20.57.19:250][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.19:250][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.19:383][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.19:396][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.19:525][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.19:552][  0]LogUProjectInfo: Found projects:
+[2021.10.14-20.57.20:365][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.14-20.57.20:594][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-20.57.20:594][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-20.57.21:088][  0]LogCollectionManager: Loaded 0 collections in 0.007189 seconds
+[2021.10.14-20.57.21:097][  0]LogFileCache: Scanning file cache for directory 'D:/Unity Projects/DivineCombat/DivineCombat/Saved/Collections/' took 0.00s
+[2021.10.14-20.57.21:097][  0]LogFileCache: Scanning file cache for directory 'D:/Unity Projects/DivineCombat/DivineCombat/Content/Developers/tdkos/Collections/' took 0.00s
+[2021.10.14-20.57.21:097][  0]LogFileCache: Scanning file cache for directory 'D:/Unity Projects/DivineCombat/DivineCombat/Content/Collections/' took 0.00s
+[2021.10.14-20.57.21:153][  0]LogOcInput: OculusInput pre-init called
+[2021.10.14-20.57.21:196][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.14-20.57.21:196][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.14-20.57.21:804][  0]LogEngine: Initializing Engine...
+[2021.10.14-20.57.21:815][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-20.57.21:826][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.14-20.57.21:827][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.14-20.57.22:139][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.14-20.57.22:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.14-20.57.22:274][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.14-20.57.22:341][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.14-20.57.22:341][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-20.57.22:341][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-20.57.22:341][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-20.57.22:356][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-20.57.22:356][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-20.57.22:470][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-20.57.22:470][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-20.57.22:503][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-20.57.22:514][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-20.57.22:524][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-20.57.22:524][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-20.57.22:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-20.57.22:525][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-20.57.22:525][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-20.57.22:526][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-20.57.22:526][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-20.57.22:526][  0]LogInit: FAudioDevice initialized.
+[2021.10.14-20.57.22:526][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.14-20.57.22:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.14-20.57.22:544][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/tdkos/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-20.57.22:545][  0]LogInit: Texture streaming: Enabled
+[2021.10.14-20.57.22:671][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.10.14-20.57.22:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.14-20.57.22:688][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.14-20.57.23:017][  0]LogInit: Transaction tracking system initialized
+[2021.10.14-20.57.23:332][  0]BlueprintLog: New page: Editor Load
+[2021.10.14-20.57.23:994][  0]LocalizationService: Localization service is disabled
+[2021.10.14-20.57.24:278][  0]TimingProfiler: Initialize
+[2021.10.14-20.57.24:279][  0]TimingProfiler: OnSessionChanged
+[2021.10.14-20.57.24:279][  0]LoadingProfiler: Initialize
+[2021.10.14-20.57.24:279][  0]LoadingProfiler: OnSessionChanged
+[2021.10.14-20.57.24:279][  0]NetworkingProfiler: Initialize
+[2021.10.14-20.57.24:280][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.14-20.57.24:280][  0]MemoryProfiler: Initialize
+[2021.10.14-20.57.24:280][  0]MemoryProfiler: OnSessionChanged
+[2021.10.14-20.57.25:870][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.14-20.57.25:870][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.14-20.57.27:039][  0]LogFileCache: Scanning file cache for directory 'D:/Unity Projects/DivineCombat/DivineCombat/Content/' took 0.03s
+[2021.10.14-20.57.30:030][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.14-20.57.30:105][  0]SourceControl: Source control is disabled
+[2021.10.14-20.57.30:117][  0]LogUnrealEdMisc: Loading editor; pre map load, took 65.326
+[2021.10.14-20.57.30:140][  0]Cmd: MAP LOAD FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-20.57.30:212][  0]LightingResults: New page: Lighting Build
+[2021.10.14-20.57.30:212][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-20.57.30:276][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-20.57.30:291][  0]MapCheck: New page: Map Check
+[2021.10.14-20.57.30:291][  0]LightingResults: New page: Lighting Build
+[2021.10.14-20.57.30:398][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.14-20.57.33:758][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.10.14-20.57.33:761][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.14-20.57.34:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-20.57.34:098][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.10.14-20.57.34:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.14-20.57.34:119][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-20.57.34:124][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.712ms to complete.
+[2021.10.14-20.57.34:124][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.992
+[2021.10.14-20.57.34:698][  0]LogUnrealEdMisc: Total Editor Startup Time, took 69.906
+[2021.10.14-20.57.35:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-20.57.35:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-20.57.35:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-20.57.35:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-20.57.35:278][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0164 seconds. Added 3601 classes and 859 folders.
+[2021.10.14-20.57.35:340][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.14-20.57.35:426][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-20.57.35:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-20.57.35:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.10.14-20.57.35:428][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-20.57.35:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-20.57.35:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.10.14-20.57.35:440][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.14-20.57.35:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.14-20.57.35:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.10.14-20.57.35:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-20.57.35:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-20.57.35:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.10.14-20.57.35:446][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-20.57.35:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-20.57.35:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.14-20.57.35:447][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-20.57.35:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-20.57.35:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.10.14-20.57.35:448][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-20.57.35:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-20.57.35:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.14-20.57.35:449][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-20.57.35:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-20.57.35:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.14-20.57.35:461][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-20.57.35:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-20.57.35:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.14-20.57.35:493][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-20.57.35:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-20.57.35:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.14-20.57.35:494][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-20.57.35:494][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:494][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-20.57.35:494][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.10.14-20.57.35:495][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-20.57.35:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-20.57.35:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.14-20.57.35:505][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-20.57.35:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-20.57.35:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.14-20.57.35:512][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-20.57.35:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-20.57.35:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.14-20.57.35:513][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-20.57.35:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-20.57.35:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.14-20.57.35:514][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-20.57.35:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-20.57.35:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.14-20.57.35:515][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-20.57.35:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-20.57.35:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.14-20.57.35:518][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-20.57.35:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-20.57.35:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.14-20.57.35:519][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-20.57.35:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-20.57.35:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.14-20.57.35:520][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-20.57.35:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-20.57.35:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.14-20.57.35:521][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-20.57.35:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-20.57.35:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.14-20.57.35:525][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-20.57.35:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-20.57.35:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.14-20.57.35:526][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.14-20.57.35:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.14-20.57.35:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.14-20.57.35:541][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-20.57.35:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-20.57.35:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.14-20.57.35:542][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-20.57.35:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-20.57.35:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.14-20.57.35:543][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-20.57.35:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-20.57.35:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-20.57.35:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.14-20.57.36:167][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.14-20.57.36:176][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.14-20.57.36:519][  0]LogSlate: Took 0.018627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.14-20.57.36:528][  0]LogSlate: Took 0.007876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.14-20.57.36:537][  0]LogSlate: Took 0.005998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.14-20.57.36:840][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-20.57.37:136][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.14-20.57.37:136][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.14-20.57.37:136][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.10.14-20.57.37:136][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.14-20.57.37:136][  0]LogLoad: (Engine Initialization) Total time: 72.34 seconds
+[2021.10.14-20.57.37:136][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.14-20.57.37:136][  0]LogInit: First time updating LLM stats...
+[2021.10.14-20.57.37:154][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.14-20.57.37:157][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.14-20.57.37:234][  0]LogAssetRegistry: Asset discovery search completed in 32.1750 seconds
+[2021.10.14-20.57.37:245][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.10.14-20.57.37:338][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.14-20.57.37:927][  2]LogSlate: Took 0.015443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-20.57.38:492][  4]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-20.59.35:823][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-20.59.36:094][361]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.10.14-20.59.36:920][361]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-20.59.37:205][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2021.10.14-20.59.37:716][361]LogSlate: Took 0.014813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.14-20.59.37:821][362]LogSlate: Took 0.000601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.14-21.02.13:348][360]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.14-21.02.17:094][545]BlueprintLog: New page: Compile BP_GridTile
+[2021.10.14-21.02.17:197][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.10.14-21.02.20:779][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2021.10.14-21.02.20:851][944]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_GridTileC87DE37C4E843168971333A75C6AE6C2.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2021.10.14-21.02.20:862][944]AssetCheck: New page: Asset Save: BP_GridTile
+[2021.10.14-21.02.20:862][944]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2021.10.14-21.07.05:016][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.10.14-21.07.05:072][172]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/PathfindingTest.PathfindingTest
+[2021.10.14-21.07.05:079][172]Cmd: MAP LOAD FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Maps/PathfindingTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-21.07.05:079][172]LightingResults: New page: Lighting Build
+[2021.10.14-21.07.05:079][172]LoadErrors: New page: Loading map: PathfindingTest.umap
+[2021.10.14-21.07.05:122][172]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.07.05:122][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.07.05:130][172]MapCheck: New page: Map Check
+[2021.10.14-21.07.05:130][172]LightingResults: New page: Lighting Build
+[2021.10.14-21.07.05:151][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.07.05:190][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.14-21.07.05:190][172]LogAudio: Display: Audio Device (ID: 1) registered with world 'PathfindingTest'.
+[2021.10.14-21.07.05:266][172]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-21.07.05:266][172]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.07.05:290][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.10.14-21.07.05:293][172]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-21.07.05:293][172]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2021.10.14-21.07.05:293][172]LogFileHelpers: Loading map 'PathfindingTest' took 0.220
+[2021.10.14-21.07.07:581][440]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.07.07:631][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.07.07:636][440]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:07:07 PM)
+[2021.10.14-21.07.07:654][440]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.14-21.07.07:666][440]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.14-21.07.07:676][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.07.07:678][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001788s)
+[2021.10.14-21.07.07:679][440]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.07.07:679][440]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2021.10.14-21.07.07:685][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002798s)
+[2021.10.14-21.07.07:707][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.10.14-21.07.07:708][440]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.07.07:708][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.07.07:708][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.07.07:709][440]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.07.07:709][440]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.07.07:716][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.07.07:716][440]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.07.07:725][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.07.07:725][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.07.07:737][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.07.07:737][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.07.07:737][440]LogInit: FAudioDevice initialized.
+[2021.10.14-21.07.07:737][440]LogAudio: Display: Audio Device (ID: 2) registered with world 'PathfindingTest'.
+[2021.10.14-21.07.07:903][440]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.07.07:904][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.07.07
+[2021.10.14-21.07.07:904][440]LogWorld: Bringing up level for play took: 0.000412
+[2021.10.14-21.07.07:922][440]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.14-21.07.07:957][440]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.14-21.07.08:046][440]PIE: Server logged in
+[2021.10.14-21.07.08:047][440]PIE: Play in editor total start time 0.463 seconds.
+[2021.10.14-21.07.18:273][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.07.18:273][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.07.18:293][208]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.07.18:293][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.07.18:316][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.07.18:321][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.07.18:343][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.07.18:381][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.07.18:382][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.07.18:456][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.10.14-21.07.18:475][209]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.14-21.11.24:195][641]BlueprintLog: New page: Compile BP_GridTile
+[2021.10.14-21.11.24:293][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.10.14-21.11.24:934][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2021.10.14-21.11.24:996][704]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_GridTileE6DC24B9432153BCA7551D898C43B235.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2021.10.14-21.11.25:006][704]AssetCheck: New page: Asset Save: BP_GridTile
+[2021.10.14-21.11.25:006][704]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2021.10.14-21.11.27:700][982]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.11.27:705][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.11.27:705][982]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:11:27 PM)
+[2021.10.14-21.11.27:705][982]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.11.27:707][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2021.10.14-21.11.27:708][982]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.11.27:708][982]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2021.10.14-21.11.27:708][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002471s)
+[2021.10.14-21.11.27:732][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.14-21.11.27:733][982]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.11.27:733][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.11.27:733][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.11.27:734][982]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.11.27:734][982]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.11.27:740][982]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.11.27:740][982]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.11.27:748][982]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.11.27:749][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.11.27:749][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.11.27:749][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.11.27:749][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.11.27:749][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.11.27:749][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.11.27:759][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.11.27:759][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.11.27:759][982]LogInit: FAudioDevice initialized.
+[2021.10.14-21.11.27:759][982]LogAudio: Display: Audio Device (ID: 3) registered with world 'PathfindingTest'.
+[2021.10.14-21.11.27:770][982]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.11.27:770][982]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.11.27
+[2021.10.14-21.11.27:770][982]LogWorld: Bringing up level for play took: 0.000384
+[2021.10.14-21.11.27:771][982]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.14-21.11.27:805][982]PIE: Server logged in
+[2021.10.14-21.11.27:806][982]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.14-21.11.34:563][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.11.34:563][512]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.11.34:564][512]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.11.34:565][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.11.34:575][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.11.34:579][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.11.34:600][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.11.34:600][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.11.34:601][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.11.34:613][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.11.34:618][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.14-21.11.34:630][513]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.14-21.15.56:215][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathfindingTest" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Maps/PathfindingTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.14-21.15.56:402][870]LogUObjectHash: Compacting FUObjectHashTables data took  13.43ms
+[2021.10.14-21.15.56:534][870]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/PathfindingTest988A15A44D27EFF5693AEBB20B7E8440.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Maps/PathfindingTest.umap'
+[2021.10.14-21.15.56:622][870]AssetCheck: New page: Asset Save: PathfindingTest
+[2021.10.14-21.15.56:622][870]LogContentValidation: Display: Validating World /Game/Maps/PathfindingTest.PathfindingTest
+[2021.10.14-21.17.53:822][375]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.17.53:828][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.17.53:828][375]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:17:53 PM)
+[2021.10.14-21.17.53:828][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.17.53:831][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002132s)
+[2021.10.14-21.17.53:833][375]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.17.53:833][375]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2021.10.14-21.17.53:833][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.004530s)
+[2021.10.14-21.17.53:858][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.14-21.17.53:863][375]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.17.53:864][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.17.53:864][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.17.53:865][375]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.17.53:865][375]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.17.53:896][375]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.17.53:896][375]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.17.53:907][375]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.17.53:908][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.17.53:908][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.17.53:908][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.17.53:910][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.17.53:910][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.17.53:910][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.17.53:920][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.17.53:920][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.17.53:920][375]LogInit: FAudioDevice initialized.
+[2021.10.14-21.17.53:920][375]LogAudio: Display: Audio Device (ID: 4) registered with world 'PathfindingTest'.
+[2021.10.14-21.17.53:943][375]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.17.53:944][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.17.53
+[2021.10.14-21.17.53:944][375]LogWorld: Bringing up level for play took: 0.000908
+[2021.10.14-21.17.53:945][375]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.14-21.17.53:966][375]PIE: Server logged in
+[2021.10.14-21.17.53:967][375]PIE: Play in editor total start time 0.14 seconds.
+[2021.10.14-21.18.21:581][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.18.21:581][368]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.18.21:583][368]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.18.21:584][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.18.21:592][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.18.21:596][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.18.21:621][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.18.21:621][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.18.21:622][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.18.21:635][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.18.21:641][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.14-21.18.21:659][369]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.14-21.23.13:456][550]BlueprintLog: New page: Compile W_GridTile
+[2021.10.14-21.23.13:648][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.10.14-21.23.13:864][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/W_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset" SILENT=true
+[2021.10.14-21.23.13:939][551]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/W_GridTile3748FC844F510472E9B9D79C7874CBAB.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset'
+[2021.10.14-21.23.13:956][551]AssetCheck: New page: Asset Save: W_GridTile
+[2021.10.14-21.23.13:956][551]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.23.18:509][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.23.18:513][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.23.18:513][ 59]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:23:18 PM)
+[2021.10.14-21.23.18:513][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.23.18:517][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001743s)
+[2021.10.14-21.23.18:518][ 59]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.23.18:518][ 59]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.10.14-21.23.18:518][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.004321s)
+[2021.10.14-21.23.18:543][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.14-21.23.18:545][ 59]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.23.18:545][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.23.18:545][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.23.18:545][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.23.18:552][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.23.18:552][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.23.18:562][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.23.18:574][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.23.18:574][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.23.18:574][ 59]LogInit: FAudioDevice initialized.
+[2021.10.14-21.23.18:574][ 59]LogAudio: Display: Audio Device (ID: 5) registered with world 'PathfindingTest'.
+[2021.10.14-21.23.18:585][ 59]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.23.18:586][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.23.18
+[2021.10.14-21.23.18:586][ 59]LogWorld: Bringing up level for play took: 0.000401
+[2021.10.14-21.23.18:586][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.10.14-21.23.18:605][ 59]PIE: Server logged in
+[2021.10.14-21.23.18:605][ 59]PIE: Play in editor total start time 0.094 seconds.
+[2021.10.14-21.23.27:642][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.23.27:642][734]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.23.27:643][734]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.23.27:644][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.23.27:653][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.23.27:657][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.23.27:680][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.23.27:680][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.23.27:681][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.23.27:692][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.23.27:698][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.14-21.23.27:719][736]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.14-21.23.43:745][118]BlueprintLog: New page: Compile W_GridTile
+[2021.10.14-21.23.43:809][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.10.14-21.23.44:195][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/W_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset" SILENT=true
+[2021.10.14-21.23.44:261][154]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/W_GridTile56A556FE4220B9101D7C80A0C6C04BDB.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset'
+[2021.10.14-21.23.44:270][154]AssetCheck: New page: Asset Save: W_GridTile
+[2021.10.14-21.23.44:270][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.23.45:017][232]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.23.45:020][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.23.45:020][232]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:23:45 PM)
+[2021.10.14-21.23.45:021][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.23.45:022][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001693s)
+[2021.10.14-21.23.45:023][232]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.23.45:023][232]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2021.10.14-21.23.45:023][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002481s)
+[2021.10.14-21.23.45:049][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.10.14-21.23.45:050][232]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.23.45:050][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.23.45:050][232]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.23.45:050][232]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.23.45:057][232]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.23.45:057][232]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.23.45:066][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.23.45:066][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.23.45:076][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.23.45:076][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.23.45:076][232]LogInit: FAudioDevice initialized.
+[2021.10.14-21.23.45:076][232]LogAudio: Display: Audio Device (ID: 6) registered with world 'PathfindingTest'.
+[2021.10.14-21.23.45:086][232]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.23.45:087][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.23.45
+[2021.10.14-21.23.45:087][232]LogWorld: Bringing up level for play took: 0.000427
+[2021.10.14-21.23.45:087][232]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.10.14-21.23.45:106][232]PIE: Server logged in
+[2021.10.14-21.23.45:107][232]PIE: Play in editor total start time 0.087 seconds.
+[2021.10.14-21.23.53:822][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.23.53:822][831]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.23.53:823][831]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.23.53:824][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.23.53:833][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.23.53:837][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.23.53:856][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.23.53:857][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.23.53:858][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.23.53:869][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.23.53:875][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.10.14-21.23.53:891][832]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.10.14-21.24.47:111][664]BlueprintLog: New page: Compile W_GridTile
+[2021.10.14-21.24.47:164][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.14-21.24.47:862][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/W_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset" SILENT=true
+[2021.10.14-21.24.47:969][741]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/W_GridTile9FF02ED042DFDFD505D89090892F0020.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset'
+[2021.10.14-21.24.47:981][741]AssetCheck: New page: Asset Save: W_GridTile
+[2021.10.14-21.24.47:981][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.24.49:378][905]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.24.49:382][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.24.49:382][905]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:24:49 PM)
+[2021.10.14-21.24.49:382][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.24.49:385][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002323s)
+[2021.10.14-21.24.49:385][905]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.24.49:385][905]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2021.10.14-21.24.49:385][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.003101s)
+[2021.10.14-21.24.49:411][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.14-21.24.49:412][905]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.24.49:412][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.24.49:412][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.24.49:413][905]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.24.49:413][905]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.24.49:419][905]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.24.49:419][905]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.24.49:452][905]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.24.49:452][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.24.49:452][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.24.49:452][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.24.49:453][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.24.49:453][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.24.49:453][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.24.49:463][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.24.49:463][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.24.49:463][905]LogInit: FAudioDevice initialized.
+[2021.10.14-21.24.49:463][905]LogAudio: Display: Audio Device (ID: 7) registered with world 'PathfindingTest'.
+[2021.10.14-21.24.49:473][905]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.24.49:474][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.24.49
+[2021.10.14-21.24.49:474][905]LogWorld: Bringing up level for play took: 0.000424
+[2021.10.14-21.24.49:474][905]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.14-21.24.49:495][905]PIE: Server logged in
+[2021.10.14-21.24.49:496][905]PIE: Play in editor total start time 0.115 seconds.
+[2021.10.14-21.24.55:861][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.24.55:861][366]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.24.55:866][366]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.24.55:866][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.24.55:876][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.24.55:882][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.24.55:907][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.24.55:908][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.24.55:908][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.24.55:935][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.14-21.24.55:947][367]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.14-21.26.24:837][ 39]BlueprintLog: New page: Compile W_GridTile
+[2021.10.14-21.26.24:907][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.10.14-21.26.25:712][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/W_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset" SILENT=true
+[2021.10.14-21.26.25:806][126]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/W_GridTileA8836D074303E1B698EFBB99382ADCCA.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/W_GridTile.uasset'
+[2021.10.14-21.26.25:816][126]AssetCheck: New page: Asset Save: W_GridTile
+[2021.10.14-21.26.25:816][126]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.26.28:630][455]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.26.28:634][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.26.28:634][455]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:26:28 PM)
+[2021.10.14-21.26.28:634][455]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.26.28:636][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001760s)
+[2021.10.14-21.26.28:636][455]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.26.28:637][455]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2021.10.14-21.26.28:637][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002626s)
+[2021.10.14-21.26.28:662][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.10.14-21.26.28:663][455]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.26.28:663][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.26.28:663][455]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.26.28:663][455]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.26.28:670][455]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.26.28:670][455]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.26.28:679][455]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.26.28:680][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.26.28:680][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.26.28:680][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.26.28:680][455]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.26.28:680][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.26.28:680][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.26.28:692][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.26.28:692][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.26.28:692][455]LogInit: FAudioDevice initialized.
+[2021.10.14-21.26.28:692][455]LogAudio: Display: Audio Device (ID: 8) registered with world 'PathfindingTest'.
+[2021.10.14-21.26.28:703][455]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.26.28:704][455]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.26.28
+[2021.10.14-21.26.28:704][455]LogWorld: Bringing up level for play took: 0.000430
+[2021.10.14-21.26.28:704][455]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.14-21.26.28:724][455]PIE: Server logged in
+[2021.10.14-21.26.28:724][455]PIE: Play in editor total start time 0.091 seconds.
+[2021.10.14-21.26.39:891][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.26.39:891][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.26.39:894][222]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.26.39:895][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.26.39:903][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.26.39:907][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.26.39:930][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.26.39:930][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.26.39:931][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.26.39:943][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.26.39:949][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.14-21.26.39:972][224]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.14-21.27.39:753][338]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.27.39:756][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.27.39:756][338]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:27:39 PM)
+[2021.10.14-21.27.39:757][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.27.39:758][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2021.10.14-21.27.39:759][338]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.27.39:772][338]LogPlayLevel: PIE: World Init took: (0.013678s)
+[2021.10.14-21.27.39:772][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.015522s)
+[2021.10.14-21.27.39:796][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.14-21.27.39:798][338]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.27.39:798][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.27.39:799][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.27.39:799][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.27.39:799][338]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.27.39:799][338]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.27.39:806][338]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.27.39:806][338]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.27.39:815][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.27.39:815][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.27.39:827][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.27.39:827][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.27.39:827][338]LogInit: FAudioDevice initialized.
+[2021.10.14-21.27.39:827][338]LogAudio: Display: Audio Device (ID: 9) registered with world 'PathfindingTest'.
+[2021.10.14-21.27.39:836][338]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.27.39:837][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.27.39
+[2021.10.14-21.27.39:837][338]LogWorld: Bringing up level for play took: 0.000405
+[2021.10.14-21.27.39:838][338]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.14-21.27.39:857][338]PIE: Server logged in
+[2021.10.14-21.27.39:858][338]PIE: Play in editor total start time 0.102 seconds.
+[2021.10.14-21.27.49:921][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.27.49:921][ 80]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.27.49:923][ 80]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.27.49:923][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.27.49:929][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.27.49:933][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.27.49:956][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.27.49:956][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.27.49:957][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.27.49:973][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.10.14-21.27.49:993][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.14-21.34.21:699][432]LogRenderer: Reallocating scene render targets to support 1208x808 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-21.34.41:088][286]BlueprintLog: New page: Compile BP_GridTile
+[2021.10.14-21.34.41:366][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.10.14-21.34.41:749][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2021.10.14-21.34.41:911][304]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_GridTileD30EBA8040D65C3378430FBB7551ED16.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2021.10.14-21.34.41:925][304]AssetCheck: New page: Asset Save: BP_GridTile
+[2021.10.14-21.34.41:925][304]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2021.10.14-21.35.16:770][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.10.14-21.35.16:996][721]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/PathfindingTest_Auto1A4384CB647FD48B1DDA0B0922FE9C62D.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/PathfindingTest_Auto1.umap'
+[2021.10.14-21.35.17:037][721]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PathfindingTest' took 0.300
+[2021.10.14-21.35.17:046][721]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.300
+[2021.10.14-21.37.40:636][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PathfindingTest" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Maps/PathfindingTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.14-21.37.40:707][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.14-21.37.40:786][156]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/PathfindingTest0C3A66D34DEDBD1A0546C8A258C52389.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Maps/PathfindingTest.umap'
+[2021.10.14-21.37.40:855][156]AssetCheck: New page: Asset Save: PathfindingTest
+[2021.10.14-21.37.40:855][156]LogContentValidation: Display: Validating World /Game/Maps/PathfindingTest.PathfindingTest
+[2021.10.14-21.37.51:338][960]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.37.51:338][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.37.51:372][960]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.37.51:372][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.38.26:817][ 69]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.39.08:260][ 59]BlueprintLog: New page: Compile BP_Grid
+[2021.10.14-21.39.08:474][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.10.14-21.39.08:915][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2021.10.14-21.39.09:286][ 88]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_Grid0661429B45B0B9997352549859ECD8A5.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset'
+[2021.10.14-21.39.09:317][ 88]AssetCheck: New page: Asset Save: BP_Grid
+[2021.10.14-21.39.09:317][ 88]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-21.39.11:538][231]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.39.11:579][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.39.11:579][231]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:39:11 PM)
+[2021.10.14-21.39.11:579][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.39.11:581][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001866s)
+[2021.10.14-21.39.11:582][231]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.39.11:582][231]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2021.10.14-21.39.11:582][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002853s)
+[2021.10.14-21.39.11:615][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.10.14-21.39.11:616][231]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.39.11:616][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.39.11:616][231]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.39.11:616][231]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.39.11:637][231]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.39.11:637][231]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.39.11:646][231]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.39.11:647][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.39.11:647][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.39.11:647][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.39.11:647][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.39.11:647][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.39.11:647][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.39.11:668][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.39.11:669][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.39.11:669][231]LogInit: FAudioDevice initialized.
+[2021.10.14-21.39.11:669][231]LogAudio: Display: Audio Device (ID: 10) registered with world 'PathfindingTest'.
+[2021.10.14-21.39.11:682][231]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.39.11:683][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.39.11
+[2021.10.14-21.39.11:683][231]LogWorld: Bringing up level for play took: 0.000615
+[2021.10.14-21.39.11:693][231]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.14-21.39.11:713][231]PIE: Server logged in
+[2021.10.14-21.39.11:714][231]PIE: Play in editor total start time 0.172 seconds.
+[2021.10.14-21.39.17:640][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.39.17:640][434]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.39.17:641][434]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.39.17:642][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.39.17:648][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.39.17:652][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.39.17:675][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.39.17:675][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.39.17:677][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.39.17:689][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.39.17:694][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.10.14-21.39.17:716][435]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.14-21.39.30:428][564]BlueprintLog: New page: Compile BP_Grid
+[2021.10.14-21.39.30:513][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.14-21.39.31:199][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2021.10.14-21.39.31:435][614]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_Grid863CAB1D44F12516569C1E80FED6B81B.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset'
+[2021.10.14-21.39.31:445][614]AssetCheck: New page: Asset Save: BP_Grid
+[2021.10.14-21.39.31:445][614]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-21.39.32:133][668]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.39.32:138][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.39.32:138][668]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:39:32 PM)
+[2021.10.14-21.39.32:138][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.39.32:140][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001693s)
+[2021.10.14-21.39.32:140][668]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.39.32:141][668]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2021.10.14-21.39.32:141][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002464s)
+[2021.10.14-21.39.32:169][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.10.14-21.39.32:170][668]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.39.32:170][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.39.32:170][668]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.39.32:170][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.39.32:177][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.39.32:177][668]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.39.32:186][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.39.32:186][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.39.32:187][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.39.32:187][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.39.32:187][668]LogInit: FAudioDevice initialized.
+[2021.10.14-21.39.32:187][668]LogAudio: Display: Audio Device (ID: 11) registered with world 'PathfindingTest'.
+[2021.10.14-21.39.32:200][668]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.39.32:201][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.39.32
+[2021.10.14-21.39.32:201][668]LogWorld: Bringing up level for play took: 0.000405
+[2021.10.14-21.39.32:201][668]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.14-21.39.32:220][668]PIE: Server logged in
+[2021.10.14-21.39.32:221][668]PIE: Play in editor total start time 0.084 seconds.
+[2021.10.14-21.39.42:089][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.39.42:089][ 33]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.39.42:091][ 33]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.39.42:092][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.39.42:101][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.39.42:108][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.39.42:135][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.39.42:135][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.39.42:136][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.39.42:148][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.39.42:154][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.14-21.39.42:172][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.14-21.42.53:104][966]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.42.53:108][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.42.53:108][966]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:42:53 PM)
+[2021.10.14-21.42.53:108][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.42.53:110][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2021.10.14-21.42.53:111][966]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.42.53:111][966]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2021.10.14-21.42.53:111][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.002942s)
+[2021.10.14-21.42.53:138][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.14-21.42.53:140][966]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.42.53:140][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.42.53:140][966]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.42.53:140][966]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.42.53:147][966]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.42.53:147][966]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.42.53:157][966]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.42.53:157][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.42.53:157][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.42.53:157][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.42.53:157][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.42.53:158][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.42.53:158][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.42.53:170][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.42.53:170][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.42.53:170][966]LogInit: FAudioDevice initialized.
+[2021.10.14-21.42.53:170][966]LogAudio: Display: Audio Device (ID: 12) registered with world 'PathfindingTest'.
+[2021.10.14-21.42.53:180][966]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.42.53:181][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.42.53
+[2021.10.14-21.42.53:181][966]LogWorld: Bringing up level for play took: 0.000479
+[2021.10.14-21.42.53:181][966]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.14-21.42.53:202][966]PIE: Server logged in
+[2021.10.14-21.42.53:203][966]PIE: Play in editor total start time 0.095 seconds.
+[2021.10.14-21.43.51:354][762]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.51:378][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.51:378][762]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.51:378][762]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.51:378][762]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:ExecuteUbergraph_BP_GridTile:00AB
+[2021.10.14-21.43.51:379][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.43.51:728][779]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.51:728][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.51:729][779]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.51:729][779]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.51:729][779]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:ExecuteUbergraph_BP_GridTile:0128
+[2021.10.14-21.43.51:729][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Selected
+[2021.10.14-21.43.52:160][799]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.52:160][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.52:160][799]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.52:160][799]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:434][137]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.56:434][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:434][137]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.56:434][137]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:434][137]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:ExecuteUbergraph_BP_GridTile:00AB
+[2021.10.14-21.43.56:435][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.43.56:455][138]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.56:455][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:455][138]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.56:455][138]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:733][151]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0035
+[2021.10.14-21.43.56:733][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:733][151]LogScript: Warning: Accessed None
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData:0016
+[2021.10.14-21.43.56:733][151]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.56:733][151]LogScript: Warning: Accessed None trying to read property bp_Grid
+	BP_GridTile_C /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest:PersistentLevel.BP_GridTile_C_0
+	Function /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:ExecuteUbergraph_BP_GridTile:00AB
+[2021.10.14-21.43.56:733][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.43.57:464][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.57:464][185]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.58:519][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.58:519][234]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.58:520][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.43.59:337][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.43.59:338][272]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.01:606][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.01:606][376]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.01:607][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.02:237][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.02:237][405]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.05:133][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.05:133][539]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.05:133][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.05:574][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.05:574][560]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.06:065][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.06:066][583]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.06:066][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.08:023][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.08:023][674]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.52:829][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.52:829][162]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.52:829][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.53:455][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.53:455][192]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.55:678][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.55:678][285]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.55:678][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.55:745][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.55:745][287]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:108][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:108][298]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:108][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.56:240][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:240][302]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:240][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Selected
+[2021.10.14-21.44.56:711][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.56:711][316]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:008][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:008][327]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:008][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Hovered
+[2021.10.14-21.44.57:363][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:363][344]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:363][344]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Execute Ubergraph BP Grid Tile Graph:  EventGraph Node:  Event New Tile Selected
+[2021.10.14-21.44.57:762][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property bp_Grid". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.44.57:762][363]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_GridTile Function:  Get Tile Data Graph:  GetTileData Node:  Return Node
+[2021.10.14-21.45.01:579][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.45.01:579][536]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.45.01:581][536]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.45.01:603][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.45.01:612][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.45.01:623][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.45.01:648][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-21.45.01:648][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.45.01:650][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.45.01:663][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.45.01:669][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.14-21.45.01:953][536]LogSlate: Took 0.079850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.14-21.45.01:988][537]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.14-21.50.35:093][407]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-21.50.35:196][407]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-21.50.39:229][709]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-21.50.40:030][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-21.50.40:143][709]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 1:50:40 PM)
+[2021.10.14-21.50.40:257][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.50.40:853][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.579980s)
+[2021.10.14-21.50.41:397][709]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-21.50.41:649][709]LogPlayLevel: PIE: World Init took: (0.795270s)
+[2021.10.14-21.50.41:659][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (1.402390s)
+[2021.10.14-21.50.42:694][709]LogUObjectHash: Compacting FUObjectHashTables data took  14.54ms
+[2021.10.14-21.50.42:917][709]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-21.50.43:012][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-21.50.43:012][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-21.50.43:044][709]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-21.50.43:044][709]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-21.50.43:076][709]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-21.50.43:076][709]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-21.50.43:091][709]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-21.50.43:114][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-21.50.43:114][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-21.50.43:123][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-21.50.43:140][709]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-21.50.43:140][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-21.50.43:140][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-21.50.43:194][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-21.50.43:194][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-21.50.43:194][709]LogInit: FAudioDevice initialized.
+[2021.10.14-21.50.43:200][709]LogAudio: Display: Audio Device (ID: 13) registered with world 'PathfindingTest'.
+[2021.10.14-21.50.43:647][709]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-21.50.44:019][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-17.50.44
+[2021.10.14-21.50.44:048][709]LogWorld: Bringing up level for play took: 0.270121
+[2021.10.14-21.50.44:143][709]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.14-21.50.44:680][709]PIE: Server logged in
+[2021.10.14-21.50.44:691][709]PIE: Play in editor total start time 5.116 seconds.
+[2021.10.14-21.51.16:182][966]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-21.51.16:186][966]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-21.51.17:856][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.51.17:857][ 36]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-21.51.18:155][ 36]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.51.18:282][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.51.18:541][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-21.51.18:961][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.51.19:067][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-21.51.19:221][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.51.19:222][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-21.51.19:735][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.14-21.51.20:041][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.14-21.53.06:103][ 21]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.53.06:103][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.53.07:591][ 90]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.53.07:591][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.53.07:610][ 90]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.53.07:610][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.54.14:468][574]BlueprintLog: New page: Compile BP_Grid
+[2021.10.14-21.54.15:617][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.10.14-21.54.28:273][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2021.10.14-21.54.28:793][884]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_Grid9A4795744094E4014B2980A73342D488.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset'
+[2021.10.14-21.54.31:321][884]AssetCheck: New page: Asset Save: BP_Grid
+[2021.10.14-21.54.31:321][884]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-21.54.52:502][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.14-21.54.52:709][135]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/PathfindingTest_Auto200ADD0C14E748366C91FF08F1A884088.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/PathfindingTest_Auto2.umap'
+[2021.10.14-21.54.52:750][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/PathfindingTest' took 0.272
+[2021.10.14-21.54.52:759][135]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.272
+[2021.10.14-21.55.39:452][679]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Grid/W_GridTile.W_GridTile
+[2021.10.14-21.56.25:016][812]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.56.25:016][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.56.25:025][812]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.56.25:025][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.58.07:170][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2021.10.14-21.58.07:427][786]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_Grid055ADD2E4C939062B27970BECD68CDDD.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset'
+[2021.10.14-21.58.07:440][786]AssetCheck: New page: Asset Save: BP_Grid
+[2021.10.14-21.58.07:440][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-21.58.40:368][247]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2021.10.14-21.58.46:643][762]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-21.58.46:643][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-21.59.37:094][691]BlueprintLog: New page: Compile BP_Grid
+[2021.10.14-21.59.39:595][691]LogUObjectHash: Compacting FUObjectHashTables data took  31.62ms
+[2021.10.14-21.59.40:786][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2021.10.14-21.59.41:035][747]LogSavePackage: Moving '../../../../../Unity Projects/DivineCombat/DivineCombat/Saved/BP_GridD41311354BD7517F249B56869044D037.tmp' to '../../../../../Unity Projects/DivineCombat/DivineCombat/Content/Blueprints/Grid/BP_Grid.uasset'
+[2021.10.14-21.59.41:045][747]AssetCheck: New page: Asset Save: BP_Grid
+[2021.10.14-21.59.41:045][747]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2021.10.14-22.01.45:236][769]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-22.01.45:599][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-22.01.45:679][769]PIE: New page: PIE session: PathfindingTest (Oct 14, 2021, 2:01:45 PM)
+[2021.10.14-22.01.45:733][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-22.01.46:017][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.265216s)
+[2021.10.14-22.01.46:521][769]LogAIModule: Creating AISystem for world PathfindingTest
+[2021.10.14-22.01.46:553][769]LogPlayLevel: PIE: World Init took: (0.534400s)
+[2021.10.14-22.01.46:566][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/PathfindingTest.PathfindingTest to /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest (0.832311s)
+[2021.10.14-22.01.47:052][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.10.14-22.01.47:167][769]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-22.01.47:220][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-22.01.47:224][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-22.01.47:254][769]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-22.01.47:254][769]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-22.01.47:352][769]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-22.01.47:352][769]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-22.01.47:368][769]LogAudioMixer: Display: Using Audio Device Speakers (3- G533 Gaming Headset)
+[2021.10.14-22.01.47:402][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-22.01.47:402][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-22.01.47:413][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-22.01.47:429][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-22.01.47:429][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-22.01.47:429][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-22.01.47:460][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-22.01.47:460][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-22.01.47:460][769]LogInit: FAudioDevice initialized.
+[2021.10.14-22.01.47:460][769]LogAudio: Display: Audio Device (ID: 14) registered with world 'PathfindingTest'.
+[2021.10.14-22.01.47:853][769]LogLoad: Game class is 'BP_GameMode_C'
+[2021.10.14-22.01.48:150][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_PathfindingTest.PathfindingTest up for play (max tick rate 0) at 2021.10.14-18.01.48
+[2021.10.14-22.01.48:162][769]LogWorld: Bringing up level for play took: 0.171204
+[2021.10.14-22.01.48:241][769]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.10.14-22.01.48:545][769]PIE: Server logged in
+[2021.10.14-22.01.48:564][769]PIE: Play in editor total start time 3.192 seconds.
+[2021.10.14-22.01.54:162][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-22.01.54:162][ 57]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_PathfindingTest
+[2021.10.14-22.01.54:251][ 57]LogWorld: UWorld::CleanupWorld for PathfindingTest, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-22.01.54:287][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-22.01.54:447][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-22.01.54:549][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-22.01.54:592][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-22.01.54:657][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-22.01.54:667][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-22.01.54:816][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.14-22.01.54:924][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.10.14-22.01.55:143][ 60]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Texture.cpp:534 
+ with error E_OUTOFMEMORY, 
+ Size=1208x808x1 PF=11 D3DFormat=DXGI_FORMAT_R32G8X24_TYPELESS(0x00000013), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x4, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    107 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    114 = 7626 KB (2D 1208x808 PF_FloatRGBA RT UAV VRam) SceneColorDeferred VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     59 = 7626 KB (2D 1208x808 PF_FloatRGBA RT UAV) LightAccumulation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     88 = 7626 KB (2D 1208x808 PF_FloatRGBA RT) SceneColor
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     68 = 7626 KB (2D 1208x808 PF_FloatRGBA UAV) SSRTemporalAA
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    103 = 7626 KB (2D 1208x808 PF_FloatRGBA UAV) TemporalAA
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     44 = 4766 KB (2D 1208x808 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    108 = 3813 KB (2D 1208x808 PF_A2B10G10R10 RT) GBufferA
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    115 = 3813 KB (2D 1208x808 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    110 = 3813 KB (2D 1208x808 PF_B8G8R8A8 RT sRGB) GBufferC
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    109 = 3813 KB (2D 1208x808 PF_B8G8R8A8 RT VRam) GBufferB VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    111 = 3813 KB (2D 1208x808 PF_B8G8R8A8 RT) GBufferD
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    112 = 3813 KB (2D 1208x808 PF_B8G8R8A8 RT) GBufferE
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     45 = 2383 KB (2D 604x404 PF_DepthStencil) SmallDepthZ
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     51 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     53 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     55 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     52 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     54 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     56 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     60 = 1907 KB (2D 1208x404 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    113 = 1366 KB (2D 1024x512 PF_R16F UAV VRam) HZBFurthest VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     32 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     31 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     46 = 954 KB (2D 1208x808 PF_G8 RT UAV) ScreenSpaceAO
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     39 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     38 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     49 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     58 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     36 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     96 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     30 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     29 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     48 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     23 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     19 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     24 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     40 = 16 KB (2D 64x64 PF_R32_FLOAT UAV) HairCoverageLUT
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     20 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     21 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     25 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     35 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     34 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    105 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     57 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    102 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     50 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     37 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     42 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     95 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     22 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     27 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2021.10.14-22.01.59:685][ 60]LogConsoleResponse:    116 = 0 KB (2D 1208x808 PF_DepthStencil 4xMSAA) UnknownTexture2D
+[2021.10.14-22.01.59:691][ 60]LogConsoleResponse: 
+[2021.10.14-22.01.59:695][ 60]LogConsoleResponse: Pool: 113/120 MB (referenced/allocated)
+[2021.10.14-22.01.59:695][ 60]Cmd: rhi.DumpMemory
+[2021.10.14-22.02.00:083][ 60]RHI resource memory (not tracked by our allocator)
+[2021.10.14-22.02.00:093][ 60]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]         1450672  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]         9047328  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]         4155392  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]      1382701760  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]        22085700  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]          180300  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]        92228664  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]        14155780  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]       643756573  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.10.14-22.02.00:093][ 60]2071.371MB total
+[2021.10.14-22.02.00:104][ 60]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.10.14-22.02.00:104][ 60]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.10.14-22.02.00:104][ 60]Cmd: Mem FromReport
+[2021.10.14-22.02.00:122][ 60]LogMemory: Platform Memory Stats for Windows
+[2021.10.14-22.02.00:122][ 60]LogMemory: Process Physical Memory: 4543.20 MB used, 11834.65 MB peak
+[2021.10.14-22.02.00:122][ 60]LogMemory: Process Virtual Memory: 53534.50 MB used, 53565.21 MB peak
+[2021.10.14-22.02.00:122][ 60]LogMemory: Physical Memory: 10416.68 MB used,  5808.46 MB free, 16225.14 MB total
+[2021.10.14-22.02.00:122][ 60]LogMemory: Virtual Memory: 134217720.00 MB used,  4.70 MB free, 134217728.00 MB total
+[2021.10.14-22.02.00:122][ 60]LogMemory: 
+[2021.10.14-22.02.00:122][ 60]Allocator Stats for TBB: (not implemented)
+[2021.10.14-22.02.00:123][ 60]LogMemory: Memory Stats:
+[2021.10.14-22.02.00:123][ 60]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2021.10.14-22.02.00:123][ 60]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [0.94 / 0.00] MB
+[2021.10.14-22.02.00:123][ 60]LogMemory: Nametable memory usage = 6.70 MB
+[2021.10.14-22.02.00:144][ 60]Log file closed, 10/14/21 18:02:00
