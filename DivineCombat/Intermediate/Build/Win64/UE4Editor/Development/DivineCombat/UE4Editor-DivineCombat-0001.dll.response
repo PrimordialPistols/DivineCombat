@@ -35,6 +35,11 @@
 /FUNCTIONPADMIN
 "D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\DivineCombat.cpp.obj"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\MyActor.cpp.obj"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\TurnSystem.cpp.obj"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\DivineCombat.init.gen.cpp.obj"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\MyActor.gen.cpp.obj"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\TurnSystem.gen.cpp.obj"
 "D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Default.rc2.res"
 "D:\ProgramFiles\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "D:\ProgramFiles\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"

@@ -31,6 +31,7 @@
 /wd4244
 /wd4838
 /I .
+/I D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat
 /I D:\GitHub\DivineCombat\DivineCombat\Source
 /I Runtime
 /I Runtime\TraceLog\Public

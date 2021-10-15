@@ -16,7 +16,7 @@ enum class ETurnOrder : uint8
 };
 
 UCLASS(BlueprintType)
-class RPGPRACTICEGAME_API ATurnSystem : public AActor
+class DIVINECOMBAT_API ATurnSystem : public AActor
 {
 	GENERATED_BODY()
 

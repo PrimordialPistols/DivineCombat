@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DivineCombat.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{B54CC01D-F4A5-452B-AEE5-50F8FE7FE774}</UniqueIdentifier>
+      <UniqueIdentifier>{E4D2F558-719E-4469-928A-3FF9A7365059}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DivineCombat.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5674306A-1870-499E-AFA9-D7F2BF6B91BA}</UniqueIdentifier>
+      <UniqueIdentifier>{5E4D990C-F607-42E5-86A5-A39A2A028230}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DivineCombat">
-      <UniqueIdentifier>{3B38C49A-4BC3-443C-B233-409557FFC79E}</UniqueIdentifier>
+      <UniqueIdentifier>{202C7C94-B8C5-46FD-BCAE-0703FD599672}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DivineCombat\DivineCombat.Build.cs">
       <Filter>Source\DivineCombat</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\DivineCombat</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\DivineCombat\DivineCombat.h">
+      <Filter>Source\DivineCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DivineCombat\MyActor.cpp">
+      <Filter>Source\DivineCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DivineCombat\MyActor.h">
       <Filter>Source\DivineCombat</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\DivineCombat\TurnSystem.cpp">

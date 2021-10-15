@@ -37,7 +37,10 @@ void ATurnSystem::BattleStart()
 
 void ATurnSystem::PlayerTurn()
 {
-	//PlayerAttack();
+	/** 
+	* Using some place holder functions that would be called here
+	*/
+	//PlayerAttack(); 
 	//PlayerActions();
 	UE_LOG(LogTemp, Warning, TEXT("Player turn"));
 	if (bIsDead)
@@ -57,6 +60,7 @@ void ATurnSystem::enemyTurn()
 	//EnemyAttack();
 	//EnemyActions();
 	UE_LOG(LogTemp, Warning, TEXT("Enemy Turn"));
+	bIsDead = true; //To end the loop TEMP
 	if (bIsDead)
 	{
 		TurnOrder = ETurnOrder::ETO_WON;
