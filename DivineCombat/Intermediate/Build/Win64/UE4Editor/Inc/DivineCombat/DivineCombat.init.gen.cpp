@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeDivineCombat_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x22966956,
+				0x35F862D4,
 				0x480E8F41,
 				METADATA_PARAMS(nullptr, 0)
 			};

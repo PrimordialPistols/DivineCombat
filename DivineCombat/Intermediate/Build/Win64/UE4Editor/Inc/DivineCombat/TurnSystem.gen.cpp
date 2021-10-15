@@ -81,8 +81,136 @@ void EmptyLinkFunctionForGeneratedCodeTurnSystem() {}
 		}
 		return ReturnEnum;
 	}
+	DEFINE_FUNCTION(ATurnSystem::execEndBattle)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->EndBattle();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ATurnSystem::execEnemyTurn)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->EnemyTurn();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ATurnSystem::execPlayerTurn)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->PlayerTurn();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ATurnSystem::execBattleStart)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->BattleStart();
+		P_NATIVE_END;
+	}
 	void ATurnSystem::StaticRegisterNativesATurnSystem()
 	{
+		UClass* Class = ATurnSystem::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "BattleStart", &ATurnSystem::execBattleStart },
+			{ "EndBattle", &ATurnSystem::execEndBattle },
+			{ "EnemyTurn", &ATurnSystem::execEnemyTurn },
+			{ "PlayerTurn", &ATurnSystem::execPlayerTurn },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_ATurnSystem_BattleStart_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ATurnSystem_BattleStart_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Turn System" },
+		{ "ModuleRelativePath", "TurnSystem.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ATurnSystem_BattleStart_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ATurnSystem, nullptr, "BattleStart", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ATurnSystem_BattleStart_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ATurnSystem_BattleStart_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ATurnSystem_BattleStart()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ATurnSystem_BattleStart_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ATurnSystem_EndBattle_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ATurnSystem_EndBattle_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Turn System" },
+		{ "ModuleRelativePath", "TurnSystem.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ATurnSystem_EndBattle_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ATurnSystem, nullptr, "EndBattle", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ATurnSystem_EndBattle_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ATurnSystem_EndBattle_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ATurnSystem_EndBattle()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ATurnSystem_EndBattle_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Turn System" },
+		{ "ModuleRelativePath", "TurnSystem.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ATurnSystem, nullptr, "EnemyTurn", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ATurnSystem_EnemyTurn()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ATurnSystem_EnemyTurn_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Turn System" },
+		{ "ModuleRelativePath", "TurnSystem.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ATurnSystem, nullptr, "PlayerTurn", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ATurnSystem_PlayerTurn()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ATurnSystem_PlayerTurn_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ATurnSystem_NoRegister()
 	{
@@ -91,6 +219,7 @@ void EmptyLinkFunctionForGeneratedCodeTurnSystem() {}
 	struct Z_Construct_UClass_ATurnSystem_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -111,6 +240,12 @@ void EmptyLinkFunctionForGeneratedCodeTurnSystem() {}
 	UObject* (*const Z_Construct_UClass_ATurnSystem_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_AActor,
 		(UObject* (*)())Z_Construct_UPackage__Script_DivineCombat,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_ATurnSystem_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_ATurnSystem_BattleStart, "BattleStart" }, // 757655497
+		{ &Z_Construct_UFunction_ATurnSystem_EndBattle, "EndBattle" }, // 3849637567
+		{ &Z_Construct_UFunction_ATurnSystem_EnemyTurn, "EnemyTurn" }, // 2544258978
+		{ &Z_Construct_UFunction_ATurnSystem_PlayerTurn, "PlayerTurn" }, // 1913313319
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATurnSystem_Statics::Class_MetaDataParams[] = {
@@ -151,11 +286,11 @@ void EmptyLinkFunctionForGeneratedCodeTurnSystem() {}
 		"Engine",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		Z_Construct_UClass_ATurnSystem_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		UE_ARRAY_COUNT(Z_Construct_UClass_ATurnSystem_Statics::PropPointers),
 		0,
 		0x009000A4u,
@@ -170,7 +305,7 @@ void EmptyLinkFunctionForGeneratedCodeTurnSystem() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATurnSystem, 3607283018);
+	IMPLEMENT_CLASS(ATurnSystem, 3845774021);
 	template<> DIVINECOMBAT_API UClass* StaticClass<ATurnSystem>()
 	{
 		return ATurnSystem::StaticClass();

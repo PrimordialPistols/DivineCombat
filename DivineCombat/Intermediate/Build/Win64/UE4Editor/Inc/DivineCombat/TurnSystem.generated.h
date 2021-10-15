@@ -14,8 +14,22 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define DIVINECOMBAT_TurnSystem_generated_h
 
 #define DivineCombat_Source_DivineCombat_TurnSystem_h_21_SPARSE_DATA
-#define DivineCombat_Source_DivineCombat_TurnSystem_h_21_RPC_WRAPPERS
-#define DivineCombat_Source_DivineCombat_TurnSystem_h_21_RPC_WRAPPERS_NO_PURE_DECLS
+#define DivineCombat_Source_DivineCombat_TurnSystem_h_21_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execEndBattle); \
+	DECLARE_FUNCTION(execEnemyTurn); \
+	DECLARE_FUNCTION(execPlayerTurn); \
+	DECLARE_FUNCTION(execBattleStart);
+
+
+#define DivineCombat_Source_DivineCombat_TurnSystem_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execEndBattle); \
+	DECLARE_FUNCTION(execEnemyTurn); \
+	DECLARE_FUNCTION(execPlayerTurn); \
+	DECLARE_FUNCTION(execBattleStart);
+
+
 #define DivineCombat_Source_DivineCombat_TurnSystem_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATurnSystem(); \

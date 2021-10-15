@@ -38,9 +38,13 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void BattleStart();
+	UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void PlayerTurn();
-	void enemyTurn();
+	UFUNCTION(BlueprintCallable, Category = "Turn System")
+	void EnemyTurn();
+	UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void EndBattle();
 
 };

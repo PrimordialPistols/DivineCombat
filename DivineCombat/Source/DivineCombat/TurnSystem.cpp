@@ -51,11 +51,11 @@ void ATurnSystem::PlayerTurn()
 	else
 	{
 		TurnOrder = ETurnOrder::ETO_ENEMYTURN;
-		enemyTurn();
+		EnemyTurn();
 	}
 }
 
-void ATurnSystem::enemyTurn()
+void ATurnSystem::EnemyTurn()
 {
 	//EnemyAttack();
 	//EnemyActions();
@@ -69,7 +69,8 @@ void ATurnSystem::enemyTurn()
 	else
 	{
 		TurnOrder = ETurnOrder::ETO_PLAYERTURN;
-		enemyTurn();
+		
+		EnemyTurn();
 	}
 }
 
