@@ -1,21 +1,14 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\DivineCombat).
   Creating makefile for DivineCombatEditor (no existing makefile)
-  Parsing headers for DivineCombatEditor
-    Running UnrealHeaderTool "D:\GitHub\DivineCombat\DivineCombat\DivineCombat.uproject" "D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\DivineCombatEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\cynth\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for DivineCombatEditor in 4.5966289 seconds
+  Deleted hot-reload file: D:\GitHub\DivineCombat\DivineCombat\Binaries\Win64\UE4Editor-DivineCombat-0001.dll
+  Deleted hot-reload file: D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat-0001.lib
   Building DivineCombatEditor...
   Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 9 actions with 8 processes...
-    [1/9] ECombatSystem.cpp
-    [2/9] DivineCombat.cpp
-    [3/9] DivineCombat.init.gen.cpp
-    [4/9] ECombatSystem.gen.cpp
-    [5/9] Enemy.gen.cpp
-    [6/9] Enemy.cpp
-    [7/9] UE4Editor-DivineCombat-0002.lib
-       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat-0002.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat-0002.exp
-    [8/9] UE4Editor-DivineCombat-0002.dll
-       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat-0002.suppressed.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat-0002.suppressed.exp
-    [9/9] DivineCombatEditor.target
-  Total time in Parallel executor: 2.74 seconds
-  Total execution time: 9.43 seconds
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-DivineCombat.lib
+       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.exp
+    [2/3] UE4Editor-DivineCombat.dll
+       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.suppressed.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.suppressed.exp
+    [3/3] DivineCombatEditor.target
+  Total time in Parallel executor: 1.35 seconds
+  Total execution time: 3.40 seconds
