@@ -1,0 +1,1383 @@
+﻿Log file open, 10/14/21 02:26:07
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DivineCombat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.912061
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Dart/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.14-06.26.08:708][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.14-06.26.08:708][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:709][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-06.26.08:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-06.26.08:736][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-06.26.08:737][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-06.26.08:737][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.14-06.26.08:738][  0]LogHAL: Display: Platform has ~ 32 GB [34268127232 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.14-06.26.08:738][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.14-06.26.08:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.14-06.26.08:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.14-06.26.08:739][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.14-06.26.08:740][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.14-06.26.08:740][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.14-06.26.08:740][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.14-06.26.08:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.14-06.26.08:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Editor.ini]
+[2021.10.14-06.26.08:741][  0]LogInit: Computer: DESKTOP-UKK9TKN
+[2021.10.14-06.26.08:741][  0]LogInit: User: Dart
+[2021.10.14-06.26.08:741][  0]LogInit: CPU Page size=4096, Cores=12
+[2021.10.14-06.26.08:741][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.14-06.26.08:741][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.10.14-06.26.08:741][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.14-06.26.08:741][  0]LogMemory: Process Physical Memory: 143.95 MB used, 143.95 MB peak
+[2021.10.14-06.26.08:741][  0]LogMemory: Process Virtual Memory: 131.79 MB used, 131.79 MB peak
+[2021.10.14-06.26.08:741][  0]LogMemory: Physical Memory: 7467.48 MB used,  25213.16 MB free, 32680.63 MB total
+[2021.10.14-06.26.08:741][  0]LogMemory: Virtual Memory: 134190664.00 MB used,  27066.70 MB free, 134217728.00 MB total
+[2021.10.14-06.26.08:755][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.14-06.26.08:953][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.14-06.26.08:954][  0]LogInit: Using OS detected language (en-US).
+[2021.10.14-06.26.08:954][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.14-06.26.08:960][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.14-06.26.09:240][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.14-06.26.09:267][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.14-06.26.09:314][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.14-06.26.09:314][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.14-06.26.11:185][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-06.26.11:185][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.14-06.26.11:185][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.14-06.26.11:185][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.14-06.26.11:306][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2021.10.14-06.26.11:306][  0]LogD3D11RHI:       11048/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.14-06.26.11:308][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.14-06.26.11:308][  0]LogD3D11RHI:       0/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.14-06.26.11:308][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.14-06.26.11:316][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.14-06.26.11:316][  0]LogD3D11RHI:     GPU DeviceId: 0x1e04 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.14-06.26.11:316][  0]LogWindows: EnumDisplayDevices:
+[2021.10.14-06.26.11:316][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2021.10.14-06.26.11:317][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2021.10.14-06.26.11:317][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.10.14-06.26.11:317][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2021.10.14-06.26.11:317][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.14-06.26.11:317][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2021.10.14-06.26.11:319][  0]LogD3D11RHI:   Driver Version: 461.72 (internal:27.21.14.6172, unified:461.72)
+[2021.10.14-06.26.11:319][  0]LogD3D11RHI:      Driver Date: 2-23-2021
+[2021.10.14-06.26.11:319][  0]LogRHI: Texture pool is 7733 MB (70% of 11048 MB)
+[2021.10.14-06.26.11:388][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.14-06.26.11:388][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.14-06.26.11:388][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.14-06.26.11:390][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2021.10.14-06.26.11:448][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.14-06.26.11:455][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.14-06.26.11:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.14-06.26.11:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.14-06.26.11:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.14-06.26.11:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.14-06.26.12:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.14-06.26.12:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.14-06.26.12:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.14-06.26.12:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.14-06.26.12:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.14-06.26.12:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.14-06.26.12:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.14-06.26.12:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.14-06.26.12:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.14-06.26.12:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.14-06.26.12:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.14-06.26.12:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.14-06.26.12:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.14-06.26.12:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.14-06.26.12:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.14-06.26.12:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.14-06.26.12:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.14-06.26.12:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.14-06.26.12:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.14-06.26.12:203][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.14-06.26.12:245][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.14-06.26.12:546][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.14-06.26.12:546][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Intermediate/Shaders/WorkingDirectory/3960/).
+[2021.10.14-06.26.12:547][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dart/AppData/Local/Temp/UnrealShaderWorkingDir/C80D6DA040C1EEEEFC6650891ADF9E5A/'.
+[2021.10.14-06.26.12:547][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.14-06.26.12:547][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.14-06.26.14:889][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: Loaded boot cache 0.25s 77MB C:/Users/Dart/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dart/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-06.26.15:144][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.14-06.26.15:166][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.14-06.26.15:166][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.14-06.26.15:167][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.14-06.26.15:179][  0]LogDerivedDataCache: Speed tests for C:/Users/Dart/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.14-06.26.15:179][  0]LogDerivedDataCache: Display: Performance to C:/Users/Dart/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=136.89MBs, RandomWriteSpeed=211.16MBs. Assigned SpeedClass 'Local'
+[2021.10.14-06.26.15:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dart/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.14-06.26.15:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.14-06.26.15:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.14-06.26.15:226][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.14-06.26.15:240][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.14-06.26.15:276][  0]LogAssetRegistry: FAssetRegistry took 0.0062 seconds to start up
+[2021.10.14-06.26.15:582][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-06.26.15:582][  0]LogInit: Active device profile: [000001FDE6477000][000001FDE4EF3BC0 49] Windows
+[2021.10.14-06.26.15:582][  0]LogInit: Profiles: [000001FDE6477000][000001FDE4EF3BC0 49] Windows, [000001FDE6435200][000001FDE4EFBD40 49] WindowsNoEditor, [000001FDE6475200][000001FDE4EFE200 49] WindowsServer, [000001FDE6436900][000001FDE4F02380 49] WindowsClient, [000001FDE6476800][000001FDE4F06500 49] IOS, [000001FDE6435A00][000001FDE4F0A680 49] iPadAir, [000001FDE6475900][000001FDE4F0E800 49] iPadAir2, [000001FDE6400400][000001FDE4F16AC0 49] IPadPro, [000001FDE6400500][000001FDE4F12B00 49] iPadAir3, [000001FDE6477200][000001FDE4F1AC80 49] iPadAir4, [000001FDE6402C00][000001FDE4F1EE00 49] iPadMini2, [000001FDE6475000][000001FDE4F22F80 49] iPadMini3, [000001FDE6400700][000001FDE4F27100 49] iPadMini4, [000001FDE6476B00][000001FDE4F2B280 49] iPadMini5, [000001FDE63F3C00][000001FDE4725540 49] iPhone6, [000001FDE63F3D00][000001FDE4721580 49] iPodTouch6, [000001FDE6402D00][000001FDE47297C0 49] iPhone7, [000001FDE6402E00][000001FDE4EF7800 49] iPodTouch7, [000001FDE63F1600][000001FDE472D940 49] iPhone5S, [000001FDE6400D00][000001FDE4735AC0 49] iPhone6Plus, [000001FDE63F3E00][000001FDE4739C40 49] iPhone6S, [000001FDE6400900][000001FDE473C100 49] iPhone6SPlus, [000001FDE63F1400][000001FDE4740280 49] iPhone7Plus, [000001FDE6402400][000001FDE4744400 49] iPhoneSE, [000001FDE63F2700][000001FDE4748580 49] iPhone8, [000001FDE6400200][000001FDE474C700 49] iPhone8Plus, [000001FDE63F2F00][000001FDE4750880 49] iPhoneX, [000001FDE6403200][000001FDE4754A00 49] iPhoneXS, [000001FDE63F3F00][000001FDE4758B80 49] iPhoneXSMax, [000001FDE6402A00][000001FDE475CD00 49] iPhoneXR, [000001FDE63F2600][000001FDE4760E80 49] iPhone11, [000001FDE6402800][000001FDE4765000 49] iPhone11Pro, [000001FDE63F1700][000001FDE4769180 49] iPhone11ProMax, [000001FDE6401200][000001FDE476D300 49] iPhoneSE2, [000001FDE63F1D00][000001FDE4771480 49] iPhone12Mini, [000001FDE6402700][000001FDE4775600 49] iPhone12, [000001FDE63F0900][000001FDE4731740 49] iPhone12Pro, [000001FDE6400600][000001FDE4779880 49] iPhone12ProMax, [000001FDE63F2400][000001FDE477D9C0 49] iPadPro105, [000001FDE6403600][000001FDE4785B40 49] iPadPro129, [000001FDE63F0E00][000001FDE4789CC0 49] iPadPro97, [000001FDE6402B00][000001FDE478C180 49] iPadPro2_129, [000001FDE63F2E00][000001FDE4790300 49] iPad5, [000001FDE6403800][000001FDE4794480 49] iPad6, [000001FDE63F0800][000001FDE4798600 49] iPad7, [000001FDE6401B00][000001FDE479C780 49] iPad8, [000001FDE63F1500][000001FDE47A0900 49] iPadPro11, [000001FDE6400100][000001FDE47A4A80 49] iPadPro2_11, [000001FDE63F0600][000001FDE47A8C00 49] iPadPro3_129, [000001FDE6402100][000001FDE47ACD80 49] iPadPro4_129, [000001FDE63F0A00][000001FDE47B0F00 49] AppleTV, [000001FDE6401D00][000001FDE47B5080 49] AppleTV4K, [000001FDE63F3000][000001FDE47B9200 49] TVOS, [000001FDE6400F00][000001FDE47BD380 49] Mac, [000001FDE63F3500][000001FDE47C1500 49] MacClient, [000001FDE6401600][000001FDE47C5680 49] MacNoEditor, [000001FDE63F3400][000001FDE47817C0 49] MacServer, [000001FDE6437A00][000001FDE47C9900 49] Linux, [000001FDE64C4E00][000001FDE47CDA40 49] LinuxAArch64, [000001FDE6436200][000001FDE47D1B80 49] LinuxNoEditor, [000001FDE64C4C00][000001FDE47D9D00 49] LinuxAArch64NoEditor, [000001FDE6436F00][000001FDE47DC1C0 49] LinuxClient, [000001FDE64C5200][000001FDE47E0340 49] LinuxAArch64Client, [000001FDE6434D00][000001FDE47E44C0 49] LinuxServer, [000001FDE64C4600][000001FDE47E8640 49] LinuxAArch64Server, [000001FDE6435500][000001FDE47EC7C0 49] Android, [000001FDE64C5100][000001FDE47F0940 49] Android_Low, [000001FDE6437F00][000001FDE47F4AC0 49] Android_Mid, [000001FDE64C4100][000001FDE47F8C40 49] Android_High, [000001FDE6435300][000001FDE47FCDC0 49] Android_Default, [000001FDE63F3A00][000001FDE4800F40 49] Android_Adreno4xx, [000001FDE6435000][000001FDE48050C0 49] Android_Adreno5xx_Low, [000001FDE63F1800][000001FDE4809240 49] Android_Adreno5xx, [000001FDE6435C00][000001FDE480D3C0 49] Android_Adreno6xx, [000001FDE63F0D00][000001FDE4811540 49] Android_Adreno6xx_Vulkan, [000001FDE6434500][000001FDE48156C0 49] Android_Mali_T6xx, [000001FDE63F0F00][000001FDE47D5800 49] Android_Mali_T7xx, [000001FDE6437D00][000001FDE4819940 49] Android_Mali_T8xx, [000001FDE63F3700][000001FDE481DA80 49] Android_Mali_G71, [000001FDE6437200][000001FDE4821BC0 49] Android_Mali_G72, [000001FDE63F1B00][000001FDE4829D40 49] Android_Mali_G72_Vulkan, [000001FDE6437000][000001FDE482C200 49] Android_Mali_G76, [000001FDE63F1100][000001FDE4830380 49] Android_Mali_G76_Vulkan, [000001FDE6436500][000001FDE4834500 49] Android_Mali_G77, [000001FDE63F1E00][000001FDE4838680 49] Android_Mali_G77_Vulkan, [000001FDE6437700][000001FDE483C800 49] Android_Vulkan_SM5, [000001FDE63F1000][000001FDE4840980 49] Android_PowerVR_G6xxx, [000001FDE6437E00][000001FDE4844B00 49] Android_PowerVR_GT7xxx, [000001FDE63F2800][000001FDE4848C80 49] Android_PowerVR_GE8xxx, [000001FDE6435800][000001FDE484CE00 49] Android_PowerVR_GM9xxx, [000001FDE63F0300][000001FDE4850F80 49] Android_PowerVR_GM9xxx_Vulkan, [000001FDE6434300][000001FDE4855100 49] Android_TegraK1, [000001FDE63F0200][000001FDE4859280 49] Android_Unknown_Vulkan, [000001FDE6437100][000001FDE485D400 49] Lumin, [000001FDE63F2B00][000001FDE4861580 49] Lumin_Desktop, [000001FDE6434F00][000001FDE4865700 49] HoloLens, 
+[2021.10.14-06.26.15:812][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.14-06.26.15:812][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.14-06.26.15:812][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.14-06.26.15:812][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.14-06.26.15:813][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.14-06.26.15:880][  0]LogNetVersion: DivineCombat 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2491796348)
+[2021.10.14-06.26.17:133][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.14-06.26.17:169][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.034965 seconds
+[2021.10.14-06.26.17:175][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.14-06.26.17:175][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.14-06.26.17:175][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.14-06.26.17:880][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.14-06.26.17:890][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.14-06.26.18:497][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.18:497][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.18:516][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.18:526][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.18:529][  0]LogUProjectInfo: Found projects:
+[2021.10.14-06.26.18:545][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.18:983][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.14-06.26.19:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-06.26.19:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.14-06.26.19:095][  0]LogCollectionManager: Loaded 0 collections in 0.002252 seconds
+[2021.10.14-06.26.19:145][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Collections/' took 0.00s
+[2021.10.14-06.26.19:145][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Developers/Dart/Collections/' took 0.00s
+[2021.10.14-06.26.19:145][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Collections/' took 0.00s
+[2021.10.14-06.26.19:145][  0]LogOcInput: OculusInput pre-init called
+[2021.10.14-06.26.19:165][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.14-06.26.19:165][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.14-06.26.19:278][  0]LogEngine: Initializing Engine...
+[2021.10.14-06.26.19:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.14-06.26.19:281][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.14-06.26.19:283][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.14-06.26.19:547][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.14-06.26.19:581][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.14-06.26.19:586][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.14-06.26.19:591][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.14-06.26.19:591][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-06.26.19:592][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-06.26.19:592][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-06.26.19:593][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-06.26.19:593][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-06.26.19:613][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-06.26.19:613][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-06.26.19:633][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (3- ASTRO Wireless Transmitter )
+[2021.10.14-06.26.19:634][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-06.26.19:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-06.26.19:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-06.26.19:651][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-06.26.19:652][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-06.26.19:652][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-06.26.19:652][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-06.26.19:652][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-06.26.19:652][  0]LogInit: FAudioDevice initialized.
+[2021.10.14-06.26.19:653][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.14-06.26.19:654][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.14-06.26.19:726][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/Dart/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.14-06.26.19:727][  0]LogInit: Texture streaming: Enabled
+[2021.10.14-06.26.19:742][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.14-06.26.19:746][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.14-06.26.19:746][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.14-06.26.19:747][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.14-06.26.19:894][  0]LogInit: Transaction tracking system initialized
+[2021.10.14-06.26.19:942][  0]BlueprintLog: New page: Editor Load
+[2021.10.14-06.26.20:096][  0]LocalizationService: Localization service is disabled
+[2021.10.14-06.26.20:151][  0]TimingProfiler: Initialize
+[2021.10.14-06.26.20:152][  0]TimingProfiler: OnSessionChanged
+[2021.10.14-06.26.20:152][  0]LoadingProfiler: Initialize
+[2021.10.14-06.26.20:153][  0]LoadingProfiler: OnSessionChanged
+[2021.10.14-06.26.20:153][  0]NetworkingProfiler: Initialize
+[2021.10.14-06.26.20:153][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.14-06.26.20:153][  0]MemoryProfiler: Initialize
+[2021.10.14-06.26.20:153][  0]MemoryProfiler: OnSessionChanged
+[2021.10.14-06.26.20:491][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.14-06.26.20:491][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.14-06.26.20:767][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/' took 0.00s
+[2021.10.14-06.26.20:884][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.14-06.26.20:892][  0]SourceControl: Source control is disabled
+[2021.10.14-06.26.20:893][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.391
+[2021.10.14-06.26.20:894][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-06.26.20:901][  0]LightingResults: New page: Lighting Build
+[2021.10.14-06.26.20:905][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-06.26.20:906][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-06.26.20:907][  0]MapCheck: New page: Map Check
+[2021.10.14-06.26.20:907][  0]LightingResults: New page: Lighting Build
+[2021.10.14-06.26.20:923][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.14-06.26.21:184][  0]LogLinker: Warning: [AssetLog] C:\Users\Dart\Documents\GitHub\DivineCombat\DivineCombat\Content\TopDownBP\Maps\TopDownExampleMap.umap: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:185][  0]LogLinker: Warning: [AssetLog] C:\Users\Dart\Documents\GitHub\DivineCombat\DivineCombat\Content\TopDownBP\Maps\TopDownExampleMap.umap: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:199][  0]LogLinker: Warning: [AssetLog] C:\Users\Dart\Documents\GitHub\DivineCombat\DivineCombat\Content\TopDownBP\Maps\TopDownExampleMap.umap: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:199][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:200][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:254][  0]LogLinker: Warning: [AssetLog] C:\Users\Dart\Documents\GitHub\DivineCombat\DivineCombat\Content\TopDownBP\Maps\TopDownExampleMap.umap: Failed to load '/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData': Can't find file.
+[2021.10.14-06.26.21:254][  0]LoadErrors: Failed to load /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData Referenced by PersistentLevel
+[2021.10.14-06.26.21:372][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.10.14-06.26.21:373][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.14-06.26.21:405][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-06.26.21:410][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.10.14-06.26.21:416][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.14-06.26.21:417][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-06.26.21:417][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2021.10.14-06.26.21:417][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.524
+[2021.10.14-06.26.21:438][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.937
+[2021.10.14-06.26.21:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-06.26.21:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-06.26.21:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-06.26.21:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-06.26.21:667][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3601 classes and 859 folders.
+[2021.10.14-06.26.21:675][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.14-06.26.21:685][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-06.26.21:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-06.26.21:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.10.14-06.26.21:692][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-06.26.21:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-06.26.21:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.14-06.26.21:697][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.14-06.26.21:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.14-06.26.21:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.14-06.26.21:701][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-06.26.21:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-06.26.21:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.14-06.26.21:706][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-06.26.21:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-06.26.21:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.14-06.26.21:709][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-06.26.21:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-06.26.21:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.14-06.26.21:714][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-06.26.21:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-06.26.21:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.14-06.26.21:719][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-06.26.21:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-06.26.21:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.14-06.26.21:725][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-06.26.21:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-06.26.21:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.14-06.26.21:730][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.14-06.26.21:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.14-06.26.21:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.14-06.26.21:735][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.14-06.26.21:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.14-06.26.21:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.14-06.26.21:740][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-06.26.21:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-06.26.21:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.14-06.26.21:746][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-06.26.21:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-06.26.21:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.14-06.26.21:751][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-06.26.21:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-06.26.21:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.14-06.26.21:756][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.14-06.26.21:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.14-06.26.21:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.14-06.26.21:762][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-06.26.21:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-06.26.21:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.10.14-06.26.21:766][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.14-06.26.21:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.14-06.26.21:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.10.14-06.26.21:771][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-06.26.21:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-06.26.21:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.10.14-06.26.21:777][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-06.26.21:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-06.26.21:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.10.14-06.26.21:784][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-06.26.21:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-06.26.21:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.10.14-06.26.21:788][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.14-06.26.21:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.14-06.26.21:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.10.14-06.26.21:793][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.14-06.26.21:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.14-06.26.21:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.10.14-06.26.21:798][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.14-06.26.21:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.14-06.26.21:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.10.14-06.26.21:804][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.14-06.26.21:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.14-06.26.21:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.10.14-06.26.21:809][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.14-06.26.21:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.14-06.26.21:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.10.14-06.26.21:814][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.14-06.26.21:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.14-06.26.21:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.14-06.26.21:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.10.14-06.26.21:983][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-06.26.21:988][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.14-06.26.22:151][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-06.26.22:151][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.14-06.26.22:151][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.10.14-06.26.22:151][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.14-06.26.22:151][  0]LogLoad: (Engine Initialization) Total time: 17.65 seconds
+[2021.10.14-06.26.22:151][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.14-06.26.22:152][  0]LogInit: First time updating LLM stats...
+[2021.10.14-06.26.22:195][  0]LogAssetRegistry: Asset discovery search completed in 6.9215 seconds
+[2021.10.14-06.26.22:198][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.14-06.26.22:221][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.14-06.26.22:277][  0]LogSlate: Took 0.004599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.14-06.26.22:282][  0]LogSlate: Took 0.003778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.14-06.26.22:290][  0]LogSlate: Took 0.004947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.14-06.26.22:436][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-06.26.22:436][  0]LogSlate: Took 0.006817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.14-06.26.24:833][234]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-06.26.24:837][234]LogSlate: Window 'Message Log' being destroyed
+[2021.10.14-06.26.29:276][690]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.10.14-06.26.29:283][690]LogContentBrowser: Creating deferred item: NewWorld
+[2021.10.14-06.26.53:460][454]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2021.10.14-06.26.53:464][454]LogContentBrowser: End creating deferred item NewWorld
+[2021.10.14-06.27.28:453][338]LogContentBrowser: Attempting asset rename: NewWorld -> WhiteBox_Colosseum
+[2021.10.14-06.27.28:480][338]LogSlate: Took 0.005514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-06.27.28:535][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.14-06.27.28:537][338]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum92FE27314EC6EC3E6C7E1CAF427DCE22.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-06.27.28:539][338]LogFileHelpers: Saving map 'WhiteBox_Colosseum' took 0.007
+[2021.10.14-06.27.28:604][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.14-06.27.28:613][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.10.14-06.27.28:615][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.10.14-06.27.28:636][338]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-06.27.28:636][338]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-06.28.09:289][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.10.14-06.28.09:311][331]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/TopDownExampleMapB8C99DE746876749894E83B5361BA34F.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.10.14-06.28.09:324][331]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.10.14-06.28.09:324][331]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.14-06.28.21:673][ 53]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:7880).
+[2021.10.14-06.28.29:458][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.14-06.28.29:483][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-06.28.29:483][900]Cmd: MAP LOAD FILE="../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-06.28.29:483][900]LightingResults: New page: Lighting Build
+[2021.10.14-06.28.29:483][900]LoadErrors: New page: Loading map: WhiteBox_Colosseum.umap
+[2021.10.14-06.28.29:509][900]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-06.28.29:509][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-06.28.29:509][900]MapCheck: New page: Map Check
+[2021.10.14-06.28.29:509][900]LightingResults: New page: Lighting Build
+[2021.10.14-06.28.29:511][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-06.28.29:519][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.14-06.28.29:519][900]LogAudio: Display: Audio Device (ID: 1) registered with world 'WhiteBox_Colosseum'.
+[2021.10.14-06.28.29:564][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-06.28.29:564][900]LogAIModule: Creating AISystem for world WhiteBox_Colosseum
+[2021.10.14-06.28.29:567][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.14-06.28.29:570][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-06.28.29:570][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.10.14-06.28.29:570][900]LogFileHelpers: Loading map 'WhiteBox_Colosseum' took 0.087
+[2021.10.14-06.29.10:284][644]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-06.32.06:683][681]LogEditorViewport: Clicking Background
+[2021.10.14-06.32.17:738][826]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-06.34.42:734][557]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-06.37.08:031][260]LogSlate: Took 0.005313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.14-06.37.15:772][806]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-06.37.38:892][514]Cmd: TRANSACTION UNDO
+[2021.10.14-06.37.38:892][514]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.37.38:903][514]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.37.38:903][514]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-06.37.38:903][514]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.37.39:360][524]Cmd: TRANSACTION UNDO
+[2021.10.14-06.37.39:360][524]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.37.39:371][524]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.37.39:371][524]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-06.37.39:371][524]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.37.39:929][566]Cmd: TRANSACTION UNDO
+[2021.10.14-06.37.39:929][566]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.37.39:951][566]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.37.39:951][566]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-06.37.39:951][566]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.37.50:765][555]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-06.37.56:676][240]Cmd: TRANSACTION UNDO
+[2021.10.14-06.37.56:676][240]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.40.53:781][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.14-06.40.53:792][711]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum_Auto1D02B74EB4AC3DD44070A95823D32DFCC.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/WhiteBox_Colosseum_Auto1.umap'
+[2021.10.14-06.40.53:793][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/WhiteBox_Colosseum' took 0.016
+[2021.10.14-06.40.53:793][711]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2021.10.14-06.42.00:122][837]LogEditorViewport: Clicking Background
+[2021.10.14-06.42.30:077][275]Cmd: DELETE
+[2021.10.14-06.42.30:077][275]Cmd: ACTOR DELETE
+[2021.10.14-06.42.30:082][275]LogEditorActor: Deleted Actor: Brush
+[2021.10.14-06.42.30:085][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.14-06.42.30:091][275]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.10.14-06.42.56:503][954]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-06.43.26:524][469]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.26:524][469]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.43.26:537][469]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.43.26:537][469]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.43.26:537][469]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.43.28:099][553]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.28:099][553]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.10.14-06.43.28:916][630]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.28:916][630]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.43.28:934][630]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.43.28:934][630]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.43.28:934][630]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.43.33:149][109]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.33:149][109]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.43.33:161][109]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.43.33:161][109]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.43.33:161][109]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.43.36:988][466]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.36:988][466]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.43.36:995][466]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.43.36:995][466]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.43.36:995][466]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.43.59:931][ 54]Cmd: TRANSACTION UNDO
+[2021.10.14-06.43.59:931][ 54]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.43.59:944][ 54]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.43.59:944][ 54]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.43.59:944][ 54]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.12:377][322]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.12:377][322]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.44.12:384][322]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.44.12:384][322]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.44.12:384][322]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.13:093][336]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.13:093][336]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.44.13:164][336]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.44.13:164][336]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.44.13:164][336]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.30:285][300]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.30:285][300]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.44.30:297][300]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.44.30:297][300]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.44.30:297][300]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.31:292][328]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.31:292][328]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.44.32:242][410]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.32:242][410]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.44.32:268][410]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.44.32:268][410]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.44.32:268][410]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.34:940][716]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.34:940][716]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.44.50:668][457]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.50:668][457]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.44.50:675][457]LogGeometryMode: Warning: Unable to find 3 Poly(s) in new BSP
+[2021.10.14-06.44.50:675][457]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.44.50:675][457]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.44.54:696][813]Cmd: TRANSACTION UNDO
+[2021.10.14-06.44.54:696][813]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.45.14:641][927]Cmd: TRANSACTION UNDO
+[2021.10.14-06.45.14:641][927]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.45.14:657][927]LogGeometryMode: Warning: Unable to find 10 Poly(s) in new BSP
+[2021.10.14-06.45.14:657][927]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.45.14:657][927]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.45.21:231][570]Cmd: TRANSACTION UNDO
+[2021.10.14-06.45.21:231][570]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.45.21:240][570]LogGeometryMode: Warning: Unable to find 12 Poly(s) in new BSP
+[2021.10.14-06.45.21:240][570]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.45.21:240][570]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.45.27:397][218]Cmd: TRANSACTION UNDO
+[2021.10.14-06.45.27:397][218]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.45.27:405][218]LogGeometryMode: Warning: Unable to find 12 Poly(s) in new BSP
+[2021.10.14-06.45.27:405][218]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.45.27:405][218]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.45.37:352][260]Cmd: TRANSACTION UNDO
+[2021.10.14-06.45.37:352][260]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.45.37:364][260]LogGeometryMode: Warning: Unable to find 14 Poly(s) in new BSP
+[2021.10.14-06.45.37:364][260]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.45.37:364][260]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.46.06:039][551]Cmd: TRANSACTION UNDO
+[2021.10.14-06.46.06:039][551]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.46.06:052][551]LogGeometryMode: Warning: Unable to find 16 Poly(s) in new BSP
+[2021.10.14-06.46.06:052][551]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.46.06:052][551]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.47.46:790][838]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.47.46:790][838]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.47.46:790][838]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.47.50:389][245]Cmd: TRANSACTION UNDO
+[2021.10.14-06.47.50:389][245]LogEditorTransaction: Undo Modifier [Optimize]
+[2021.10.14-06.47.57:924][ 28]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.10.14-06.47.57:924][ 28]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.47.57:924][ 28]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.47.59:608][176]Cmd: TRANSACTION UNDO
+[2021.10.14-06.47.59:608][176]LogEditorTransaction: Undo Modifier [Triangulate]
+[2021.10.14-06.48.00:551][193]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2021.10.14-06.48.00:551][193]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.00:551][193]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.02:575][392]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.02:575][392]LogEditorTransaction: Undo Modifier [Optimize]
+[2021.10.14-06.48.03:717][500]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.03:717][500]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.04:240][543]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.04:240][543]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.04:584][581]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.04:584][581]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.04:877][614]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.04:877][614]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.04:890][614]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.04:890][614]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.04:890][614]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.05:099][632]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.05:099][632]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.05:123][632]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.05:123][632]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.05:123][632]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.05:423][666]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.05:423][666]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.05:440][666]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.05:440][666]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.05:440][666]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.05:723][698]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.05:723][698]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.05:740][698]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.05:740][698]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.05:740][698]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.06:182][749]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.06:182][749]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.06:633][797]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.06:633][797]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.06:660][797]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.06:660][797]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.06:660][797]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.06:991][830]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.06:991][830]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.07:366][868]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.07:366][868]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.48.07:389][868]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.48.07:389][868]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.07:389][868]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.07:720][900]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.07:720][900]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.48.08:125][941]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.08:125][941]LogEditorTransaction: Undo Modifier [Extrude]
+[2021.10.14-06.48.08:608][987]Cmd: TRANSACTION UNDO
+[2021.10.14-06.48.08:608][987]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.48.08:629][987]LogGeometryMode: Warning: Unable to find 16 Poly(s) in new BSP
+[2021.10.14-06.48.08:629][987]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-06.48.08:629][987]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.48.32:435][775]LogGeometryMode: Warning: Unable to find CylinderBrush2 Brush(s) in new BSP
+[2021.10.14-06.48.32:435][775]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.49.07:418][793]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-06.49.31:736][595]Cmd: TRANSACTION UNDO
+[2021.10.14-06.49.31:736][595]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.49.32:127][605]Cmd: TRANSACTION UNDO
+[2021.10.14-06.49.32:127][605]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.49.32:508][611]Cmd: TRANSACTION UNDO
+[2021.10.14-06.49.32:508][611]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.49.32:944][651]Cmd: TRANSACTION UNDO
+[2021.10.14-06.49.32:944][651]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.49.32:960][651]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.49.32:960][651]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.49.32:960][651]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.50.53:488][970]Cmd: TRANSACTION UNDO
+[2021.10.14-06.50.53:488][970]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.50.53:500][970]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.50.53:500][970]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.50.53:500][970]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.50.53:786][976]Cmd: TRANSACTION UNDO
+[2021.10.14-06.50.53:786][976]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.50.54:539][ 17]Cmd: TRANSACTION UNDO
+[2021.10.14-06.50.54:539][ 17]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.50.54:561][ 17]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.50.54:561][ 17]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.50.54:561][ 17]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.50.55:489][113]Cmd: TRANSACTION UNDO
+[2021.10.14-06.50.55:489][113]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.50.55:974][166]Cmd: TRANSACTION UNDO
+[2021.10.14-06.50.55:974][166]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.50.55:981][166]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.50.55:981][166]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.50.55:981][166]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.51.04:097][ 81]Cmd: TRANSACTION UNDO
+[2021.10.14-06.51.04:097][ 81]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.51.04:104][ 81]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-06.51.04:104][ 81]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.51.04:104][ 81]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.53.06:801][279]Cmd: TRANSACTION UNDO
+[2021.10.14-06.53.06:801][279]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.53.16:082][284]Cmd: TRANSACTION UNDO
+[2021.10.14-06.53.16:082][284]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-06.54.28:298][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.14-06.54.28:310][528]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum_Auto2CCE7EE444ED6C6D930152A80F96674D2.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/WhiteBox_Colosseum_Auto2.umap'
+[2021.10.14-06.54.28:311][528]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/WhiteBox_Colosseum' took 0.023
+[2021.10.14-06.54.28:312][528]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2021.10.14-06.54.55:420][139]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-06.56.51:442][230]Cmd: TRANSACTION UNDO
+[2021.10.14-06.56.51:442][230]LogEditorTransaction: Undo Move Actors
+[2021.10.14-06.56.51:449][230]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.10.14-06.56.51:449][230]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-06.56.51:449][230]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.56.56:665][727]LogGeometryMode: Warning: Unable to find Dome_5 Brush(s) in new BSP
+[2021.10.14-06.56.56:665][727]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.57.05:028][689]LogGeometryMode: Warning: Unable to find CylinderBrush2 Brush(s) in new BSP
+[2021.10.14-06.57.05:028][689]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-06.57.48:780][794]Cmd: TRANSACTION UNDO
+[2021.10.14-06.57.48:780][794]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-06.58.44:752][ 87]Cmd: TRANSACTION UNDO
+[2021.10.14-06.58.44:752][ 87]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-07.00.04:145][261]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 8
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 7
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 6
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 5
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 4
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 3
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2021.10.14-07.00.04:173][261]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2021.10.14-07.00.04:173][261]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.10.14-07.00.04:197][261]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 20
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 18
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 16
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 14
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 12
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 10
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 8
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 6
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 4
+[2021.10.14-07.00.04:229][261]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 2
+[2021.10.14-07.00.04:229][261]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.10.14-07.00.04:259][261]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 40
+[2021.10.14-07.00.04:259][261]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 37
+[2021.10.14-07.00.04:259][261]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.10.14-07.00.04:280][261]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.10.14-07.00.04:318][261]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.10.14-07.00.04:392][261]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.10.14-07.00.04:409][261]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.10.14-07.00.04:426][261]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.10.14-07.00.04:445][261]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.10.14-07.00.04:469][261]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.10.14-07.00.04:485][261]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.10.14-07.00.04:501][261]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.10.14-07.00.04:527][261]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.10.14-07.00.04:826][262]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 222
+[2021.10.14-07.00.04:867][262]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 212
+[2021.10.14-07.00.04:867][262]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 202
+[2021.10.14-07.00.04:889][263]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 192
+[2021.10.14-07.00.04:961][267]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 182
+[2021.10.14-07.00.04:989][269]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 172
+[2021.10.14-07.00.05:025][270]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 163
+[2021.10.14-07.00.05:025][270]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 154
+[2021.10.14-07.00.05:025][270]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 145
+[2021.10.14-07.00.05:025][270]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 136
+[2021.10.14-07.00.05:069][270]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 127
+[2021.10.14-07.00.05:073][270]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 120
+[2021.10.14-07.00.05:200][272]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 113
+[2021.10.14-07.00.05:200][272]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 107
+[2021.10.14-07.00.05:303][278]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 101
+[2021.10.14-07.00.05:431][286]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 95
+[2021.10.14-07.00.05:431][286]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 90
+[2021.10.14-07.00.05:636][297]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 85
+[2021.10.14-07.00.05:636][297]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 80
+[2021.10.14-07.00.06:097][304]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 75
+[2021.10.14-07.00.06:686][328]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 71
+[2021.10.14-07.00.06:769][331]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 67
+[2021.10.14-07.00.06:815][333]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 63
+[2021.10.14-07.00.06:880][335]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 59
+[2021.10.14-07.00.07:278][357]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 56
+[2021.10.14-07.00.07:404][362]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 53
+[2021.10.14-07.00.07:423][363]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 50
+[2021.10.14-07.00.07:519][368]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 47
+[2021.10.14-07.00.07:519][368]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 44
+[2021.10.14-07.00.07:567][370]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 41
+[2021.10.14-07.00.07:624][373]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 38
+[2021.10.14-07.00.07:624][373]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 36
+[2021.10.14-07.00.07:649][374]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 34
+[2021.10.14-07.00.07:649][374]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 32
+[2021.10.14-07.00.07:748][375]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 30
+[2021.10.14-07.00.07:780][376]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 28
+[2021.10.14-07.00.07:797][376]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 26
+[2021.10.14-07.00.07:840][378]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 24
+[2021.10.14-07.00.08:045][387]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 22
+[2021.10.14-07.00.08:088][388]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 20
+[2021.10.14-07.00.08:111][389]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 18
+[2021.10.14-07.00.08:125][389]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 17
+[2021.10.14-07.00.08:193][391]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 16
+[2021.10.14-07.00.08:193][391]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 15
+[2021.10.14-07.00.08:274][396]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 14
+[2021.10.14-07.00.08:274][396]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 13
+[2021.10.14-07.00.08:322][400]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 12
+[2021.10.14-07.00.08:322][400]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 11
+[2021.10.14-07.00.08:322][400]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 10
+[2021.10.14-07.00.08:389][403]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 9
+[2021.10.14-07.00.08:411][404]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 8
+[2021.10.14-07.00.08:428][405]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 7
+[2021.10.14-07.00.08:449][406]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 6
+[2021.10.14-07.00.08:464][406]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 5
+[2021.10.14-07.00.08:471][406]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 4
+[2021.10.14-07.00.08:512][406]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 3
+[2021.10.14-07.00.08:512][406]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2021.10.14-07.00.08:514][406]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 1
+[2021.10.14-07.00.13:272][896]LogEditorViewport: Clicking Background
+[2021.10.14-07.01.13:687][922]Cmd: TRANSACTION UNDO
+[2021.10.14-07.01.13:687][922]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-07.01.27:491][278]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-07.01.33:941][996]Cmd: TRANSACTION UNDO
+[2021.10.14-07.01.33:941][996]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.01.33:949][996]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.01.33:949][996]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.01.33:949][996]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.01.34:322][  4]Cmd: TRANSACTION UNDO
+[2021.10.14-07.01.34:322][  4]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.01.34:373][  4]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.01.34:373][  4]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.01.34:373][  4]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.01.36:449][193]Cmd: TRANSACTION UNDO
+[2021.10.14-07.01.36:449][193]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.01.36:457][193]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.01.36:457][193]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.01.36:457][193]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.01.48:536][545]Cmd: TRANSACTION UNDO
+[2021.10.14-07.01.48:536][545]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.01.48:543][545]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.01.48:543][545]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.01.48:543][545]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.03.16:896][677]Cmd: TRANSACTION UNDO
+[2021.10.14-07.03.16:896][677]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.03.18:053][718]Cmd: TRANSACTION UNDO
+[2021.10.14-07.03.18:053][718]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.03.18:066][718]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.03.18:066][718]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.03.18:066][718]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.03.25:711][424]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-07.04.09:649][608]Cmd: TRANSACTION UNDO
+[2021.10.14-07.04.09:649][608]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.04.09:656][608]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.04.09:657][608]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.04.09:657][608]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.04.10:021][617]Cmd: TRANSACTION UNDO
+[2021.10.14-07.04.10:021][617]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.04.10:029][617]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.04.10:029][617]LogGeometryMode: Warning: Unable to resolve CylinderBrush2 Brush in new BSP, see above
+[2021.10.14-07.04.10:029][617]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.05.38:959][615]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.10.14-07.05.40:475][768]LogGeometryMode: Warning: Unable to find CylinderBrush2 Brush(s) in new BSP
+[2021.10.14-07.05.40:475][768]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.06.38:745][549]LogGeometryMode: Warning: Unable to find Dome_5 Brush(s) in new BSP
+[2021.10.14-07.06.38:745][549]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.07.04:609][548]Cmd: TRANSACTION UNDO
+[2021.10.14-07.07.04:609][548]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.07.04:616][548]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.10.14-07.07.04:616][548]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-07.07.04:616][548]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.07.05:052][558]Cmd: TRANSACTION UNDO
+[2021.10.14-07.07.05:052][558]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.07.05:101][558]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2021.10.14-07.07.05:101][558]LogGeometryMode: Warning: Unable to resolve Dome_5 Brush in new BSP, see above
+[2021.10.14-07.07.05:101][558]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.09.01:670][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.14-07.09.01:685][738]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum_Auto39B9A815E4758C9515825CF9F588B01C7.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/WhiteBox_Colosseum_Auto3.umap'
+[2021.10.14-07.09.01:686][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/WhiteBox_Colosseum' took 0.023
+[2021.10.14-07.09.01:686][738]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2021.10.14-07.10.21:821][967]Cmd: TRANSACTION UNDO
+[2021.10.14-07.10.21:821][967]LogEditorTransaction: Undo Edit Sides
+[2021.10.14-07.10.22:055][972]Cmd: TRANSACTION UNDO
+[2021.10.14-07.10.22:055][972]LogEditorTransaction: Undo Edit Sides
+[2021.10.14-07.12.50:634][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.14-07.12.50:650][890]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum27CCD4E14DDE5F53C340A9999BC1F15F.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.12.50:676][890]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.12.50:676][890]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.18.32:128][311]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-07.22.26:277][350]Cmd: TRANSACTION UNDO
+[2021.10.14-07.22.26:277][350]LogEditorTransaction: Undo Scale Actors
+[2021.10.14-07.22.32:611][850]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-07.23.21:942][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.10.14-07.23.21:962][495]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_ColosseumCD0983E0483324634A40899B0D0E6FFD.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.23.21:991][495]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.23.21:991][495]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.24.24:723][533]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-07.25.15:334][404]Cmd: DELETE
+[2021.10.14-07.25.15:335][404]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.25.15:335][404]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-07.25.15:335][404]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.25.29:125][940]Cmd: DELETE
+[2021.10.14-07.25.29:126][940]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.25.29:126][940]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-07.25.29:126][940]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.26.34:250][615]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.34:250][615]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.26.34:873][629]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.34:873][629]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.26.35:312][653]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.35:312][653]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.26.35:888][714]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.35:888][714]LogEditorTransaction: Undo Modifier [Delete]
+[2021.10.14-07.26.36:298][748]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.36:298][748]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-07.26.36:638][782]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.36:638][782]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-07.26.36:949][817]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.36:949][817]LogEditorTransaction: Undo Modifier [Delete]
+[2021.10.14-07.26.39:307][ 75]Cmd: TRANSACTION UNDO
+[2021.10.14-07.26.39:307][ 75]LogEditorTransaction: Undo Modifier [Edit]
+[2021.10.14-07.26.55:370][662]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2021.10.14-07.27.37:246][451]Cmd: TRANSACTION UNDO
+[2021.10.14-07.27.37:246][451]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.28.10:248][183]Cmd: DELETE
+[2021.10.14-07.28.15:744][811]Cmd: DELETE
+[2021.10.14-07.28.15:745][811]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.10.14-07.28.15:745][811]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2021.10.14-07.28.15:745][811]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.10.14-07.30.59:250][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.10.14-07.30.59:275][592]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_ColosseumBB7DBAEF4950E397A3262EBEA2A9E51D.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.30.59:296][592]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.30.59:296][592]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.32.02:993][770]Cmd: POLY SELECT ALL
+[2021.10.14-07.35.30:632][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.14-07.35.30:654][620]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum530C080C4B40E31BB99E3B9CA424B187.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.35.30:679][620]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.35.30:679][620]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.35.45:859][196]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-07.36.00:982][795]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-07.37.36:293][608]Cmd: TRANSACTION UNDO
+[2021.10.14-07.37.36:293][608]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.38.43:329][ 31]Cmd: TRANSACTION UNDO
+[2021.10.14-07.38.43:329][ 31]LogEditorTransaction: Undo Rotate Actors
+[2021.10.14-07.42.31:690][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.14-07.42.31:720][802]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum62A963C5497FA96084D2F0AEE8C9964C.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.42.31:746][802]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.42.31:746][802]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.45.15:173][419]LogSlate: Window 'Merge Actors' being destroyed
+[2021.10.14-07.45.15:178][419]LogSlate: Window 'Merge Actors' being destroyed
+[2021.10.14-07.47.52:514][171]Cmd: TRANSACTION UNDO
+[2021.10.14-07.47.52:514][171]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.49.40:407][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.10.14-07.49.40:442][245]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum8EFEC3F740A5048D069F5288E53DA122.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.49.40:460][245]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.49.40:461][245]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-07.50.27:662][795]LogEditorViewport: Clicking Background
+[2021.10.14-07.54.45:528][286]Cmd: TRANSACTION UNDO
+[2021.10.14-07.54.45:528][286]LogEditorTransaction: Undo Move Actors
+[2021.10.14-07.54.45:542][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4774' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4774.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4775' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4775.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4776' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4776.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4777' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4777.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4778' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4778.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4779' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4779.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4780' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4780.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4781' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4781.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4782' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:543][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4782.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4783' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4783.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4784' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4784.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4785' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4785.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4786' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4786.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4787' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4787.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4788' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4788.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4789' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4789.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4790' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4790.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4791' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:544][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4791.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4792' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4792.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4793' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4793.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4794' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4794.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4795' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4795.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4796' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4796.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4797' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4797.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4798' invalid (5712 verts, 0 indices).
+[2021.10.14-07.54.45:545][286]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum:PersistentLevel.ModelComponent_4798.BodySetup_0 when we are unable to.
+[2021.10.14-07.54.54:387][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.14-07.54.54:427][170]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum256871CD48C6E18206234B8C4AB57167.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-07.54.54:454][170]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-07.54.54:454][170]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-08.04.07:004][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.10.14-08.04.07:065][247]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum7A8921824038AE38868512A546F6BEDA.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-08.04.07:099][247]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-08.04.07:099][247]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-08.06.08:569][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.10.14-08.06.08:658][135]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum4879FEAF4A9845F128C3B3881ABCBDB0.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-08.06.08:684][135]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-08.06.08:685][135]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-08.06.33:352][707]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.14-08.08.03:996][578]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.14-08.09.03:175][573]LogEditorViewport: Clicking Background
+[2021.10.14-08.11.19:488][174]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.14-08.15.07:094][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.10.14-08.15.07:188][547]LogSavePackage: Moving '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Saved/WhiteBox_Colosseum5F949EE54E04C7303D6CC79781C4F61F.tmp' to '../../../../../../Users/Dart/Documents/GitHub/DivineCombat/DivineCombat/Content/Maps/WhiteBox_Colosseum.umap'
+[2021.10.14-08.15.07:214][547]AssetCheck: New page: Asset Save: WhiteBox_Colosseum
+[2021.10.14-08.15.07:214][547]LogContentValidation: Display: Validating World /Game/Maps/WhiteBox_Colosseum.WhiteBox_Colosseum
+[2021.10.14-08.17.13:160][470]LogEditorViewport: Clicking Background
