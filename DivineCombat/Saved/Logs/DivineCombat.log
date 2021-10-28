@@ -1,104 +1,102 @@
-﻿Log file open, 10/22/21 18:27:52
+﻿Log file open, 10/28/21 17:10:41
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: DivineCombat
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.824582
+LogStats: Stats thread started at 0.775443
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
 LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosEditor
-LogPluginManager: Mounting plugin ChaosSolverPlugin
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin TcpMessaging
-LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin MatineeToLevelSequence
-LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AndroidMoviePlayer
-LogPluginManager: Mounting plugin ArchVisCharacter
-LogPluginManager: Mounting plugin AppleMoviePlayer
-LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AudioSynesthesia
-LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
@@ -109,14 +107,16 @@ LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
@@ -208,584 +208,737 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:508][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:573][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:573][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.10.22-22.27.53:573][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.10.22-22.27.53:573][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:573][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.10.22-22.27.53:573][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:573][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.10.22-22.27.53:573][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.10.22-22.27.53:574][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.10.22-22.27.53:575][  0]LogInit: Selected Device Profile: [Windows]
-[2021.10.22-22.27.53:575][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.10.22-22.27.53:576][  0]LogHAL: Display: Platform has ~ 16 GB [17128325120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.10.22-22.27.53:576][  0]LogInit: Going up to parent DeviceProfile []
-[2021.10.22-22.27.53:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.10.22-22.27.53:576][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.10.22-22.27.53:577][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.10.22-22.27.53:578][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.10.22-22.27.53:578][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.10.22-22.27.53:578][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.10.22-22.27.53:578][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
-[2021.10.22-22.27.53:578][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Editor.ini]
-[2021.10.22-22.27.53:579][  0]LogInit: Computer: BUILD-W1
-[2021.10.22-22.27.53:579][  0]LogInit: User: nhl27
-[2021.10.22-22.27.53:579][  0]LogInit: CPU Page size=4096, Cores=6
-[2021.10.22-22.27.53:579][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.10.22-22.27.53:579][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2021.10.22-22.27.53:579][  0]LogMemory: Platform Memory Stats for Windows
-[2021.10.22-22.27.53:579][  0]LogMemory: Process Physical Memory: 139.18 MB used, 139.18 MB peak
-[2021.10.22-22.27.53:579][  0]LogMemory: Process Virtual Memory: 112.28 MB used, 112.28 MB peak
-[2021.10.22-22.27.53:579][  0]LogMemory: Physical Memory: 7637.97 MB used,  8696.88 MB free, 16334.84 MB total
-[2021.10.22-22.27.53:579][  0]LogMemory: Virtual Memory: 134204536.00 MB used,  13195.35 MB free, 134217728.00 MB total
-[2021.10.22-22.27.53:584][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.10.22-22.27.53:800][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.10.22-22.27.53:802][  0]LogInit: Using OS detected language (en-US).
-[2021.10.22-22.27.53:802][  0]LogInit: Using OS detected locale (en-US).
-[2021.10.22-22.27.53:815][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2021.10.22-22.27.54:188][  0]LogInit: Setting process to per monitor DPI aware
-[2021.10.22-22.27.54:208][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.10.22-22.27.54:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.10.22-22.27.54:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.10.22-22.27.56:537][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.10.22-22.27.56:537][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.10.22-22.27.56:537][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.10.22-22.27.56:537][  0]LogD3D11RHI: D3D11 adapters:
-[2021.10.22-22.27.56:638][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti' (Feature Level 11_0)
-[2021.10.22-22.27.56:638][  0]LogD3D11RHI:       8041/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2021.10.22-22.27.56:641][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.10.22-22.27.56:641][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.10.22-22.27.56:641][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2021.10.22-22.27.56:648][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.10.22-22.27.56:648][  0]LogD3D11RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
-[2021.10.22-22.27.56:648][  0]LogWindows: EnumDisplayDevices:
-[2021.10.22-22.27.56:649][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
-[2021.10.22-22.27.56:649][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
-[2021.10.22-22.27.56:649][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
-[2021.10.22-22.27.56:649][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
-[2021.10.22-22.27.56:649][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2021.10.22-22.27.56:649][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
-[2021.10.22-22.27.56:649][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
-[2021.10.22-22.27.56:649][  0]LogD3D11RHI:      Driver Date: 7-12-2021
-[2021.10.22-22.27.56:650][  0]LogRHI: Texture pool is 5628 MB (70% of 8041 MB)
-[2021.10.22-22.27.56:722][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.10.22-22.27.56:722][  0]LogD3D11RHI: Async texture creation enabled
-[2021.10.22-22.27.56:722][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.10.22-22.27.56:723][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
-[2021.10.22-22.27.56:768][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.10.22-22.27.56:772][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.10.22-22.27.57:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.10.22-22.27.57:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.10.22-22.27.57:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.10.22-22.27.57:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.10.22-22.27.57:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.10.22-22.27.57:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.10.22-22.27.57:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.10.22-22.27.57:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.10.22-22.27.57:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.10.22-22.27.57:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.10.22-22.27.57:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.10.22-22.27.57:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.10.22-22.27.57:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.10.22-22.27.57:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.10.22-22.27.57:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.10.22-22.27.57:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.10.22-22.27.57:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.10.22-22.27.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.10.22-22.27.57:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.10.22-22.27.57:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.10.22-22.27.57:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.10.22-22.27.57:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.10.22-22.27.57:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.10.22-22.27.57:348][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.10.22-22.27.57:360][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.10.22-22.27.57:555][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.10.22-22.27.57:556][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Intermediate/Shaders/WorkingDirectory/13340/).
-[2021.10.22-22.27.57:556][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nhl27/AppData/Local/Temp/UnrealShaderWorkingDir/035665534CA25B28D70FDB82B8890653/'.
-[2021.10.22-22.27.57:556][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.10.22-22.27.57:556][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.10.22-22.28.00:322][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.10.22-22.28.00:407][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.10.22-22.28.00:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2021.10.22-22.28.00:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.10.22-22.28.00:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.10.22-22.28.00:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.10.22-22.28.00:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.10.22-22.28.00:427][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.10.22-22.28.00:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.10.22-22.28.00:428][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.10.22-22.28.00:441][  0]LogDerivedDataCache: Speed tests for C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2021.10.22-22.28.00:441][  0]LogDerivedDataCache: Display: Performance to C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=150.33MBs, RandomWriteSpeed=194.82MBs. Assigned SpeedClass 'Local'
-[2021.10.22-22.28.00:442][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.10.22-22.28.00:442][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.10.22-22.28.00:442][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.10.22-22.28.00:492][  0]LogSlate: Using FreeType 2.10.0
-[2021.10.22-22.28.00:507][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.10.22-22.28.00:545][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
-[2021.10.22-22.28.00:918][  0]LogInit: Selected Device Profile: [Windows]
-[2021.10.22-22.28.00:918][  0]LogInit: Active device profile: [0000019841933300][0000019841176A80 49] Windows
-[2021.10.22-22.28.00:918][  0]LogInit: Profiles: [0000019841933300][0000019841176A80 49] Windows, [00000198418FD000][000001984117EC00 49] WindowsNoEditor, [0000019841931100][0000019841182D80 49] WindowsServer, [00000198418FEC00][0000019841186F00 49] WindowsClient, [0000019841932D00][000001984118B080 49] IOS, [00000198418FD500][00000198422F3200 49] iPadAir, [0000019841931600][00000198422F7380 49] iPadAir2, [00000198418C8900][000001984117B600 49] IPadPro, [00000198418C8A00][00000198422FB640 49] iPadAir3, [0000019841932800][00000198422FF780 49] iPadAir4, [00000198418CB300][00000198423038C0 49] iPadMini2, [0000019841931900][0000019842307A00 49] iPadMini3, [00000198418CA000][000001984230FB80 49] iPadMini4, [0000019841933700][0000019842313D00 49] iPadMini5, [00000198418FD900][000001984231A300 49] iPhone6, [00000198418AFF00][0000019842316340 49] iPodTouch6, [00000198418FF300][0000019842322600 49] iPhone7, [00000198418FE800][000001984231E640 49] iPodTouch7, [00000198418AD400][00000198423267C0 49] iPhone5S, [00000198418FD200][000001984232A940 49] iPhone6Plus, [00000198418AFE00][000001984232EAC0 49] iPhone6S, [00000198418FC500][0000019842332C40 49] iPhone6SPlus, [00000198418AD900][0000019842336DC0 49] iPhone7Plus, [00000198418FF000][000001984233AF40 49] iPhoneSE, [00000198418AE900][000001984233F0C0 49] iPhone8, [00000198418FE900][0000019842343240 49] iPhone8Plus, [00000198418AF500][00000198423473C0 49] iPhoneX, [00000198418FDD00][000001984234B540 49] iPhoneXS, [00000198418ACE00][000001984230B680 49] iPhoneXSMax, [00000198418FF100][000001984234F7C0 49] iPhoneXR, [00000198418AF000][0000019842353900 49] iPhone11, [00000198418FD100][0000019842357A40 49] iPhone11Pro, [00000198418AE100][000001984235FBC0 49] iPhone11ProMax, [00000198418FC200][0000019842363D40 49] iPhoneSE2, [00000198418ADF00][0000019842366200 49] iPhone12Mini, [00000198418FFF00][000001984236A380 49] iPhone12, [00000198418AD700][000001984236E500 49] iPhone12Pro, [00000198418FED00][0000019842372680 49] iPhone12ProMax, [00000198418AD200][0000019842376800 49] iPadPro105, [00000198418FD400][000001984237A980 49] iPadPro129, [00000198418AFC00][000001984237EB00 49] iPadPro97, [00000198418FC900][0000019842382C80 49] iPadPro2_129, [00000198418AEC00][0000019842386E00 49] iPad5, [00000198418FEA00][000001984238AF80 49] iPad6, [00000198418AC500][000001984238F100 49] iPad7, [00000198418FD700][0000019842393280 49] iPad8, [00000198418AF200][0000019842397400 49] iPadPro11, [00000198418FF900][000001984239B580 49] iPadPro2_11, [00000198418AF600][000001984239F700 49] iPadPro3_129, [00000198418FF400][000001984235B840 49] iPadPro4_129, [00000198418AF800][00000198423A3980 49] AppleTV, [00000198418FF800][00000198423A7AC0 49] AppleTV4K, [00000198418AF100][00000198423AFC40 49] TVOS, [00000198418FE400][00000198423B2100 49] Mac, [00000198418AD800][00000198423B6280 49] MacClient, [00000198418FC100][00000198423BA400 49] MacNoEditor, [00000198418AF700][00000198423BE580 49] MacServer, [00000198418FC400][00000198423C2700 49] Linux, [00000198419C8E00][00000198423C6880 49] LinuxAArch64, [0000019841932200][00000198423CAA00 49] LinuxNoEditor, [00000198419C9800][00000198423CEB80 49] LinuxAArch64NoEditor, [0000019841931200][00000198423D2D00 49] LinuxClient, [00000198419C9400][00000198423D6E80 49] LinuxAArch64Client, [0000019841931000][00000198423DB000 49] LinuxServer, [00000198419C9300][00000198423DF180 49] LinuxAArch64Server, [0000019841930700][00000198423E3300 49] Android, [00000198419C9000][00000198423E7480 49] Android_Low, [0000019841930200][00000198423EB600 49] Android_Mid, [00000198419C8A00][00000198423EF780 49] Android_High, [0000019841930500][00000198423AB8C0 49] Android_Default, [00000198418FDA00][00000198423F3A00 49] Android_Adreno4xx, [00000198418AF400][00000198423F7B40 49] Android_Adreno5xx_Low, [00000198418FD600][00000198423FFCC0 49] Android_Adreno5xx, [00000198418AF900][0000019842402180 49] Android_Adreno6xx, [00000198418FCE00][0000019842406300 49] Android_Adreno6xx_Vulkan, [00000198418AED00][000001984240A480 49] Android_Mali_T6xx, [00000198418FE700][000001984240E600 49] Android_Mali_T7xx, [00000198418ADA00][0000019842412780 49] Android_Mali_T8xx, [00000198418FF600][0000019842416900 49] Android_Mali_G71, [00000198418ADC00][000001984241AA80 49] Android_Mali_G72, [00000198418FFD00][000001984241EC00 49] Android_Mali_G72_Vulkan, [00000198418ACF00][0000019842422D80 49] Android_Mali_G76, [00000198418FC300][0000019842426F00 49] Android_Mali_G76_Vulkan, [00000198418AE500][000001984242B080 49] Android_Mali_G77, [00000198418FFB00][000001984242F200 49] Android_Mali_G77_Vulkan, [00000198418AEE00][0000019842433380 49] Android_Vulkan_SM5, [00000198418FC700][0000019842437500 49] Android_PowerVR_G6xxx, [00000198418AFD00][000001984243B680 49] Android_PowerVR_GT7xxx, [00000198418FEE00][000001984243F800 49] Android_PowerVR_GE8xxx, [00000198418AC700][00000198423FB940 49] Android_PowerVR_GM9xxx, [00000198418FF700][0000019842443A80 49] Android_PowerVR_GM9xxx_Vulkan, [00000198418ACC00][0000019842447BC0 49] Android_TegraK1, [00000198418FDE00][000001984244BD00 49] Android_Unknown_Vulkan, [00000198418AE700][00000198424521C0 49] Lumin, [00000198418FE300][0000019842456340 49] Lumin_Desktop, [00000198418AFB00][000001984245A4C0 49] HoloLens, 
-[2021.10.22-22.28.01:263][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.10.22-22.28.01:263][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.10.22-22.28.01:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.10.22-22.28.01:263][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.10.22-22.28.01:264][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.10.22-22.28.01:327][  0]LogNetVersion: DivineCombat 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2491796348)
-[2021.10.22-22.28.02:261][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2021.10.22-22.28.02:333][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.070601 seconds
-[2021.10.22-22.28.02:341][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2021.10.22-22.28.02:341][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2021.10.22-22.28.02:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.10.22-22.28.03:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.10.22-22.28.03:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.10.22-22.28.03:492][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.03:492][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.03:502][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.03:508][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.03:522][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.03:524][  0]LogUProjectInfo: Found projects:
-[2021.10.22-22.28.03:811][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.10.22-22.28.03:811][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.10.22-22.28.03:819][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.10.22-22.28.03:897][  0]LogCollectionManager: Loaded 0 collections in 0.001855 seconds
-[2021.10.22-22.28.03:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Collections/' took 0.00s
-[2021.10.22-22.28.03:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Developers/nhl27/Collections/' took 0.00s
-[2021.10.22-22.28.03:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Collections/' took 0.00s
-[2021.10.22-22.28.03:930][  0]LogOcInput: OculusInput pre-init called
-[2021.10.22-22.28.03:947][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2021.10.22-22.28.03:947][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2021.10.22-22.28.04:024][  0]LogEngine: Initializing Engine...
-[2021.10.22-22.28.04:026][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2021.10.22-22.28.04:026][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2021.10.22-22.28.04:029][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
-[2021.10.22-22.28.04:120][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.10.22-22.28.04:153][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.10.22-22.28.04:157][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.10.22-22.28.04:162][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.10.22-22.28.04:162][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2021.10.22-22.28.04:163][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2021.10.22-22.28.04:163][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.10.22-22.28.04:164][  0]LogAudio: Display: Using built-in audio occlusion.
-[2021.10.22-22.28.04:164][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.10.22-22.28.04:190][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.10.22-22.28.04:190][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.10.22-22.28.04:216][  0]LogAudioMixer: Display: Using Audio Device XV272U V (High Definition Audio Device)
-[2021.10.22-22.28.04:217][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.10.22-22.28.04:219][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.10.22-22.28.04:219][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.10.22-22.28.04:220][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.10.22-22.28.04:221][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.10.22-22.28.04:221][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.10.22-22.28.04:221][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.10.22-22.28.04:221][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.10.22-22.28.04:222][  0]LogInit: FAudioDevice initialized.
-[2021.10.22-22.28.04:222][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.10.22-22.28.04:223][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.10.22-22.28.04:266][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2021.10.22-22.28.04:267][  0]LogInit: Texture streaming: Enabled
-[2021.10.22-22.28.04:283][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2021.10.22-22.28.04:287][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.10.22-22.28.04:287][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={46C0E486-4881-AB77-9168-D0BD7F50F18B}
-[2021.10.22-22.28.04:287][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.10.22-22.28.04:288][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.10.22-22.28.04:322][  0]LogInit: Transaction tracking system initialized
-[2021.10.22-22.28.04:364][  0]BlueprintLog: New page: Editor Load
-[2021.10.22-22.28.04:517][  0]LocalizationService: Localization service is disabled
-[2021.10.22-22.28.04:576][  0]TimingProfiler: Initialize
-[2021.10.22-22.28.04:578][  0]TimingProfiler: OnSessionChanged
-[2021.10.22-22.28.04:579][  0]LoadingProfiler: Initialize
-[2021.10.22-22.28.04:579][  0]LoadingProfiler: OnSessionChanged
-[2021.10.22-22.28.04:579][  0]NetworkingProfiler: Initialize
-[2021.10.22-22.28.04:580][  0]NetworkingProfiler: OnSessionChanged
-[2021.10.22-22.28.04:580][  0]MemoryProfiler: Initialize
-[2021.10.22-22.28.04:580][  0]MemoryProfiler: OnSessionChanged
-[2021.10.22-22.28.04:756][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.10.22-22.28.04:756][  0]LogCook: Display: Mobile HDR setting 1
-[2021.10.22-22.28.05:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/' took 0.00s
-[2021.10.22-22.28.05:136][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.10.22-22.28.05:142][  0]SourceControl: Source control is disabled
-[2021.10.22-22.28.05:143][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.747
-[2021.10.22-22.28.05:144][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.10.22-22.28.05:145][  0]LightingResults: New page: Lighting Build
-[2021.10.22-22.28.05:146][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.10.22-22.28.05:147][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.10.22-22.28.05:148][  0]MapCheck: New page: Map Check
-[2021.10.22-22.28.05:148][  0]LightingResults: New page: Lighting Build
-[2021.10.22-22.28.05:163][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
-[2021.10.22-22.28.05:398][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
-[2021.10.22-22.28.05:399][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
-[2021.10.22-22.28.05:427][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.10.22-22.28.05:431][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
-[2021.10.22-22.28.05:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
-[2021.10.22-22.28.05:438][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.10.22-22.28.05:438][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
-[2021.10.22-22.28.05:438][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.295
-[2021.10.22-22.28.05:456][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.061
-[2021.10.22-22.28.05:600][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.10.22-22.28.05:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.10.22-22.28.05:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.10.22-22.28.05:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.10.22-22.28.05:654][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3601 classes and 859 folders.
-[2021.10.22-22.28.05:660][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.10.22-22.28.05:673][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.10.22-22.28.05:673][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.10.22-22.28.05:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2021.10.22-22.28.05:682][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.10.22-22.28.05:682][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.10.22-22.28.05:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2021.10.22-22.28.05:687][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2021.10.22-22.28.05:687][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2021.10.22-22.28.05:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
-[2021.10.22-22.28.05:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.10.22-22.28.05:692][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.10.22-22.28.05:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2021.10.22-22.28.05:698][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.10.22-22.28.05:698][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.10.22-22.28.05:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2021.10.22-22.28.05:702][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.10.22-22.28.05:702][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.10.22-22.28.05:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
-[2021.10.22-22.28.05:707][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.10.22-22.28.05:707][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.10.22-22.28.05:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
-[2021.10.22-22.28.05:714][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.10.22-22.28.05:714][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.10.22-22.28.05:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
-[2021.10.22-22.28.05:721][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.10.22-22.28.05:721][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.10.22-22.28.05:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
-[2021.10.22-22.28.05:726][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.10.22-22.28.05:726][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.10.22-22.28.05:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
-[2021.10.22-22.28.05:731][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.10.22-22.28.05:731][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.10.22-22.28.05:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
-[2021.10.22-22.28.05:737][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.10.22-22.28.05:737][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.10.22-22.28.05:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
-[2021.10.22-22.28.05:742][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.10.22-22.28.05:742][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.10.22-22.28.05:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
-[2021.10.22-22.28.05:747][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.10.22-22.28.05:747][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.10.22-22.28.05:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
-[2021.10.22-22.28.05:751][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.10.22-22.28.05:751][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.10.22-22.28.05:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
-[2021.10.22-22.28.05:756][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.10.22-22.28.05:756][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.10.22-22.28.05:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
-[2021.10.22-22.28.05:762][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.10.22-22.28.05:762][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.10.22-22.28.05:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
-[2021.10.22-22.28.05:768][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.10.22-22.28.05:768][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.10.22-22.28.05:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
-[2021.10.22-22.28.05:774][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.10.22-22.28.05:774][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.10.22-22.28.05:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
-[2021.10.22-22.28.05:782][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.10.22-22.28.05:782][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.10.22-22.28.05:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
-[2021.10.22-22.28.05:788][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.10.22-22.28.05:788][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.10.22-22.28.05:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
-[2021.10.22-22.28.05:792][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.10.22-22.28.05:792][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.10.22-22.28.05:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
-[2021.10.22-22.28.05:798][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2021.10.22-22.28.05:798][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2021.10.22-22.28.05:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
-[2021.10.22-22.28.05:804][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.10.22-22.28.05:804][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.10.22-22.28.05:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
-[2021.10.22-22.28.05:809][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.10.22-22.28.05:809][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.10.22-22.28.05:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
-[2021.10.22-22.28.05:814][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.10.22-22.28.05:814][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.10.22-22.28.05:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.10.22-22.28.05:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
-[2021.10.22-22.28.06:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.10.22-22.28.06:007][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
-[2021.10.22-22.28.06:174][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2021.10.22-22.28.06:175][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
-[2021.10.22-22.28.06:175][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
-[2021.10.22-22.28.06:175][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
-[2021.10.22-22.28.06:175][  0]LogLoad: (Engine Initialization) Total time: 15.78 seconds
-[2021.10.22-22.28.06:175][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.10.22-22.28.06:175][  0]LogInit: First time updating LLM stats...
-[2021.10.22-22.28.06:214][  0]LogAssetRegistry: Asset discovery search completed in 5.6708 seconds
-[2021.10.22-22.28.06:216][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
-[2021.10.22-22.28.06:240][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.10.22-22.28.06:251][  0]LogSlate: Took 0.004701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.10.22-22.28.06:256][  0]LogSlate: Took 0.004266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.10.22-22.28.06:265][  0]LogSlate: Took 0.005476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.10.22-22.28.06:373][  1]LogRenderer: Reallocating scene render targets to support 804x420 Format 10 NumSamples 1 (Frame:1).
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:154][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:154][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.28-21.10.42:154][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.28-21.10.42:154][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:154][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.28-21.10.42:154][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.28-21.10.42:155][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.28-21.10.42:156][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.28-21.10.42:156][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.28-21.10.42:157][  0]LogHAL: Display: Platform has ~ 16 GB [17128325120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.28-21.10.42:157][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.28-21.10.42:157][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.28-21.10.42:158][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.28-21.10.42:158][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Editor.ini]
+[2021.10.28-21.10.42:159][  0]LogInit: Computer: BUILD-W1
+[2021.10.28-21.10.42:159][  0]LogInit: User: nhl27
+[2021.10.28-21.10.42:159][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.10.28-21.10.42:159][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.28-21.10.42:159][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.10.28-21.10.42:159][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.28-21.10.42:159][  0]LogMemory: Process Physical Memory: 139.29 MB used, 139.29 MB peak
+[2021.10.28-21.10.42:159][  0]LogMemory: Process Virtual Memory: 119.96 MB used, 119.96 MB peak
+[2021.10.28-21.10.42:159][  0]LogMemory: Physical Memory: 8194.12 MB used,  8140.73 MB free, 16334.84 MB total
+[2021.10.28-21.10.42:159][  0]LogMemory: Virtual Memory: 134204064.00 MB used,  13666.93 MB free, 134217728.00 MB total
+[2021.10.28-21.10.42:164][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.28-21.10.42:343][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.28-21.10.42:345][  0]LogInit: Using OS detected language (en-US).
+[2021.10.28-21.10.42:345][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.28-21.10.42:358][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.28-21.10.42:592][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.28-21.10.42:611][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.28-21.10.42:656][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.28-21.10.42:656][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.28-21.10.44:478][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.28-21.10.44:478][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.28-21.10.44:478][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.28-21.10.44:478][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.28-21.10.44:570][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Ti' (Feature Level 11_0)
+[2021.10.28-21.10.44:571][  0]LogD3D11RHI:       8041/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.28-21.10.44:573][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.28-21.10.44:573][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.28-21.10.44:573][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.28-21.10.44:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.28-21.10.44:579][  0]LogD3D11RHI:     GPU DeviceId: 0x2482 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.28-21.10.44:579][  0]LogWindows: EnumDisplayDevices:
+[2021.10.28-21.10.44:580][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:1)
+[2021.10.28-21.10.44:580][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070 Ti' (P:1 D:1)
+[2021.10.28-21.10.44:580][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2021.10.28-21.10.44:580][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Ti' (P:0 D:0)
+[2021.10.28-21.10.44:580][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.28-21.10.44:580][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Ti
+[2021.10.28-21.10.44:581][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.10.28-21.10.44:581][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.10.28-21.10.44:581][  0]LogRHI: Texture pool is 5628 MB (70% of 8041 MB)
+[2021.10.28-21.10.44:655][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.28-21.10.44:655][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.28-21.10.44:655][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.28-21.10.44:657][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2021.10.28-21.10.44:695][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.28-21.10.44:700][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.28-21.10.45:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.28-21.10.45:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.28-21.10.45:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.28-21.10.45:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.28-21.10.45:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.28-21.10.45:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.28-21.10.45:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.28-21.10.45:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.28-21.10.45:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.28-21.10.45:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.28-21.10.45:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.28-21.10.45:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.28-21.10.45:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.28-21.10.45:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.28-21.10.45:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.28-21.10.45:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.28-21.10.45:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.28-21.10.45:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.28-21.10.45:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.28-21.10.45:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.28-21.10.45:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.28-21.10.45:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.28-21.10.45:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.28-21.10.45:258][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.28-21.10.45:267][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.28-21.10.45:434][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.28-21.10.45:435][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Intermediate/Shaders/WorkingDirectory/18956/).
+[2021.10.28-21.10.45:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nhl27/AppData/Local/Temp/UnrealShaderWorkingDir/A982BC2349317910F9688EB4E21CF441/'.
+[2021.10.28-21.10.45:436][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.28-21.10.45:436][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.28-21.10.47:675][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.28-21.10.47:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.28-21.10.47:771][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.28-21.10.47:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.28-21.10.47:771][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.28-21.10.47:783][  0]LogDerivedDataCache: Speed tests for C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.10.28-21.10.47:783][  0]LogDerivedDataCache: Display: Performance to C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=163.73MBs, RandomWriteSpeed=210.40MBs. Assigned SpeedClass 'Local'
+[2021.10.28-21.10.47:783][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nhl27/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.28-21.10.47:783][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.28-21.10.47:783][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.28-21.10.47:830][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.28-21.10.47:842][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.28-21.10.47:875][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2021.10.28-21.10.48:161][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.28-21.10.48:161][  0]LogInit: Active device profile: [000002CC30113400][000002CC26FC6C40 49] Windows
+[2021.10.28-21.10.48:161][  0]LogInit: Profiles: [000002CC30113400][000002CC26FC6C40 49] Windows, [000002CC300E4F00][000002CC26FCEDC0 49] WindowsNoEditor, [000002CC30111000][000002CC26FD2F40 49] WindowsServer, [000002CC300E6D00][000002CC26FD70C0 49] WindowsClient, [000002CC30112E00][000002CC26FDB240 49] IOS, [000002CC300E5400][000002CC26FDF3C0 49] iPadAir, [000002CC30111500][000002CC26FE3540 49] iPadAir2, [000002CC300B0A00][000002CC26FE7780 49] IPadPro, [000002CC300B0B00][000002CC26FCB7C0 49] iPadAir3, [000002CC30112900][000002CC26FEB900 49] iPadAir4, [000002CC300B3500][000002CC26FF3A80 49] iPadMini2, [000002CC30111800][000002CC26FF7C00 49] iPadMini3, [000002CC300B2000][000002CC26FFA0C0 49] iPadMini4, [000002CC30110D00][000002CC26FFE240 49] iPadMini5, [000002CC300E6E00][000002CC27006500 49] iPhone6, [000002CC30097F00][000002CC27002540 49] iPodTouch6, [000002CC300E6800][000002CC2700E800 49] iPhone7, [000002CC300E6900][000002CC2700A840 49] iPodTouch7, [000002CC30095300][000002CC270129C0 49] iPhone5S, [000002CC300E5D00][000002CC27016B40 49] iPhone6Plus, [000002CC30096800][000002CC2701ACC0 49] iPhone6S, [000002CC300E4500][000002CC2701EE40 49] iPhone6SPlus, [000002CC30095800][000002CC27022FC0 49] iPhone7Plus, [000002CC300E5200][000002CC27027140 49] iPhoneSE, [000002CC30096900][000002CC2702B2C0 49] iPhone8, [000002CC300E5B00][000002CC2702F440 49] iPhone8Plus, [000002CC30095600][000002CC270335C0 49] iPhoneX, [000002CC300E5E00][000002CC26FEF700 49] iPhoneXS, [000002CC30094900][000002CC27037840 49] iPhoneXSMax, [000002CC300E4100][000002CC2703B980 49] iPhoneXR, [000002CC30095200][000002CC2703FAC0 49] iPhone11, [000002CC300E7F00][000002CC27047C40 49] iPhone11Pro, [000002CC30096C00][000002CC2704A100 49] iPhone11ProMax, [000002CC300E4600][000002CC2704E280 49] iPhoneSE2, [000002CC30095E00][000002CC27052400 49] iPhone12Mini, [000002CC300E7500][000002CC27056580 49] iPhone12, [000002CC30095F00][000002CC2705A700 49] iPhone12Pro, [000002CC300E4D00][000002CC2705E880 49] iPhone12ProMax, [000002CC30094200][000002CC27062A00 49] iPadPro105, [000002CC300E4300][000002CC27066B80 49] iPadPro129, [000002CC30094E00][000002CC2706AD00 49] iPadPro97, [000002CC300E7800][000002CC2706EE80 49] iPadPro2_129, [000002CC30096500][000002CC27073000 49] iPad5, [000002CC300E4400][000002CC27077180 49] iPad6, [000002CC30094300][000002CC2707B300 49] iPad7, [000002CC300E5F00][000002CC26973480 49] iPad8, [000002CC30097400][000002CC26977600 49] iPadPro11, [000002CC300E6700][000002CC27043740 49] iPadPro2_11, [000002CC30094600][000002CC2697B880 49] iPadPro3_129, [000002CC300E7400][000002CC2697F9C0 49] iPadPro4_129, [000002CC30097D00][000002CC26983B00 49] AppleTV, [000002CC300E6F00][000002CC2698BC80 49] AppleTV4K, [000002CC30096D00][000002CC2698E140 49] TVOS, [000002CC300E6C00][000002CC269922C0 49] Mac, [000002CC30095100][000002CC26996440 49] MacClient, [000002CC300E4A00][000002CC2699A5C0 49] MacNoEditor, [000002CC30097600][000002CC2699E740 49] MacServer, [000002CC300E4B00][000002CC269A28C0 49] Linux, [000002CC30097000][000002CC269A6A40 49] LinuxAArch64, [000002CC30170500][000002CC269AABC0 49] LinuxNoEditor, [000002CC30113900][000002CC269AED40 49] LinuxAArch64NoEditor, [000002CC30170A00][000002CC269B2EC0 49] LinuxClient, [000002CC30113600][000002CC269B7040 49] LinuxAArch64Client, [000002CC30170300][000002CC269BB1C0 49] LinuxServer, [000002CC30111100][000002CC269BF340 49] LinuxAArch64Server, [000002CC30170100][000002CC269C34C0 49] Android, [000002CC30113700][000002CC269C7640 49] Android_Low, [000002CC30170800][000002CC269CB7C0 49] Android_Mid, [000002CC30112100][000002CC26987900 49] Android_High, [000002CC30170E00][000002CC269CFA40 49] Android_Default, [000002CC30113000][000002CC269D3B80 49] Android_Adreno4xx, [000002CC30171100][000002CC269DBD00 49] Android_Adreno5xx_Low, [000002CC30112000][000002CC269DE1C0 49] Android_Adreno5xx, [000002CC30171200][000002CC269E2340 49] Android_Adreno6xx, [000002CC30110800][000002CC269E64C0 49] Android_Adreno6xx_Vulkan, [000002CC300E7900][000002CC269EA640 49] Android_Mali_T6xx, [000002CC30111A00][000002CC269EE7C0 49] Android_Mali_T7xx, [000002CC300E7200][000002CC269F2940 49] Android_Mali_T8xx, [000002CC30110F00][000002CC269F6AC0 49] Android_Mali_G71, [000002CC300E6100][000002CC269FAC40 49] Android_Mali_G72, [000002CC30110400][000002CC269FEDC0 49] Android_Mali_G72_Vulkan, [000002CC300E7700][000002CC26A02F40 49] Android_Mali_G76, [000002CC30110300][000002CC26A070C0 49] Android_Mali_G76_Vulkan, [000002CC300E5800][000002CC26A0B240 49] Android_Mali_G77, [000002CC30113500][000002CC26A0F3C0 49] Android_Mali_G77_Vulkan, [000002CC300E7A00][000002CC26A13540 49] Android_Vulkan_SM5, [000002CC30113200][000002CC26A176C0 49] Android_PowerVR_G6xxx, [000002CC300E7100][000002CC26A1B840 49] Android_PowerVR_GT7xxx, [000002CC30112700][000002CC269D7980 49] Android_PowerVR_GE8xxx, [000002CC300E6B00][000002CC26A1FAC0 49] Android_PowerVR_GM9xxx, [000002CC30112800][000002CC26A23C00 49] Android_PowerVR_GM9xxx_Vulkan, [000002CC300E4C00][000002CC26A2A0C0 49] Android_TegraK1, [000002CC30113800][000002CC26A2E240 49] Android_Unknown_Vulkan, [000002CC300E5900][000002CC26A323C0 49] Lumin, [000002CC30112200][000002CC26A36540 49] Lumin_Desktop, [000002CC30097C00][000002CC26A3A6C0 49] HoloLens, 
+[2021.10.28-21.10.48:374][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.28-21.10.48:374][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.28-21.10.48:374][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.28-21.10.48:374][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.28-21.10.48:374][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.28-21.10.48:427][  0]LogNetVersion: DivineCombat 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2491796348)
+[2021.10.28-21.10.49:504][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.28-21.10.49:542][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.037166 seconds
+[2021.10.28-21.10.49:548][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.28-21.10.49:548][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.28-21.10.49:548][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.28-21.10.50:399][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.28-21.10.50:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.28-21.10.50:531][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.50:531][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.50:537][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.50:546][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.50:571][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.50:587][  0]LogUProjectInfo: Found projects:
+[2021.10.28-21.10.50:937][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.28-21.10.50:959][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.28-21.10.50:959][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.28-21.10.51:053][  0]LogCollectionManager: Loaded 0 collections in 0.001804 seconds
+[2021.10.28-21.10.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Collections/' took 0.00s
+[2021.10.28-21.10.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Developers/nhl27/Collections/' took 0.00s
+[2021.10.28-21.10.51:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Collections/' took 0.00s
+[2021.10.28-21.10.51:095][  0]LogOcInput: OculusInput pre-init called
+[2021.10.28-21.10.51:111][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.28-21.10.51:111][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.28-21.10.51:201][  0]LogEngine: Initializing Engine...
+[2021.10.28-21.10.51:202][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.28-21.10.51:202][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.28-21.10.51:205][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.28-21.10.51:429][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.28-21.10.51:461][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.28-21.10.51:464][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.28-21.10.51:469][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.28-21.10.51:469][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.28-21.10.51:470][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.28-21.10.51:470][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.28-21.10.51:471][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.28-21.10.51:471][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.28-21.10.51:493][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.28-21.10.51:493][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.28-21.10.51:516][  0]LogAudioMixer: Display: Using Audio Device XV272U V (NVIDIA High Definition Audio)
+[2021.10.28-21.10.51:517][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.28-21.10.51:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.28-21.10.51:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.28-21.10.51:534][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.28-21.10.51:535][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.28-21.10.51:535][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.28-21.10.51:535][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.28-21.10.51:536][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.28-21.10.51:536][  0]LogInit: FAudioDevice initialized.
+[2021.10.28-21.10.51:536][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.28-21.10.51:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.28-21.10.51:577][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/nhl27/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.28-21.10.51:577][  0]LogInit: Texture streaming: Enabled
+[2021.10.28-21.10.51:592][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.28-21.10.51:595][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.28-21.10.51:595][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.28-21.10.51:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.28-21.10.51:753][  0]LogInit: Transaction tracking system initialized
+[2021.10.28-21.10.51:793][  0]BlueprintLog: New page: Editor Load
+[2021.10.28-21.10.51:937][  0]LocalizationService: Localization service is disabled
+[2021.10.28-21.10.51:988][  0]TimingProfiler: Initialize
+[2021.10.28-21.10.51:990][  0]TimingProfiler: OnSessionChanged
+[2021.10.28-21.10.51:991][  0]LoadingProfiler: Initialize
+[2021.10.28-21.10.51:991][  0]LoadingProfiler: OnSessionChanged
+[2021.10.28-21.10.51:991][  0]NetworkingProfiler: Initialize
+[2021.10.28-21.10.51:992][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.28-21.10.51:992][  0]MemoryProfiler: Initialize
+[2021.10.28-21.10.51:992][  0]MemoryProfiler: OnSessionChanged
+[2021.10.28-21.10.52:362][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.28-21.10.52:362][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.28-21.10.52:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/' took 0.00s
+[2021.10.28-21.10.52:735][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.28-21.10.52:741][  0]SourceControl: Source control is disabled
+[2021.10.28-21.10.52:741][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.052
+[2021.10.28-21.10.52:742][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.28-21.10.52:749][  0]LightingResults: New page: Lighting Build
+[2021.10.28-21.10.52:750][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.28-21.10.52:751][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.28-21.10.52:752][  0]MapCheck: New page: Map Check
+[2021.10.28-21.10.52:752][  0]LightingResults: New page: Lighting Build
+[2021.10.28-21.10.52:769][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.28-21.10.53:187][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.10.28-21.10.53:189][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.28-21.10.53:217][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.28-21.10.53:221][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.10.28-21.10.53:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.28-21.10.53:227][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.28-21.10.53:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2021.10.28-21.10.53:227][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.485
+[2021.10.28-21.10.53:245][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.555
+[2021.10.28-21.10.53:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.28-21.10.53:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.28-21.10.53:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.28-21.10.53:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.28-21.10.53:430][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3601 classes and 859 folders.
+[2021.10.28-21.10.53:437][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.28-21.10.53:447][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.28-21.10.53:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.28-21.10.53:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.10.28-21.10.53:454][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.28-21.10.53:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.28-21.10.53:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.10.28-21.10.53:458][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.28-21.10.53:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.28-21.10.53:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.28-21.10.53:462][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.28-21.10.53:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.28-21.10.53:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.28-21.10.53:467][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.28-21.10.53:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.28-21.10.53:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.28-21.10.53:472][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.28-21.10.53:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.28-21.10.53:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.28-21.10.53:476][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.28-21.10.53:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.28-21.10.53:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.28-21.10.53:481][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.28-21.10.53:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.28-21.10.53:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.28-21.10.53:487][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.28-21.10.53:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.28-21.10.53:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.28-21.10.53:492][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.28-21.10.53:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.28-21.10.53:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.28-21.10.53:496][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.28-21.10.53:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:496][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.28-21.10.53:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.10.28-21.10.53:502][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.28-21.10.53:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.28-21.10.53:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.28-21.10.53:506][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.28-21.10.53:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.28-21.10.53:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.28-21.10.53:510][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.28-21.10.53:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.28-21.10.53:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.28-21.10.53:514][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.28-21.10.53:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.28-21.10.53:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.10.28-21.10.53:519][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.28-21.10.53:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.28-21.10.53:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.28-21.10.53:523][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.28-21.10.53:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.28-21.10.53:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.10.28-21.10.53:528][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.28-21.10.53:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.28-21.10.53:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.10.28-21.10.53:532][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.28-21.10.53:532][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:532][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.28-21.10.53:532][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.10.28-21.10.53:540][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.28-21.10.53:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.28-21.10.53:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.10.28-21.10.53:545][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.28-21.10.53:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.28-21.10.53:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.10.28-21.10.53:549][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.28-21.10.53:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.28-21.10.53:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.10.28-21.10.53:554][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.28-21.10.53:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.28-21.10.53:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.10.28-21.10.53:559][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.28-21.10.53:559][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:559][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.28-21.10.53:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.10.28-21.10.53:563][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.28-21.10.53:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.28-21.10.53:563][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.10.28-21.10.53:569][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.28-21.10.53:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.28-21.10.53:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.28-21.10.53:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.10.28-21.10.53:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.28-21.10.53:686][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.28-21.10.53:833][  0]LogSlate: Took 0.004182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.28-21.10.53:839][  0]LogSlate: Took 0.004598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.28-21.10.53:849][  0]LogSlate: Took 0.004388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.28-21.10.53:980][  0]LogRenderer: Reallocating scene render targets to support 1616x964 Format 10 NumSamples 1 (Frame:1).
+[2021.10.28-21.10.54:075][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.28-21.10.54:075][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.28-21.10.54:075][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.10.28-21.10.54:075][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.28-21.10.54:075][  0]LogLoad: (Engine Initialization) Total time: 14.39 seconds
+[2021.10.28-21.10.54:075][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.28-21.10.54:075][  0]LogInit: First time updating LLM stats...
+[2021.10.28-21.10.54:108][  0]LogAssetRegistry: Asset discovery search completed in 6.2346 seconds
+[2021.10.28-21.10.54:109][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.28-21.10.54:134][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.28-21.20.52:972][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.28-21.20.52:986][821]LogSlate: Took 0.004811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.28-21.20.53:000][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/test.test
+[2021.10.28-21.20.53:000][821]Cmd: MAP LOAD FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.28-21.20.53:000][821]LightingResults: New page: Lighting Build
+[2021.10.28-21.20.53:000][821]LoadErrors: New page: Loading map: test.umap
+[2021.10.28-21.20.53:029][821]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.28-21.20.53:029][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.28-21.20.53:029][821]MapCheck: New page: Map Check
+[2021.10.28-21.20.53:029][821]LightingResults: New page: Lighting Build
+[2021.10.28-21.20.53:031][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.28-21.20.53:033][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.28-21.20.53:034][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2021.10.28-21.20.53:078][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.28-21.20.53:078][821]LogAIModule: Creating AISystem for world test
+[2021.10.28-21.20.53:082][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.28-21.20.53:084][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.28-21.20.53:084][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2021.10.28-21.20.53:084][821]LogFileHelpers: Loading map 'test' took 0.084
+[2021.10.28-21.30.03:878][859]LogEditorViewport: Clicking Background
+[2021.10.28-21.30.03:970][870]LogEditorViewport: Clicking Background
+[2021.10.28-21.31.09:524][724]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Z to Maya\Ready\stone_table_uved.fbx)
+[2021.10.28-21.31.09:549][724]LogFbx: Loading FBX Scene from D:\Z to Maya\Ready\stone_table_uved.fbx
+[2021.10.28-21.31.09:561][724]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.28-21.31.19:468][724]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.28-21.31.19:491][724]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.10.28-21.31.19:519][724]LogFbx: Display: Triangulating static mesh nurbsToPoly1
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.28-21.31.19:566][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.28-21.31.19:567][724]LogStaticMesh: Building static mesh stone_table_uved_nurbsToPoly1...
+[2021.10.28-21.31.19:585][724]LogStaticMesh: Built static mesh [0.02s] /Game/Models/stone_table_uved_nurbsToPoly1.stone_table_uved_nurbsToPoly1
+[2021.10.28-21.31.19:599][724]LogFbx: Display: Triangulating static mesh pSphere1
+[2021.10.28-21.31.19:632][724]LogStaticMesh: Building static mesh stone_table_uved_pSphere1...
+[2021.10.28-21.31.19:644][724]LogStaticMesh: Built static mesh [0.01s] /Game/Models/stone_table_uved_pSphere1.stone_table_uved_pSphere1
+[2021.10.28-21.31.22:710][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.28-21.31.22:710][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/test' took 0.004
+[2021.10.28-21.31.22:710][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/stone_table_uved_pSphere1] ([1] browsable assets)...
+[2021.10.28-21.31.22:717][ 78]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/stone_table_uved_pSphere1.stone_table_uved_pSphere1]
+[2021.10.28-21.31.22:717][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/stone_table_uved_pSphere1]
+[2021.10.28-21.31.22:726][ 78]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/stone_table_uved_pSphere1_Auto168A5315B4C59EC676CE09FA5B9A7435B.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Models/stone_table_uved_pSphere1_Auto1.uasset'
+[2021.10.28-21.31.22:726][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/stone_table_uved_nurbsToPoly1] ([1] browsable assets)...
+[2021.10.28-21.31.22:733][ 78]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/stone_table_uved_nurbsToPoly1.stone_table_uved_nurbsToPoly1]
+[2021.10.28-21.31.22:733][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/stone_table_uved_nurbsToPoly1]
+[2021.10.28-21.31.22:742][ 78]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/stone_table_uved_nurbsToPoly1_AuEC1021FA4BA77C0CA1DECF930C9E1E64.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Models/stone_table_uved_nurbsToPoly1_Auto1.uasset'
+[2021.10.28-21.31.22:743][ 78]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.10.28-21.31.39:433][ 74]LogActorFactory: Actor Factory created stone_table_uved_nurbsToPoly1
+[2021.10.28-21.31.39:940][134]LogActorFactory: Actor Factory created stone_table_uved_nurbsToPoly1
+[2021.10.28-21.32.01:856][733]LogEditorViewport: Clicking Background
+[2021.10.28-21.32.02:612][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stone_table_uved_nurbsToPoly1)
+[2021.10.28-21.32.31:300][239]Cmd: TRANSACTION UNDO
+[2021.10.28-21.32.31:300][239]LogEditorTransaction: Undo Rotate Actors
+[2021.10.28-21.32.32:431][347]Cmd: TRANSACTION UNDO
+[2021.10.28-21.32.32:431][347]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.32.47:110][ 80]Cmd: TRANSACTION UNDO
+[2021.10.28-21.32.47:110][ 80]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.32.58:648][421]Cmd: TRANSACTION UNDO
+[2021.10.28-21.32.58:648][421]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.33.08:177][524]Cmd: TRANSACTION UNDO
+[2021.10.28-21.33.08:177][524]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.33.09:522][656]Cmd: TRANSACTION UNDO
+[2021.10.28-21.33.09:522][656]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.28-21.41.22:855][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.28-21.41.22:858][755]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/test_Auto268C3F5E74072F106786B658BB68F9280.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/Autosaves/Game/Maps/test_Auto2.umap'
+[2021.10.28-21.41.22:859][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/test' took 0.011
+[2021.10.28-21.41.22:859][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2021.10.28-21.42.09:933][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.10.28-21.42.26:700][449]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.28-21.42.33:065][932]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Z to Maya\Ready\stone_table_uved.fbx)
+[2021.10.28-21.42.33:071][932]LogFbx: Loading FBX Scene from D:\Z to Maya\Ready\stone_table_uved.fbx
+[2021.10.28-21.42.33:078][932]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.28-21.42.35:011][932]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.28-21.42.35:022][932]LogFbx: Display: Triangulating static mesh pSphere2
+[2021.10.28-21.42.35:089][932]LogStaticMesh: Building static mesh stone_table_uved...
+[2021.10.28-21.42.35:121][932]LogStaticMesh: Built static mesh [0.03s] /Game/Models/stone_table_uved.stone_table_uved
+[2021.10.28-21.42.40:272][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.28-21.42.42:503][539]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.28-21.42.49:207][340]Cmd: TRANSACTION UNDO
+[2021.10.28-21.42.49:207][340]LogEditorTransaction: Undo Clicking Background
+[2021.10.28-21.42.50:318][442]Cmd: TRANSACTION UNDO
+[2021.10.28-21.42.50:318][442]LogEditorTransaction: Undo Scale Actors
+[2021.10.28-21.42.50:921][514]Cmd: TRANSACTION UNDO
+[2021.10.28-21.42.50:921][514]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.42.57:936][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.28-21.42.58:920][338]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.28-21.42.58:964][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.28-21.43.01:319][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Z to Maya\Ready\stone_table_uved.fbx)
+[2021.10.28-21.43.01:326][580]LogFbx: Loading FBX Scene from D:\Z to Maya\Ready\stone_table_uved.fbx
+[2021.10.28-21.43.01:333][580]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.28-21.43.02:719][580]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.28-21.43.02:728][580]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.10.28-21.43.02:736][580]LogFbx: Display: Triangulating static mesh pSphere2
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.10.28-21.43.02:818][580]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.10.28-21.43.02:818][580]LogStaticMesh: Building static mesh stone_table_uved...
+[2021.10.28-21.43.02:856][580]LogStaticMesh: Built static mesh [0.04s] /Game/Models/stone_table_uved.stone_table_uved
+[2021.10.28-21.43.06:201][963]LogActorFactory: Actor Factory created stone_table_uved
+[2021.10.28-21.43.06:726][ 26]LogActorFactory: Actor Factory created stone_table_uved
+[2021.10.28-21.43.10:384][460]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/test.test:PersistentLevel.stone_table_uved_5.StaticMeshComponent0)
+[2021.10.28-21.43.10:392][461]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/test.test:PersistentLevel.stone_table_uved_5.StaticMeshComponent0)
+[2021.10.28-21.43.10:692][497]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/test.test:PersistentLevel.stone_table_uved_5.StaticMeshComponent0)
+[2021.10.28-21.43.10:692][497]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/test.test:PersistentLevel.stone_table_uved_5.StaticMeshComponent0)
+[2021.10.28-21.43.21:590][798]Cmd: TRANSACTION UNDO
+[2021.10.28-21.43.21:590][798]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.43.22:136][833]Cmd: TRANSACTION UNDO
+[2021.10.28-21.43.22:136][833]LogEditorTransaction: Undo Scale Actors
+[2021.10.28-21.43.22:876][921]Cmd: TRANSACTION UNDO
+[2021.10.28-21.43.22:876][921]LogEditorTransaction: Undo Create Actors
+[2021.10.28-21.43.51:544][331]LogMetaData: Removing '/Game/NewFolder/stone_table_uved.stone_table_uved' ref from Metadata '/Game/Models/stone_table_uved.PackageMetaData'
+[2021.10.28-21.43.51:570][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/stone_table_uved" FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/NewFolder/stone_table_uved.uasset" SILENT=true
+[2021.10.28-21.43.51:584][331]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/stone_table_uved03A8051A46092F7E83AC279935BD7F46.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/NewFolder/stone_table_uved.uasset'
+[2021.10.28-21.43.51:592][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/lambert1" FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/NewFolder/lambert1.uasset" SILENT=true
+[2021.10.28-21.43.51:596][331]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/lambert1A33018A1434211CBD0E9BC8688AC553F.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/NewFolder/lambert1.uasset'
+[2021.10.28-21.43.51:634][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.28-21.43.51:637][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.28-21.43.51:645][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.28-21.43.51:647][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.10.28-21.43.51:667][331]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.28-21.43.51:667][331]LogContentValidation: Display: Validating StaticMesh /Game/NewFolder/stone_table_uved.stone_table_uved
+[2021.10.28-21.43.51:667][331]LogContentValidation: Display: Validating Material /Game/NewFolder/lambert1.lambert1
+[2021.10.28-21.44.09:932][504]LogMetaData: Removing '/Game/stonetable/stone_table_uved.stone_table_uved' ref from Metadata '/Game/NewFolder/stone_table_uved.PackageMetaData'
+[2021.10.28-21.44.09:970][504]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/stone_table_uved1A3CBBB74B77FA81D3295CB9F3127883.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/stonetable/stone_table_uved.uasset'
+[2021.10.28-21.44.09:977][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/stonetable/lambert1" FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/stonetable/lambert1.uasset" SILENT=true
+[2021.10.28-21.44.09:981][504]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/lambert1C957CF4C4F64AF4DD6B4A6BDFD27BFA8.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/stonetable/lambert1.uasset'
+[2021.10.28-21.44.10:015][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.28-21.44.10:018][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.28-21.44.10:024][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.28-21.44.10:028][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.28-21.44.10:044][504]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.28-21.44.10:044][504]LogContentValidation: Display: Validating StaticMesh /Game/stonetable/stone_table_uved.stone_table_uved
+[2021.10.28-21.44.10:044][504]LogContentValidation: Display: Validating Material /Game/stonetable/lambert1.lambert1
+[2021.10.28-21.44.30:623][961]LogMetaData: Removing '/Game/Models/stonetable/stone_table_uved.stone_table_uved' ref from Metadata '/Game/stonetable/stone_table_uved.PackageMetaData'
+[2021.10.28-21.44.30:656][961]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/stone_table_uved08B24B7242062A583106A0B9BAF8F211.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Models/stonetable/stone_table_uved.uasset'
+[2021.10.28-21.44.30:664][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/stonetable/lambert1" FILE="../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Models/stonetable/lambert1.uasset" SILENT=true
+[2021.10.28-21.44.30:668][961]LogSavePackage: Moving '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Saved/lambert1B7C00C03489B3BFA4D0A4E80FA577D8E.tmp' to '../../../../../../Users/nhl27/OneDrive/Desktop/GitHub/DivineCombat/DivineCombat/Content/Models/stonetable/lambert1.uasset'
+[2021.10.28-21.44.30:701][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.28-21.44.30:703][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.28-21.44.30:710][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.28-21.44.30:712][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.10.28-21.44.30:734][961]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.28-21.44.30:734][961]LogContentValidation: Display: Validating StaticMesh /Game/Models/stonetable/stone_table_uved.stone_table_uved
+[2021.10.28-21.44.30:734][961]LogContentValidation: Display: Validating Material /Game/Models/stonetable/lambert1.lambert1
+[2021.10.28-21.44.51:995][463]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.28-21.44.52:013][463]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.28-21.44.57:306][ 99]LogContentBrowser: Attempting asset rename: NewFolder -> skull
+[2021.10.28-21.44.57:306][ 99]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.28-21.46.08:581][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
