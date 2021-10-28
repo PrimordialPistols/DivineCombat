@@ -1,0 +1,1407 @@
+﻿Log file open, 10/21/21 15:29:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DivineCombat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.542029
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/cynth/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ProgramFiles/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.21-19.29.16:925][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.21-19.29.16:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:926][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:944][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.21-19.29.16:944][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.21-19.29.16:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.21-19.29.16:946][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.21-19.29.16:947][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.21-19.29.16:947][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.21-19.29.16:947][  0]LogHAL: Display: Platform has ~ 20 GB [21284229120 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.21-19.29.16:947][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.21-19.29.16:947][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.21-19.29.16:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.21-19.29.16:948][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.21-19.29.16:949][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.21-19.29.16:950][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.21-19.29.16:950][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.21-19.29.16:950][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.21-19.29.16:950][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Engine.ini]
+[2021.10.21-19.29.16:950][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/DivineCombat/DivineCombat/Saved/Config/Windows/Editor.ini]
+[2021.10.21-19.29.16:950][  0]LogInit: Computer: DESKTOP-J2IFH49
+[2021.10.21-19.29.16:950][  0]LogInit: User: cynth
+[2021.10.21-19.29.16:950][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.21-19.29.16:950][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.21-19.29.16:950][  0]LogMemory: Memory total: Physical=19.8GB (20GB approx)
+[2021.10.21-19.29.16:950][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.21-19.29.16:950][  0]LogMemory: Process Physical Memory: 130.23 MB used, 130.23 MB peak
+[2021.10.21-19.29.16:950][  0]LogMemory: Process Virtual Memory: 110.75 MB used, 110.75 MB peak
+[2021.10.21-19.29.16:950][  0]LogMemory: Physical Memory: 8221.95 MB used,  12076.27 MB free, 20298.22 MB total
+[2021.10.21-19.29.16:950][  0]LogMemory: Virtual Memory: 134204440.00 MB used,  13289.86 MB free, 134217728.00 MB total
+[2021.10.21-19.29.16:960][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.21-19.29.17:076][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.21-19.29.17:080][  0]LogInit: Using OS detected language (en-US).
+[2021.10.21-19.29.17:080][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.21-19.29.17:087][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.21-19.29.17:640][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.21-19.29.17:661][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.21-19.29.17:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.21-19.29.17:690][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.21-19.29.18:350][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.21-19.29.18:350][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.21-19.29.18:350][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.21-19.29.18:350][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.21-19.29.18:608][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.10.21-19.29.18:608][  0]LogD3D11RHI:       3962/0/10149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.21-19.29.18:648][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.10.21-19.29.18:648][  0]LogD3D11RHI:       128/0/10149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.21-19.29.18:652][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.21-19.29.18:652][  0]LogD3D11RHI:       0/0/10149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.21-19.29.18:652][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.21-19.29.18:664][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.21-19.29.18:665][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.21-19.29.18:665][  0]LogWindows: EnumDisplayDevices:
+[2021.10.21-19.29.18:665][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.10.21-19.29.18:665][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.10.21-19.29.18:666][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.10.21-19.29.18:667][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.10.21-19.29.18:667][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.10.21-19.29.18:667][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.10.21-19.29.18:667][  0]LogD3D11RHI:   Driver Version: 462.31 (internal:27.21.14.6231, unified:462.31)
+[2021.10.21-19.29.18:667][  0]LogD3D11RHI:      Driver Date: 4-8-2021
+[2021.10.21-19.29.18:667][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.10.21-19.29.18:869][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.21-19.29.18:870][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.21-19.29.18:870][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.21-19.29.18:930][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.10.21-19.29.18:933][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.21-19.29.20:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.21-19.29.20:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.21-19.29.20:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.21-19.29.20:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.21-19.29.20:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.21-19.29.20:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.21-19.29.20:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.21-19.29.20:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.21-19.29.20:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.21-19.29.20:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.21-19.29.20:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.21-19.29.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.21-19.29.20:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.21-19.29.20:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.21-19.29.20:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.21-19.29.20:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.21-19.29.20:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.21-19.29.20:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.21-19.29.20:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.21-19.29.20:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.21-19.29.20:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.21-19.29.20:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.21-19.29.20:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.21-19.29.20:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.21-19.29.20:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.21-19.29.20:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.21-19.29.20:856][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.21-19.29.20:874][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.21-19.29.21:005][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.21-19.29.21:005][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../GitHub/DivineCombat/DivineCombat/Intermediate/Shaders/WorkingDirectory/13280/).
+[2021.10.21-19.29.21:006][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cynth/AppData/Local/Temp/UnrealShaderWorkingDir/B93C5091458058CD2F4DCB971B195B33/'.
+[2021.10.21-19.29.21:006][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.21-19.29.21:006][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.21-19.29.23:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/cynth/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cynth/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/DivineCombat/DivineCombat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/DivineCombat/DivineCombat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.21-19.29.23:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.21-19.29.23:333][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.21-19.29.23:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.21-19.29.23:333][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.21-19.29.23:356][  0]LogDerivedDataCache: Speed tests for C:/Users/cynth/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.10.21-19.29.23:356][  0]LogDerivedDataCache: Display: Performance to C:/Users/cynth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=358.80MBs, RandomWriteSpeed=49.18MBs. Assigned SpeedClass 'Local'
+[2021.10.21-19.29.23:375][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cynth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.21-19.29.23:375][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.21-19.29.23:375][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.21-19.29.23:527][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.21-19.29.23:530][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.21-19.29.23:606][  0]LogAssetRegistry: FAssetRegistry took 0.0056 seconds to start up
+[2021.10.21-19.29.24:314][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.21-19.29.24:315][  0]LogInit: Active device profile: [0000021A8C96A200][0000021A8BFBED80 49] Windows
+[2021.10.21-19.29.24:315][  0]LogInit: Profiles: [0000021A8C96A200][0000021A8BFBED80 49] Windows, [0000021A8C902200][0000021A8BFC6F00 49] WindowsNoEditor, [0000021A8C969600][0000021A8BFCB080 49] WindowsServer, [0000021A8C901200][0000021A8BFCF200 49] WindowsClient, [0000021A8C969D00][0000021A8BFD3380 49] IOS, [0000021A8C902600][0000021A8BFD7500 49] iPadAir, [0000021A8C96A500][0000021A8BFC3640 49] iPadAir2, [0000021A8C7F6000][0000021A8BFDF880 49] IPadPro, [0000021A8C7F6100][0000021A8BFDB8C0 49] iPadAir3, [0000021A8C901300][0000021A8BFE3A00 49] iPadAir4, [0000021A8C7F7900][0000021A8BFEBB80 49] iPadMini2, [0000021A8C900500][0000021A8BFEFD00 49] iPadMini3, [0000021A8C7F5400][0000021A8BFFA1C0 49] iPadMini4, [0000021A8C902A00][0000021A8BFFE340 49] iPadMini5, [0000021A8C8F1900][0000021A8C006600 49] iPhone6, [0000021A8C8F1A00][0000021A8C002640 49] iPodTouch6, [0000021A8C7F7E00][0000021A8C00E900 49] iPhone7, [0000021A8C7F5F00][0000021A8C00A940 49] iPodTouch7, [0000021A8C8F3100][0000021A8C012AC0 49] iPhone5S, [0000021A8C7F7100][0000021A8C016C40 49] iPhone6Plus, [0000021A8C8F1600][0000021A8C01ADC0 49] iPhone6S, [0000021A8C7F4E00][0000021A8D030F40 49] iPhone6SPlus, [0000021A8C8F0700][0000021A8D04D0C0 49] iPhone7Plus, [0000021A8C7F4A00][0000021A8D051240 49] iPhoneSE, [0000021A8C8F2900][0000021A8D0553C0 49] iPhone8, [0000021A8C7F6800][0000021A8D059540 49] iPhone8Plus, [0000021A8C8F0500][0000021A8BFE7680 49] iPhoneX, [0000021A8C7F6F00][0000021A8D07D7C0 49] iPhoneXS, [0000021A8C8F2600][0000021A8D081900 49] iPhoneXSMax, [0000021A8C7F7B00][0000021A8D085A40 49] iPhoneXR, [0000021A8C8F0D00][0000021A8D08DBC0 49] iPhone11, [0000021A8C7F6700][0000021A8D091D40 49] iPhone11Pro, [0000021A8C8F2700][0000021A8D094200 49] iPhone11ProMax, [0000021A8C7F7600][0000021A8D098380 49] iPhoneSE2, [0000021A8C8F2800][0000021A8D09C500 49] iPhone12Mini, [0000021A8C7F6400][0000021A8D0CC680 49] iPhone12, [0000021A8C8F2100][0000021A8D0D0800 49] iPhone12Pro, [0000021A8C7F5E00][0000021A8D0D4980 49] iPhone12ProMax, [0000021A8C96A700][0000021A8D0D8B00 49] iPadPro105, [0000021A8C7F6D00][0000021A8D0DCC80 49] iPadPro129, [0000021A8C96AD00][0000021A8D0E0E00 49] iPadPro97, [0000021A8C7F4400][0000021A8D0E4F80 49] iPadPro2_129, [0000021A8C96B600][0000021A8D0E9100 49] iPad5, [0000021A8C7F6300][0000021A8D0ED280 49] iPad6, [0000021A8C96AA00][0000021A8D0F1400 49] iPad7, [0000021A8C7F6E00][0000021A8D0F5580 49] iPad8, [0000021A8C969F00][0000021A8D0F9700 49] iPadPro11, [0000021A8C7F5100][0000021A8D089840 49] iPadPro2_11, [0000021A8C968500][0000021A8D0FD980 49] iPadPro3_129, [0000021A8C7F7700][0000021A8D101AC0 49] iPadPro4_129, [0000021A8C969100][0000021A8D109C40 49] AppleTV, [0000021A8C7F7300][0000021A8D10C100 49] AppleTV4K, [0000021A8C968D00][0000021A8D110280 49] TVOS, [0000021A8C7F4300][0000021A8D114400 49] Mac, [0000021A8C96A400][0000021A8D118580 49] MacClient, [0000021A8C7F4700][0000021A8D11C700 49] MacNoEditor, [0000021A8C968300][0000021A8D120880 49] MacServer, [0000021A8C7F6B00][0000021A8D124A00 49] Linux, [0000021A8C969300][0000021A8D128B80 49] LinuxAArch64, [0000021A8C7F5600][0000021A8D12CD00 49] LinuxNoEditor, [0000021A8C969500][0000021A8D130E80 49] LinuxAArch64NoEditor, [0000021A8C7F4D00][0000021A8D135000 49] LinuxClient, [0000021A8C968800][0000021A8D139180 49] LinuxAArch64Client, [0000021A8C7F4500][0000021A8D13D300 49] LinuxServer, [0000021A8C968100][0000021A8D141480 49] LinuxAArch64Server, [0000021A8C7F6200][0000021A8D145600 49] Android, [0000021A8C96B100][0000021A8D149780 49] Android_Low, [0000021A8C7F5800][0000021A8D1058C0 49] Android_Mid, [0000021A8C96B300][0000021A8D14DA00 49] Android_High, [0000021A8C7F5C00][0000021A8D151B40 49] Android_Default, [0000021A8C969700][0000021A8D159CC0 49] Android_Adreno4xx, [0000021A8C7F6900][0000021A8D15C180 49] Android_Adreno5xx_Low, [0000021A8C969B00][0000021A8D160300 49] Android_Adreno5xx, [0000021A8C7F7F00][0000021A8D164480 49] Android_Adreno6xx, [0000021A8C968900][0000021A8D168600 49] Android_Adreno6xx_Vulkan, [0000021A8C7F5700][0000021A8D16C780 49] Android_Mali_T6xx, [0000021A8C969400][0000021A8D170900 49] Android_Mali_T7xx, [0000021A8C7F5D00][0000021A8D174A80 49] Android_Mali_T8xx, [0000021A8C968700][0000021A8D178C00 49] Android_Mali_G71, [0000021A8C902700][0000021A8D17CD80 49] Android_Mali_G72, [0000021A8C8F2C00][0000021A8D180F00 49] Android_Mali_G72_Vulkan, [0000021A8C902D00][0000021A8D185080 49] Android_Mali_G76, [0000021A8C8F0300][0000021A8D189200 49] Android_Mali_G76_Vulkan, [0000021A8C902900][0000021A8D18D380 49] Android_Mali_G77, [0000021A8C8F0200][0000021A8D191500 49] Android_Mali_G77_Vulkan, [0000021A8C902500][0000021A8D195680 49] Android_Vulkan_SM5, [0000021A8C8F0400][0000021A8D199800 49] Android_PowerVR_G6xxx, [0000021A8C903200][0000021A8D155940 49] Android_PowerVR_GT7xxx, [0000021A8C8F3F00][0000021A8D19DA80 49] Android_PowerVR_GE8xxx, [0000021A8C903600][0000021A8D1A1BC0 49] Android_PowerVR_GM9xxx, [0000021A8C8F3400][0000021A8D1A5D00 49] Android_PowerVR_GM9xxx_Vulkan, [0000021A8C901800][0000021A8D1AC1C0 49] Android_TegraK1, [0000021A8C8F3B00][0000021A8D1B0340 49] Android_Unknown_Vulkan, [0000021A8C903000][0000021A8D1B44C0 49] Lumin, [0000021A8C8F1700][0000021A8D1B8640 49] Lumin_Desktop, [0000021A8C902300][0000021A8D1BC7C0 49] HoloLens, 
+[2021.10.21-19.29.24:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.21-19.29.24:595][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.21-19.29.24:595][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.21-19.29.24:595][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.21-19.29.24:595][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.21-19.29.24:630][  0]LogNetVersion: DivineCombat 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2491796348)
+[2021.10.21-19.29.25:845][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.21-19.29.25:965][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.118805 seconds
+[2021.10.21-19.29.25:980][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.21-19.29.25:981][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.21-19.29.25:981][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.21-19.29.26:797][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.21-19.29.26:806][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.21-19.29.26:990][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.26:991][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.26:998][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.27:004][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.27:024][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.27:036][  0]LogUProjectInfo: Found projects:
+[2021.10.21-19.29.27:528][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.21-19.29.27:559][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.21-19.29.27:560][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.21-19.29.27:676][  0]LogCollectionManager: Loaded 0 collections in 0.001965 seconds
+[2021.10.21-19.29.27:683][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DivineCombat/DivineCombat/Saved/Collections/' took 0.00s
+[2021.10.21-19.29.27:683][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DivineCombat/DivineCombat/Content/Developers/cynth/Collections/' took 0.00s
+[2021.10.21-19.29.27:683][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DivineCombat/DivineCombat/Content/Collections/' took 0.00s
+[2021.10.21-19.29.27:726][  0]LogOcInput: OculusInput pre-init called
+[2021.10.21-19.29.27:749][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.21-19.29.27:749][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.21-19.29.27:852][  0]LogEngine: Initializing Engine...
+[2021.10.21-19.29.27:855][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.21-19.29.27:855][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.21-19.29.27:857][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.21-19.29.28:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.21-19.29.28:128][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.21-19.29.28:151][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.21-19.29.28:159][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.21-19.29.28:159][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.21-19.29.28:159][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.21-19.29.28:159][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.21-19.29.28:160][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.21-19.29.28:160][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.21-19.29.28:208][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.21-19.29.28:208][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.21-19.29.29:739][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.21-19.29.29:740][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.21-19.29.29:744][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.21-19.29.29:744][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.21-19.29.29:750][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.21-19.29.29:750][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.21-19.29.29:750][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.21-19.29.29:751][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.21-19.29.29:752][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.21-19.29.29:752][  0]LogInit: FAudioDevice initialized.
+[2021.10.21-19.29.29:752][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.21-19.29.29:752][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.21-19.29.30:482][  0]LogDerivedDataCache: Saved boot cache 0.73s 77MB C:/Users/cynth/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.21-19.29.30:487][  0]LogInit: Texture streaming: Enabled
+[2021.10.21-19.29.30:524][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.21-19.29.30:534][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.21-19.29.30:534][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={901A20FC-4F62-0503-4162-EBA777B0DBA3}
+[2021.10.21-19.29.30:534][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9496550A-4B52-E108-6917-65AF381C79DA}
+[2021.10.21-19.29.30:534][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.21-19.29.30:538][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.21-19.29.30:595][  0]LogInit: Transaction tracking system initialized
+[2021.10.21-19.29.30:635][  0]BlueprintLog: New page: Editor Load
+[2021.10.21-19.29.30:764][  0]LocalizationService: Localization service is disabled
+[2021.10.21-19.29.30:813][  0]TimingProfiler: Initialize
+[2021.10.21-19.29.30:813][  0]TimingProfiler: OnSessionChanged
+[2021.10.21-19.29.30:813][  0]LoadingProfiler: Initialize
+[2021.10.21-19.29.30:813][  0]LoadingProfiler: OnSessionChanged
+[2021.10.21-19.29.30:813][  0]NetworkingProfiler: Initialize
+[2021.10.21-19.29.30:814][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.21-19.29.30:814][  0]MemoryProfiler: Initialize
+[2021.10.21-19.29.30:814][  0]MemoryProfiler: OnSessionChanged
+[2021.10.21-19.29.31:078][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.21-19.29.31:078][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.21-19.29.31:392][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/DivineCombat/DivineCombat/Content/' took 0.01s
+[2021.10.21-19.29.31:841][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.21-19.29.31:847][  0]SourceControl: Source control is disabled
+[2021.10.21-19.29.32:301][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.21-19.29.42:415][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.10.21-19.29.42:442][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.21-19.29.42:463][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.654
+[2021.10.21-19.29.42:465][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.21-19.29.42:466][  0]LightingResults: New page: Lighting Build
+[2021.10.21-19.29.42:470][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-19.29.42:470][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-19.29.42:471][  0]MapCheck: New page: Map Check
+[2021.10.21-19.29.42:471][  0]LightingResults: New page: Lighting Build
+[2021.10.21-19.29.42:494][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.10.21-19.29.42:717][  0]LogBlueprint: Warning: [AssetLog] D:\GitHub\DivineCombat\DivineCombat\Content\AI\AI_Blueprints\BaseEnemy_BP.uasset: [Compiler] Could not find a variable named "CurrentHealth" in 'BaseEnemy_BP_C'.
+Make sure 'BaseEnemy_BP_C' has been compiled for  Get CurrentHealth
+[2021.10.21-19.29.42:719][  0]LogBlueprint: Error: [AssetLog] D:\GitHub\DivineCombat\DivineCombat\Content\AI\AI_Blueprints\BaseEnemy_BP.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP_C'
+[2021.10.21-19.29.43:161][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.10.21-19.29.43:162][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.21-19.29.43:182][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.21-19.29.43:184][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.10.21-19.29.43:200][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.21-19.29.43:201][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.21-19.29.43:202][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.10.21-19.29.43:202][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.737
+[2021.10.21-19.29.43:207][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.398
+[2021.10.21-19.29.43:249][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.21-19.29.43:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-19.29.43:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-19.29.43:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-19.29.43:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-19.29.43:393][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0191 seconds. Added 3603 classes and 861 folders.
+[2021.10.21-19.29.43:398][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.21-19.29.43:402][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.21-19.29.43:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.21-19.29.43:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.21-19.29.43:404][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.21-19.29.43:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.21-19.29.43:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.21-19.29.43:406][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.21-19.29.43:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.21-19.29.43:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.21-19.29.43:408][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.21-19.29.43:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.21-19.29.43:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.21-19.29.43:410][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.21-19.29.43:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.21-19.29.43:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.21-19.29.43:412][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.21-19.29.43:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.21-19.29.43:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.21-19.29.43:413][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.21-19.29.43:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.21-19.29.43:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.21-19.29.43:415][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.21-19.29.43:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.21-19.29.43:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.21-19.29.43:417][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.21-19.29.43:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.21-19.29.43:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.10.21-19.29.43:420][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.21-19.29.43:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.21-19.29.43:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.21-19.29.43:421][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.21-19.29.43:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.21-19.29.43:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.10.21-19.29.43:423][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.21-19.29.43:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.21-19.29.43:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.21-19.29.43:424][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.21-19.29.43:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.21-19.29.43:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.10.21-19.29.43:426][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.21-19.29.43:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.21-19.29.43:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.10.21-19.29.43:428][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.21-19.29.43:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.21-19.29.43:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.10.21-19.29.43:430][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.21-19.29.43:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.21-19.29.43:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.10.21-19.29.43:432][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.21-19.29.43:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.21-19.29.43:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.10.21-19.29.43:434][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.21-19.29.43:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.21-19.29.43:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.10.21-19.29.43:436][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.21-19.29.43:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.21-19.29.43:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.10.21-19.29.43:438][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.21-19.29.43:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.21-19.29.43:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.10.21-19.29.43:441][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.21-19.29.43:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.21-19.29.43:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.10.21-19.29.43:442][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.21-19.29.43:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.21-19.29.43:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.10.21-19.29.43:444][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.21-19.29.43:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.21-19.29.43:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.10.21-19.29.43:446][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.21-19.29.43:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.21-19.29.43:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.10.21-19.29.43:448][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.21-19.29.43:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.21-19.29.43:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.10.21-19.29.43:450][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.21-19.29.43:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.21-19.29.43:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.21-19.29.43:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.10.21-19.29.43:627][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.21-19.29.43:636][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.10.21-19.29.43:808][  0]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.21-19.29.43:820][  0]LogSlate: Took 0.000718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.21-19.29.43:937][  0]LogRenderer: Reallocating scene render targets to support 896x452 Format 10 NumSamples 1 (Frame:1).
+[2021.10.21-19.29.44:111][  0]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.21-19.29.44:821][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2021.10.21-19.29.44:821][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.10.21-19.29.44:821][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.10.21-19.29.44:821][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.10.21-19.29.44:821][  0]LogLoad: (Engine Initialization) Total time: 31.01 seconds
+[2021.10.21-19.29.44:821][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.21-19.29.44:822][  0]LogInit: First time updating LLM stats...
+[2021.10.21-19.29.44:892][  0]LogAssetRegistry: Asset discovery search completed in 21.2886 seconds
+[2021.10.21-19.29.44:894][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.10.21-19.29.44:948][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.21-19.29.45:973][ 16]LogSlate: Took 0.000799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.21-19.29.50:581][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.21-19.34.07:377][267]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.21-19.34.07:389][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.21-19.34.07:389][267]BlueprintLog: Warning: Blueprint failed to compile:  BaseEnemy_BP
+[2021.10.21-19.34.07:430][267]LogCustomDialog: Dialog displayed:
+[2021.10.21-19.34.11:084][267]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.10.21-19.34.11:204][267]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.21-19.34.14:910][326]LogSlate: Window 'Message Log' being destroyed
+[2021.10.21-19.34.14:985][326]LogSlate: Window 'Message Log' being destroyed
+[2021.10.21-19.34.18:069][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.34.18:480][374]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2021.10.21-19.34.20:347][374]LogSlate: Took 0.000550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.21-19.34.20:451][375]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.21-19.34.37:202][727]BlueprintLog: New page: Compile BaseEnemy_BP
+[2021.10.21-19.34.37:298][727]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.10.21-19.34.58:632][866]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-19.34.58:633][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-19.35.08:974][943]LogSlate: Window 'Message' being destroyed
+[2021.10.21-19.35.08:983][943]Message dialog closed, result: Yes, title: Message, text: The following packages have been modified:
+    /Game/AI/AI_Blueprints/BaseEnemy_BP
+Would you like to reload these packages? This will revert any changes you have made.
+[2021.10.21-19.35.09:084][943]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/AI/AI_Blueprints/BaseEnemy_BP
+[2021.10.21-19.35.09:218][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.10.21-19.35.09:277][943]LogBlueprint: Warning: [AssetLog] D:\GitHub\DivineCombat\DivineCombat\Content\AI\AI_Blueprints\BaseEnemy_BP.uasset: [Compiler] Could not find a variable named "CurrentHealth" in 'BaseEnemy_BP_C'.
+Make sure 'BaseEnemy_BP_C' has been compiled for  Get CurrentHealth
+[2021.10.21-19.35.09:279][943]LogBlueprint: Error: [AssetLog] D:\GitHub\DivineCombat\DivineCombat\Content\AI\AI_Blueprints\BaseEnemy_BP.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP_C'
+[2021.10.21-19.35.09:291][943]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:ComponentDelegateBinding_1' in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.35.09:291][943]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.35.09:291][943]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__BaseEnemy_BP_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.35.09:750][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.10.21-19.35.09:752][943]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_1'. This is unexpected, and likely means that it was still externally referenced.
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display: ReloadPackage external references for '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_1'.
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.35.10:185][943]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.35.10:186][943]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:187][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     SCS_Node /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0.SCS_Node_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     SimpleConstructionScript /Engine/Transient.REINST_BaseEnemy_BP_C_31:SimpleConstructionScript_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_31
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:188][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.35.10:189][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:190][943]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_37
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_37 /Engine/Transient.AxeEnemy_BP_Child_C_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_0:CollisionCylinder.BodySetup_0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CollisionCylinder
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     SkeletalMeshComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1.CharacterMesh0
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_1
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.35.10:191][943]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.35.10:192][943]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.35.10:192][943]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.35.11:248][956]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.35.25:799][216]BlueprintLog: New page: Compile BaseEnemy_BP
+[2021.10.21-19.35.25:919][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.10.21-19.35.27:077][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Blueprints/BaseEnemy_BP" FILE="../../../../../GitHub/DivineCombat/DivineCombat/Content/AI/AI_Blueprints/BaseEnemy_BP.uasset" SILENT=true
+[2021.10.21-19.35.27:112][231]LogSavePackage: Moving '../../../../../GitHub/DivineCombat/DivineCombat/Saved/BaseEnemy_BPAD4D681643C65A30DF3CE7A1EE9579AA.tmp' to '../../../../../GitHub/DivineCombat/DivineCombat/Content/AI/AI_Blueprints/BaseEnemy_BP.uasset'
+[2021.10.21-19.35.27:169][231]AssetCheck: New page: Asset Save: BaseEnemy_BP
+[2021.10.21-19.35.27:169][231]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.35.33:410][389]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2021.10.21-19.35.33:495][389]LogSavePackage: Moving '../../../../../GitHub/DivineCombat/DivineCombat/Saved/TopDownExampleMap26980F3147E600055E1A618A1200DA0B.tmp' to '../../../../../GitHub/DivineCombat/DivineCombat/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.10.21-19.35.33:615][389]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.10.21-19.35.33:615][389]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.35.35:995][430]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-19.35.35:996][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-19.35.37:432][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.35.41:855][540]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-19.35.41:855][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-19.36.27:632][765]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/AI/AI_Blueprints/BaseEnemy_BP
+[2021.10.21-19.36.27:750][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.10.21-19.36.27:780][765]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:ComponentDelegateBinding_1' in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.36.27:780][765]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.36.27:780][765]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__BaseEnemy_BP_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.36.28:376][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.10.21-19.36.28:377][765]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_2'. This is unexpected, and likely means that it was still externally referenced.
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display: ReloadPackage external references for '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_2'.
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_47
+[2021.10.21-19.36.28:731][765]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.36.28:732][765]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.36.28:732][765]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:733][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:734][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:735][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:736][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:737][765]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_53
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_53 /Engine/Transient.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_3:CollisionCylinder.BodySetup_0
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.CollisionCylinder
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3.Sphere
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_3
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.36.28:738][765]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.36.32:066][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.36.35:350][852]LogHotReload: New module detected: UE4Editor-DivineCombat-0066.dll
+[2021.10.21-19.36.40:730][942]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.21-19.36.40:730][942]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.21-19.36.40:797][942]LogClass: Could not find existing class BaseEnemy in package /Script/DivineCombat for HotReload, assuming new class
+[2021.10.21-19.36.40:797][942]LogClass: Function AttackMove is new.
+[2021.10.21-19.36.40:797][942]LogClass: Function CheckTarget is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function TakeDamage is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function WeaponTriangle is new.
+[2021.10.21-19.36.40:798][942]LogClass: Could not find existing class TurnSystem in package /Script/DivineCombat for HotReload, assuming new class
+[2021.10.21-19.36.40:798][942]LogClass: Function BattleStart is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function BattleTurns is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function EndBattle is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function EnemyTurn is new.
+[2021.10.21-19.36.40:798][942]LogClass: Function PlayerTurn is new.
+[2021.10.21-19.36.40:798][942]LogClass: ETurnOrder HotReload.
+[2021.10.21-19.36.40:798][942]LogClass: AIStatHolder HotReload.
+[2021.10.21-19.36.40:825][942]LogHotReload: Re-instancing BaseEnemy after hot-reload.
+[2021.10.21-19.36.41:085][942]LogHotReload: Re-instancing TurnSystem after hot-reload.
+[2021.10.21-19.36.41:129][942]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DivineCombat' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2021.10.21-19.36.41:140][942]Display: HotReload successful (0 functions remapped  1 scriptstructs remapped)
+[2021.10.21-19.36.41:192][942]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0309 seconds. Added 3603 classes and 861 folders.
+[2021.10.21-19.36.41:215][942]Display: HotReload took  0.5s.
+[2021.10.21-19.37.10:600][434]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/AI/AI_Blueprints/BaseEnemy_BP
+[2021.10.21-19.37.10:821][434]LogUObjectHash: Compacting FUObjectHashTables data took  13.84ms
+[2021.10.21-19.37.10:862][434]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:ComponentDelegateBinding_1' in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.37.10:862][434]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'BaseEnemy_BP_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.37.10:862][434]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__BaseEnemy_BP_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/AI/AI_Blueprints/BaseEnemy_BP'. Any existing references to this object will be nulled out.
+[2021.10.21-19.37.10:995][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_15) Not registered. Aborting.
+[2021.10.21-19.37.10:995][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_7) Not registered. Aborting.
+[2021.10.21-19.37.10:995][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_37) Not registered. Aborting.
+[2021.10.21-19.37.10:996][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.21-19.37.10:996][434]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.21-19.37.10:996][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.21-19.37.11:142][434]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.10.21-19.37.11:763][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.10.21-19.37.11:764][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.37.12:781][434]LogUObjectGlobals: Warning: ReloadPackage failed to purge the old package '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_3'. This is unexpected, and likely means that it was still externally referenced.
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display: ReloadPackage external references for '/Game/AI/AI_Blueprints/BaseEnemy_BP_DEADPACKAGE_3'.
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:045][434]LogUObjectGlobals: Display:     World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_BaseEnemy_BP_C_81
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     Level /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel
+[2021.10.21-19.37.13:046][434]LogUObjectGlobals: Display:     RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     NavigationSystemV1 /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CrowdManager /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:NavigationSystemV1_0.CrowdManager_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:047][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:048][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:049][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     GCObjectReferencer /Engine/Transient.GCObjectReferencer_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     BlueprintGeneratedClass /Engine/Transient.REINST_AxeEnemy_BP_Child_C_87
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     REINST_AxeEnemy_BP_Child_C_87 /Engine/Transient.AxeEnemy_BP_Child_C_6
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     BodySetup /Engine/Transient.AxeEnemy_BP_Child_C_6:CollisionCylinder.BodySetup_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     CapsuleComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.CollisionCylinder
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     SphereComponent /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5.Sphere
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     AxeEnemy_BP_Child_C /Engine/Transient.World_3:PersistentLevel.AxeEnemy_BP_Child_C_5
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     Level /Engine/Transient.World_3:PersistentLevel
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     ParticleEventManager /Engine/Transient.World_3:PersistentLevel.ParticleEventManager_0
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     World /Engine/Transient.World_3
+[2021.10.21-19.37.13:050][434]LogUObjectGlobals: Display:     UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2021.10.21-19.37.31:855][777]BlueprintLog: New page: Compile BaseEnemy_BP
+[2021.10.21-19.37.31:965][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.10.21-19.37.32:717][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Blueprints/BaseEnemy_BP" FILE="../../../../../GitHub/DivineCombat/DivineCombat/Content/AI/AI_Blueprints/BaseEnemy_BP.uasset" SILENT=true
+[2021.10.21-19.37.32:792][786]LogSavePackage: Moving '../../../../../GitHub/DivineCombat/DivineCombat/Saved/BaseEnemy_BP43CBFE7D4F2F547A10C23998EF23058D.tmp' to '../../../../../GitHub/DivineCombat/DivineCombat/Content/AI/AI_Blueprints/BaseEnemy_BP.uasset'
+[2021.10.21-19.37.32:858][786]AssetCheck: New page: Asset Save: BaseEnemy_BP
+[2021.10.21-19.37.32:858][786]LogContentValidation: Display: Validating Blueprint /Game/AI/AI_Blueprints/BaseEnemy_BP.BaseEnemy_BP
+[2021.10.21-19.37.35:982][843]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.21-19.37.36:007][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.21-19.37.36:007][843]PIE: New page: PIE session: TopDownExampleMap (Oct 21, 2021, 11:37:36 AM)
+[2021.10.21-19.37.36:011][843]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.21-19.37.36:013][843]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.21-19.37.36:013][843]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.21-19.37.36:040][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025973s)
+[2021.10.21-19.37.36:043][843]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.21-19.37.36:044][843]LogPlayLevel: PIE: World Init took: (0.003412s)
+[2021.10.21-19.37.36:044][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029805s)
+[2021.10.21-19.37.36:089][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.10.21-19.37.36:091][843]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.21-19.37.36:091][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.21-19.37.36:091][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.21-19.37.36:091][843]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.21-19.37.36:092][843]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.21-19.37.36:100][843]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.21-19.37.36:100][843]LogAudioMixer: Display: 1: FrontRight
+[2021.10.21-19.37.36:117][843]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.21-19.37.36:118][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.21-19.37.36:118][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.21-19.37.36:118][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.21-19.37.36:118][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.21-19.37.36:118][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.21-19.37.36:118][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.21-19.37.36:145][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.21-19.37.36:146][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.21-19.37.36:146][843]LogInit: FAudioDevice initialized.
+[2021.10.21-19.37.36:146][843]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.10.21-19.37.36:162][843]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.21-19.37.36:170][843]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2021.10.21-15.37.36
+[2021.10.21-19.37.36:172][843]LogWorld: Bringing up level for play took: 0.007196
+[2021.10.21-19.37.36:172][843]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.10.21-19.37.36:276][843]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.

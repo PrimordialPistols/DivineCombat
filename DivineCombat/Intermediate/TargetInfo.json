@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DivineCombat",
+			"Path": "D:\\GitHub\\DivineCombat\\DivineCombat\\Source\\DivineCombat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DivineCombatEditor",
+			"Path": "D:\\GitHub\\DivineCombat\\DivineCombat\\Source\\DivineCombatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

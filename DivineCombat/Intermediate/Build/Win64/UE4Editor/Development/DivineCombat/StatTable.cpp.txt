@@ -1,0 +1,6 @@
+D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
+D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\StatTable.h
+D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\ProgramFiles\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat\StatTable.generated.h

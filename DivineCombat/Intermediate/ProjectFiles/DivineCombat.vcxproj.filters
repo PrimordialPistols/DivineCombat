@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DivineCombat.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C41821B2-F23D-4314-AE63-2D40E45C2579}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DivineCombat.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DivineCombatEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A16F2B7D-2902-44E5-A914-148B999280E4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DivineCombat">
+      <UniqueIdentifier>{C916049C-109F-4FFD-8EAA-B022EED76307}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DivineCombat\AIStatHolder.h">
+      <Filter>Source\DivineCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DivineCombat\BaseEnemy.cpp">
+      <Filter>Source\DivineCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DivineCombat\BaseEnemy.h">
+      <Filter>Source\DivineCombat</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DivineCombat\DivineCombat.Build.cs">
+      <Filter>Source\DivineCombat</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DivineCombat\DivineCombat.cpp">
+      <Filter>Source\DivineCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DivineCombat\DivineCombat.h">
+      <Filter>Source\DivineCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DivineCombat\GameModeTurnSystem.cpp">
+      <Filter>Source\DivineCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DivineCombat\GameModeTurnSystem.h">
+      <Filter>Source\DivineCombat</Filter>
+    </ClInclude>
+    <Filter Include="Source\DivineCombat\.vs">
+      <UniqueIdentifier>{2BA631F1-FF1C-4817-8018-E383F169F699}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DivineCombat\.vs\ProjectSettings.json">
+      <Filter>Source\DivineCombat\.vs</Filter>
+    </None>
+    <None Include="..\..\Source\DivineCombat\.vs\slnx.sqlite">
+      <Filter>Source\DivineCombat\.vs</Filter>
+    </None>
+    <None Include="..\..\Source\DivineCombat\.vs\VSWorkspaceState.json">
+      <Filter>Source\DivineCombat\.vs</Filter>
+    </None>
+    <Filter Include="Source\DivineCombat\.vs\DivineCombat">
+      <UniqueIdentifier>{5731FCB1-D4A1-4298-B342-65BE15BCD665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DivineCombat\.vs\DivineCombat\v16">
+      <UniqueIdentifier>{80C87379-65F6-4CAD-9F20-A3DF9E1106FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DivineCombat\.vs\DivineCombat\v16\Browse.VC.db">
+      <Filter>Source\DivineCombat\.vs\DivineCombat\v16</Filter>
+    </None>
+  </ItemGroup>
+</Project>
