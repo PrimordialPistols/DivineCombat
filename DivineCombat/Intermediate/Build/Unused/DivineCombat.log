@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\GitHub\DivineCombat).
+  Creating makefile for DivineCombatEditor (no existing makefile)
+  Building DivineCombatEditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] BaseEnemy.cpp
+D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\BaseEnemy.h(61): warning C4263: 'bool ABaseEnemy::TakeDamage(int)': member function does not override any base class virtual member function
+D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\BaseEnemy.h(64): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+    D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+    D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h(31): note: see declaration of 'APawn'
+    [2/4] UE4Editor-DivineCombat.lib
+       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.exp
+    [3/4] UE4Editor-DivineCombat.dll
+       Creating library D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.suppressed.lib and object D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\UE4Editor-DivineCombat.suppressed.exp
+    [4/4] DivineCombatEditor.target
+  Total time in Parallel executor: 3.89 seconds
+  Total execution time: 5.76 seconds
