@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Bloo7\\Desktop\\DivineCombat\\DivineCombat\\Source\\DivineCombat\\DivineCombat.Build.cs",
-		"C:\\Users\\Bloo7\\Desktop\\DivineCombat\\DivineCombat\\Source\\DivineCombat.Target.cs",
-		"C:\\Users\\Bloo7\\Desktop\\DivineCombat\\DivineCombat\\Source\\DivineCombatEditor.Target.cs"
+		"D:\\UnityProjects\\DivineCombat\\DivineCombat\\Source\\DivineCombat\\DivineCombat.Build.cs",
+		"D:\\UnityProjects\\DivineCombat\\DivineCombat\\Source\\DivineCombat.Target.cs",
+		"D:\\UnityProjects\\DivineCombat\\DivineCombat\\Source\\DivineCombatEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
