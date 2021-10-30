@@ -33,6 +33,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Turn System")
 	bool bPlayerIsDead;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Turn System")
+	bool bEnemyIsDead;
+
 	bool bWon;
 
 protected:
