@@ -74,7 +74,9 @@ void ABaseEnemy::AttackMove()
 
 bool ABaseEnemy::TakeDamage(int DamageAmount)
 {
+	UE_LOG(LogTemp, Warning, TEXT("Attempting to take damage"));
 	StatHolder->CurrentHealth -= DamageAmount;
+		UE_LOG(LogTemp, Warning, TEXT("Statholder didn't break after taking damage"));
 
 	if (StatHolder->CurrentHealth <= 0)
 	{

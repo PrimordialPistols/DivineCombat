@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "DivineCombat",
-			"Path": "D:\\GitHub\\DivineCombat\\DivineCombat\\Source\\DivineCombat.Target.cs",
+			"Path": "D:\\UnityProjects\\DivineCombat\\DivineCombat\\Source\\DivineCombat.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "DivineCombatEditor",
-			"Path": "D:\\GitHub\\DivineCombat\\DivineCombat\\Source\\DivineCombatEditor.Target.cs",
+			"Path": "D:\\UnityProjects\\DivineCombat\\DivineCombat\\Source\\DivineCombatEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
