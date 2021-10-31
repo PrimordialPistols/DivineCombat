@@ -1,5 +1,5 @@
-D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Repositories\NewOfficialDC\DivineCombat\Source\DivineCombat/AIStatHolder.h
-D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat\AIStatHolder.generated.h
+D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
+D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ProgramFiles\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat/AIStatHolder.h
+D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat\AIStatHolder.generated.h

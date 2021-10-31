@@ -18,26 +18,16 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_DivineCombat();
 // End Cross Module References
-	DEFINE_FUNCTION(ABaseEnemy::execTakeDamage)
-	{
-		P_GET_PROPERTY(FIntProperty,Z_Param_DamageAmount);
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=P_THIS->TakeDamage(Z_Param_DamageAmount);
-		P_NATIVE_END;
-	}
-	DEFINE_FUNCTION(ABaseEnemy::execMove)
-	{
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		P_THIS->Move();
-		P_NATIVE_END;
-	}
 	DEFINE_FUNCTION(ABaseEnemy::execAttackMove)
 	{
+		P_GET_PROPERTY(FIntProperty,Z_Param_BaseNumber);
+		P_GET_PROPERTY(FIntProperty,Z_Param_Hit);
+		P_GET_PROPERTY(FIntProperty,Z_Param_Avoidance);
+		P_GET_PROPERTY(FIntProperty,Z_Param_WeaponAdvantage);
+		P_GET_PROPERTY(FIntProperty,Z_Param_Damage);
 		P_FINISH;
 		P_NATIVE_BEGIN;
-		P_THIS->AttackMove();
+		P_THIS->AttackMove(Z_Param_BaseNumber,Z_Param_Hit,Z_Param_Avoidance,Z_Param_WeaponAdvantage,Z_Param_Damage);
 		P_NATIVE_END;
 	}
 	DEFINE_FUNCTION(ABaseEnemy::execCheckTarget)
@@ -47,11 +37,23 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		P_THIS->CheckTarget();
 		P_NATIVE_END;
 	}
-	DEFINE_FUNCTION(ABaseEnemy::execWeaponTriangle)
+	DEFINE_FUNCTION(ABaseEnemy::execDamageDealt)
 	{
+		P_GET_PROPERTY(FIntProperty,Z_Param_Damage);
 		P_FINISH;
 		P_NATIVE_BEGIN;
-		P_THIS->WeaponTriangle();
+		*(int32*)Z_Param__Result=P_THIS->DamageDealt(Z_Param_Damage);
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(ABaseEnemy::execToHit)
+	{
+		P_GET_PROPERTY(FIntProperty,Z_Param_BaseNumber);
+		P_GET_PROPERTY(FIntProperty,Z_Param_Hit);
+		P_GET_PROPERTY(FIntProperty,Z_Param_Avoidance);
+		P_GET_PROPERTY(FIntProperty,Z_Param_WeaponAdvantage);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(int32*)Z_Param__Result=P_THIS->ToHit(Z_Param_BaseNumber,Z_Param_Hit,Z_Param_Avoidance,Z_Param_WeaponAdvantage);
 		P_NATIVE_END;
 	}
 	void ABaseEnemy::StaticRegisterNativesABaseEnemy()
@@ -60,18 +62,43 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AttackMove", &ABaseEnemy::execAttackMove },
 			{ "CheckTarget", &ABaseEnemy::execCheckTarget },
-			{ "Move", &ABaseEnemy::execMove },
-			{ "TakeDamage", &ABaseEnemy::execTakeDamage },
-			{ "WeaponTriangle", &ABaseEnemy::execWeaponTriangle },
+			{ "DamageDealt", &ABaseEnemy::execDamageDealt },
+			{ "ToHit", &ABaseEnemy::execToHit },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
 	struct Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics
 	{
+		struct BaseEnemy_eventAttackMove_Parms
+		{
+			int32 BaseNumber;
+			int32 Hit;
+			int32 Avoidance;
+			int32 WeaponAdvantage;
+			int32 Damage;
+		};
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_BaseNumber;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Hit;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Avoidance;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_WeaponAdvantage;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Damage;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
 #endif
 		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_BaseNumber = { "BaseNumber", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventAttackMove_Parms, BaseNumber), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Hit = { "Hit", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventAttackMove_Parms, Hit), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Avoidance = { "Avoidance", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventAttackMove_Parms, Avoidance), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_WeaponAdvantage = { "WeaponAdvantage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventAttackMove_Parms, WeaponAdvantage), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Damage = { "Damage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventAttackMove_Parms, Damage), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_BaseNumber,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Hit,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Avoidance,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_WeaponAdvantage,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::NewProp_Damage,
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::Function_MetaDataParams[] = {
@@ -81,7 +108,7 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		{ "ToolTip", "One move to call to calaulate everything" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "AttackMove", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "AttackMove", nullptr, nullptr, sizeof(BaseEnemy_eventAttackMove_Parms), Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_AttackMove_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ABaseEnemy_AttackMove()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -116,95 +143,91 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		}
 		return ReturnFunction;
 	}
-	struct Z_Construct_UFunction_ABaseEnemy_Move_Statics
+	struct Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics
 	{
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_Move_Statics::Function_MetaDataParams[] = {
-		{ "Category", "Target Priority" },
-		{ "Comment", "/** Will handle movement */" },
-		{ "ModuleRelativePath", "BaseEnemy.h" },
-		{ "ToolTip", "Will handle movement" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_Move_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "Move", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_Move_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_Move_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaseEnemy_Move()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
+		struct BaseEnemy_eventDamageDealt_Parms
 		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaseEnemy_Move_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
-	struct Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics
-	{
-		struct BaseEnemy_eventTakeDamage_Parms
-		{
-			int32 DamageAmount;
-			bool ReturnValue;
+			int32 Damage;
+			int32 ReturnValue;
 		};
-		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_DamageAmount;
-		static void NewProp_ReturnValue_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Damage;
+		static const UE4CodeGen_Private::FIntPropertyParams NewProp_ReturnValue;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
 #endif
 		static const UE4CodeGen_Private::FFunctionParams FuncParams;
 	};
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_DamageAmount = { "DamageAmount", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventTakeDamage_Parms, DamageAmount), METADATA_PARAMS(nullptr, 0) };
-	void Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_ReturnValue_SetBit(void* Obj)
-	{
-		((BaseEnemy_eventTakeDamage_Parms*)Obj)->ReturnValue = 1;
-	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(BaseEnemy_eventTakeDamage_Parms), &Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_DamageAmount,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::NewProp_ReturnValue,
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::NewProp_Damage = { "Damage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventDamageDealt_Parms, Damage), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventDamageDealt_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::NewProp_Damage,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::NewProp_ReturnValue,
 	};
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::Function_MetaDataParams[] = {
-		{ "Category", "Base Enemy" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Target Priority" },
 		{ "ModuleRelativePath", "BaseEnemy.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "TakeDamage", nullptr, nullptr, sizeof(BaseEnemy_eventTakeDamage_Parms), Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaseEnemy_TakeDamage()
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "DamageDealt", nullptr, nullptr, sizeof(BaseEnemy_eventDamageDealt_Parms), Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ABaseEnemy_DamageDealt()
 	{
 		static UFunction* ReturnFunction = nullptr;
 		if (!ReturnFunction)
 		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaseEnemy_TakeDamage_Statics::FuncParams);
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaseEnemy_DamageDealt_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
-	struct Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics
+	struct Z_Construct_UFunction_ABaseEnemy_ToHit_Statics
 	{
+		struct BaseEnemy_eventToHit_Parms
+		{
+			int32 BaseNumber;
+			int32 Hit;
+			int32 Avoidance;
+			int32 WeaponAdvantage;
+			int32 ReturnValue;
+		};
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_BaseNumber;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Hit;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Avoidance;
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_WeaponAdvantage;
+		static const UE4CodeGen_Private::FIntPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
 #endif
 		static const UE4CodeGen_Private::FFunctionParams FuncParams;
 	};
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_BaseNumber = { "BaseNumber", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventToHit_Parms, BaseNumber), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_Hit = { "Hit", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventToHit_Parms, Hit), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_Avoidance = { "Avoidance", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventToHit_Parms, Avoidance), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_WeaponAdvantage = { "WeaponAdvantage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventToHit_Parms, WeaponAdvantage), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(BaseEnemy_eventToHit_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_BaseNumber,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_Hit,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_Avoidance,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_WeaponAdvantage,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::NewProp_ReturnValue,
+	};
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics::Function_MetaDataParams[] = {
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::Function_MetaDataParams[] = {
 		{ "Category", "Target Priority" },
-		{ "Comment", "/** Determines if opponent is weak */" },
+		{ "Comment", "/** Methods to calcualte damage and chance to hit */" },
 		{ "ModuleRelativePath", "BaseEnemy.h" },
-		{ "ToolTip", "Determines if opponent is weak" },
+		{ "ToolTip", "Methods to calcualte damage and chance to hit" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "WeaponTriangle", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaseEnemy_WeaponTriangle()
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaseEnemy, nullptr, "ToHit", nullptr, nullptr, sizeof(BaseEnemy_eventToHit_Parms), Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ABaseEnemy_ToHit()
 	{
 		static UFunction* ReturnFunction = nullptr;
 		if (!ReturnFunction)
 		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaseEnemy_WeaponTriangle_Statics::FuncParams);
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaseEnemy_ToHit_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -233,11 +256,10 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_DivineCombat,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ABaseEnemy_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_ABaseEnemy_AttackMove, "AttackMove" }, // 2963937009
+		{ &Z_Construct_UFunction_ABaseEnemy_AttackMove, "AttackMove" }, // 1786559583
 		{ &Z_Construct_UFunction_ABaseEnemy_CheckTarget, "CheckTarget" }, // 3021649553
-		{ &Z_Construct_UFunction_ABaseEnemy_Move, "Move" }, // 2048473587
-		{ &Z_Construct_UFunction_ABaseEnemy_TakeDamage, "TakeDamage" }, // 2356713348
-		{ &Z_Construct_UFunction_ABaseEnemy_WeaponTriangle, "WeaponTriangle" }, // 3899907198
+		{ &Z_Construct_UFunction_ABaseEnemy_DamageDealt, "DamageDealt" }, // 560645909
+		{ &Z_Construct_UFunction_ABaseEnemy_ToHit, "ToHit" }, // 1218028256
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaseEnemy_Statics::Class_MetaDataParams[] = {
@@ -287,7 +309,7 @@ void EmptyLinkFunctionForGeneratedCodeBaseEnemy() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABaseEnemy, 2132057196);
+	IMPLEMENT_CLASS(ABaseEnemy, 4139855191);
 	template<> DIVINECOMBAT_API UClass* StaticClass<ABaseEnemy>()
 	{
 		return ABaseEnemy::StaticClass();

@@ -241,6 +241,11 @@ void EmptyLinkFunctionForGeneratedCodeGameModeTurnSystem() {}
 #endif
 		static void NewProp_bPlayerIsDead_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bPlayerIsDead;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bEnemyIsDead_MetaData[];
+#endif
+		static void NewProp_bEnemyIsDead_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bEnemyIsDead;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -275,8 +280,20 @@ void EmptyLinkFunctionForGeneratedCodeGameModeTurnSystem() {}
 		((AGameModeTurnSystem*)Obj)->bPlayerIsDead = 1;
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bPlayerIsDead = { "bPlayerIsDead", nullptr, (EPropertyFlags)0x0010000000020005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AGameModeTurnSystem), &Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bPlayerIsDead_SetBit, METADATA_PARAMS(Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bPlayerIsDead_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bPlayerIsDead_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead_MetaData[] = {
+		{ "Category", "Turn System" },
+		{ "ModuleRelativePath", "GameModeTurnSystem.h" },
+	};
+#endif
+	void Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead_SetBit(void* Obj)
+	{
+		((AGameModeTurnSystem*)Obj)->bEnemyIsDead = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead = { "bEnemyIsDead", nullptr, (EPropertyFlags)0x0010000000020005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AGameModeTurnSystem), &Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead_SetBit, METADATA_PARAMS(Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AGameModeTurnSystem_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bPlayerIsDead,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGameModeTurnSystem_Statics::NewProp_bEnemyIsDead,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AGameModeTurnSystem_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AGameModeTurnSystem>::IsAbstract,
@@ -305,7 +322,7 @@ void EmptyLinkFunctionForGeneratedCodeGameModeTurnSystem() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGameModeTurnSystem, 1658627503);
+	IMPLEMENT_CLASS(AGameModeTurnSystem, 3976398859);
 	template<> DIVINECOMBAT_API UClass* StaticClass<AGameModeTurnSystem>()
 	{
 		return AGameModeTurnSystem::StaticClass();

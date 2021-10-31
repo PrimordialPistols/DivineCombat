@@ -36,7 +36,6 @@ void AGameModeTurnSystem::PlayerTurn()
 
 void AGameModeTurnSystem::EnemyTurn()
 {
-	bool bEnemyIsDead = BaseEnemy->TakeDamage(25); // CHANGE VALUE TO PLAYER DAMAGE
 	UE_LOG(LogTemp, Warning, TEXT("Enemy Turn"));
 	if (bEnemyIsDead)
 	{
