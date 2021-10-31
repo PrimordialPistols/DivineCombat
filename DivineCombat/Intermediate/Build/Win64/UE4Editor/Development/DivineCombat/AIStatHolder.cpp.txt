@@ -1,2 +1,0 @@
-D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
-D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\AIStatHolder.h
