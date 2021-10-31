@@ -31,6 +31,7 @@
 /wd4244
 /wd4838
 /I .
+/I D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -230,8 +231,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat
-/I D:\Repositories\NewOfficialDC\DivineCombat\Source
+/I D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat
+/I D:\GitHub\DivineCombat\DivineCombat\Source
+/I D:\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -257,16 +259,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat\BaseEnemy.gen.cpp"
-/FI"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h"
-/Fo"D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\BaseEnemy.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\DivineCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Inc\DivineCombat\BaseEnemy.gen.cpp"
+/FI"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h"
+/Fo"D:\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\BaseEnemy.gen.cpp.obj"
 /TP
 /GR-
 /W4

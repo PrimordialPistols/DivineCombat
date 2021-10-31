@@ -16,20 +16,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define DivineCombat_Source_DivineCombat_BaseEnemy_h_12_SPARSE_DATA
 #define DivineCombat_Source_DivineCombat_BaseEnemy_h_12_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execTakeDamage); \
-	DECLARE_FUNCTION(execMove); \
 	DECLARE_FUNCTION(execAttackMove); \
 	DECLARE_FUNCTION(execCheckTarget); \
-	DECLARE_FUNCTION(execWeaponTriangle);
+	DECLARE_FUNCTION(execDamageDealt); \
+	DECLARE_FUNCTION(execToHit);
 
 
 #define DivineCombat_Source_DivineCombat_BaseEnemy_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execTakeDamage); \
-	DECLARE_FUNCTION(execMove); \
 	DECLARE_FUNCTION(execAttackMove); \
 	DECLARE_FUNCTION(execCheckTarget); \
-	DECLARE_FUNCTION(execWeaponTriangle);
+	DECLARE_FUNCTION(execDamageDealt); \
+	DECLARE_FUNCTION(execToHit);
 
 
 #define DivineCombat_Source_DivineCombat_BaseEnemy_h_12_INCLASS_NO_PURE_DECLS \
