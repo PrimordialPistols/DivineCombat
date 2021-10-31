@@ -1,3 +1,3 @@
-D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jacob\OneDrive\Documents\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

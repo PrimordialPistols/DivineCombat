@@ -1,2 +1,2 @@
-D:\Repositories\NewOfficialDC\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
-D:\Repositories\NewOfficialDC\DivineCombat\Source\DivineCombat\DivineCombat.h
+C:\Users\jacob\OneDrive\Documents\GitHub\DivineCombat\DivineCombat\Intermediate\Build\Win64\UE4Editor\Development\DivineCombat\Definitions.DivineCombat.h
+C:\Users\jacob\OneDrive\Documents\GitHub\DivineCombat\DivineCombat\Source\DivineCombat\DivineCombat.h
