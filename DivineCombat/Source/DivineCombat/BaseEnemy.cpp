@@ -36,34 +36,95 @@ void ABaseEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent
 
 void ABaseEnemy::CheckTarget()
 {
-
+	if (!bIsWeakAgainst)
+	{
+		AttackMove();
+	}
+	else
+		return;
 	//if weak = false attack
 	//if health = low attack
 	//if close attack
 	//restor health
 }
 
-int32 ABaseEnemy::ToHit(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage)
+int32 ABaseEnemy::ToHit()
 {
-	ChanceToHit = BaseNumber + Hit - Avoidance + WeaponAdvantage;
+	StatHolder->BaseNumber = 75;
+	ChanceToHit = StatHolder->BaseNumber + StatHolder->Hit - StatHolder->Avoidance + StatHolder->WeaponAdvantage;
 	UE_LOG(LogTemp, Warning, TEXT("Chance to hit = %d"), ChanceToHit);
 
 	return ChanceToHit;
 }
 
-int32 ABaseEnemy::DamageDealt(int Damage)
+int32 ABaseEnemy::DamageDealt()
 {
 	//Damage = Attack - OPPONENTDEFENSE;
-	return Damage;
+	return StatHolder->Damage;
 }
 
-void ABaseEnemy::AttackMove(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage, int Damage)
+void ABaseEnemy::AttackMove()
 {
-	//WeaponTriangle();
-	ToHit(BaseNumber, Hit, Avoidance, WeaponAdvantage);
-	DamageDealt(Damage);
+	WeaponTriangle();
+	ToHit();
+	DamageDealt();
 	//PlayerTakeDamage(Damage);
 }
+
+
+bool ABaseEnemy::TakeDamage(int DamageAmount)
+{
+	UE_LOG(LogTemp, Warning, TEXT("Attempting to take damage"));
+	StatHolder->CurrentHealth -= DamageAmount;
+		UE_LOG(LogTemp, Warning, TEXT("Statholder didn't break after taking damage"));
+
+	if (StatHolder->CurrentHealth <= 0)
+	{
+		return true;
+		UE_LOG(LogTemp, Warning, TEXT("Enemy Dead"));
+	}
+	else
+		return false;
+}
+
+void ABaseEnemy::WeaponTriangle()
+{
+	//REFACTOR LATER
+	if (ActorHasTag(AxeUnit))
+	{
+		if (ActorHasTag(SpearUnit))
+		{
+			bIsWeakAgainst = true;
+			StatHolder->WeaponAdvantage = -15;
+		}
+	}
+
+	else if (ActorHasTag(SpearUnit))
+	{
+		if (ActorHasTag(SwordUnit))
+		{
+			bIsWeakAgainst = true;
+			StatHolder->WeaponAdvantage = -15;
+		}
+	}
+
+	else if (ActorHasTag(SwordUnit))
+	{
+		if (ActorHasTag(AxeUnit))
+		{
+			bIsWeakAgainst = true;
+			StatHolder->WeaponAdvantage = -15;
+		}
+	}
+	else
+		bIsWeakAgainst = false;
+}
+
+void ABaseEnemy::Move()
+{
+
+}
+
 
 
 

@@ -15,6 +15,8 @@ public:
 	// Sets default values for this character's properties
 	ABaseEnemy();
 
+	/** This holds all the stats for the AI */
+	struct FAIStatHolder* StatHolder;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Target Priority")
 	bool bIsWeakAgainst;
@@ -39,22 +41,24 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	/** Methods to calcualte damage and chance to hit */
-	UFUNCTION(BlueprintPure, Category = "Target Priority")
-	int32 ToHit(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage);
-	UFUNCTION(BlueprintPure, Category = "Target Priority")
-	int32 DamageDealt(int Damage);
+	int32 ToHit();
+	int32 DamageDealt();
 
-	/**Checks if in prioroty before attacking  */
+	/** Determines if opponent is weak */
+	UFUNCTION(BlueprintCallable, Category = "Target Priority")
+	void WeaponTriangle();
+	/**Checks if in prioroty before attacking  */ 
 	UFUNCTION(BlueprintCallable, Category = "Target Priority")
 	void CheckTarget();
 	/** One move to call to calaulate everything */
 	UFUNCTION(BlueprintCallable, Category = "Target Priority")
-	void AttackMove(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage, int Damage);
+	void AttackMove();
+	/** Will handle movement */
+	UFUNCTION(BlueprintCallable, Category = "Target Priority")
+	void Move();
 
-	/** Determines if opponent is weak */
-	//UFUNCTION(BlueprintCallable, Category = "Target Priority")
-	//void WeaponTriangle();
-
+	UFUNCTION(BlueprintCallable, Category = "Base Enemy")
+	bool TakeDamage(int DamageAmount);
 
 
 };
