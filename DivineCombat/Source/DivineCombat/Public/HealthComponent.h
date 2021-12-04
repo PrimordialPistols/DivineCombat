@@ -20,6 +20,8 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
+	/** This is an Actor Component class On the enmy unit this component is added to adjust the health */
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Health")
 	float DefaultHealth;
 	UPROPERTY(BlueprintReadOnly)

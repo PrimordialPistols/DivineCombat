@@ -33,61 +33,36 @@ void ABaseEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent
 
 }
 
-
 void ABaseEnemy::CheckTarget()
 {
-	if (!bIsWeakAgainst)
-	{
-		AttackMove();
-	}
-	else
-		return;
+
 	//if weak = false attack
 	//if health = low attack
 	//if close attack
 	//restor health
 }
 
-int32 ABaseEnemy::ToHit()
+
+int32 ABaseEnemy::ToHit(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage)
 {
-	StatHolder->BaseNumber = 75;
-	ChanceToHit = StatHolder->BaseNumber + StatHolder->Hit - StatHolder->Avoidance + StatHolder->WeaponAdvantage;
+	ChanceToHit = BaseNumber + Hit - Avoidance + WeaponAdvantage;
 	UE_LOG(LogTemp, Warning, TEXT("Chance to hit = %d"), ChanceToHit);
 
 	return ChanceToHit;
 }
 
-int32 ABaseEnemy::DamageDealt()
+int32 ABaseEnemy::DamageDealt(int Damage, int PlayerDefense)
 {
-	//Damage = Attack - OPPONENTDEFENSE;
-	return StatHolder->Damage;
+	int AdjustedDamage = Damage - PlayerDefense;
+	return AdjustedDamage;
 }
 
-void ABaseEnemy::AttackMove()
+void ABaseEnemy::AttackMove(int BaseNumber, int Hit, int Avoidance, int WeaponAdvantage, int Damage)
 {
-	WeaponTriangle();
-	ToHit();
-	DamageDealt();
-	//PlayerTakeDamage(Damage);
+
 }
 
-
-bool ABaseEnemy::TakeDamage(int DamageAmount)
-{
-	UE_LOG(LogTemp, Warning, TEXT("Attempting to take damage"));
-	StatHolder->CurrentHealth -= DamageAmount;
-		UE_LOG(LogTemp, Warning, TEXT("Statholder didn't break after taking damage"));
-
-	if (StatHolder->CurrentHealth <= 0)
-	{
-		return true;
-		UE_LOG(LogTemp, Warning, TEXT("Enemy Dead"));
-	}
-	else
-		return false;
-}
-
-void ABaseEnemy::WeaponTriangle()
+void ABaseEnemy::WeaponTriangle(int WeaponAdvantage)
 {
 	//REFACTOR LATER
 	if (ActorHasTag(AxeUnit))
@@ -95,7 +70,7 @@ void ABaseEnemy::WeaponTriangle()
 		if (ActorHasTag(SpearUnit))
 		{
 			bIsWeakAgainst = true;
-			StatHolder->WeaponAdvantage = -15;
+			WeaponAdvantage = -15;
 		}
 	}
 
@@ -104,7 +79,7 @@ void ABaseEnemy::WeaponTriangle()
 		if (ActorHasTag(SwordUnit))
 		{
 			bIsWeakAgainst = true;
-			StatHolder->WeaponAdvantage = -15;
+			WeaponAdvantage = -15;
 		}
 	}
 
@@ -113,16 +88,11 @@ void ABaseEnemy::WeaponTriangle()
 		if (ActorHasTag(AxeUnit))
 		{
 			bIsWeakAgainst = true;
-			StatHolder->WeaponAdvantage = -15;
+			WeaponAdvantage = -15;
 		}
 	}
 	else
 		bIsWeakAgainst = false;
-}
-
-void ABaseEnemy::Move()
-{
-
 }
 
 

@@ -28,9 +28,7 @@ class DIVINECOMBAT_API AGameModeTurnSystem : public AGameModeBase
 public:
 	ETurnOrder EnumTurnOrder;
 
-	class ABaseEnemy* BaseEnemy;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Turn System")
+	//UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Turn System")
 	bool bPlayerIsDead;
 
 	bool bWon;
@@ -42,16 +40,16 @@ protected:
 public:
 
 	/** Sets up the system */
-	UFUNCTION(BlueprintCallable, Category = "Turn System")
+	//UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void BattleStart();
 	/** Checks if player is dead if not cycles back */
-	UFUNCTION(BlueprintCallable, Category = "Turn System")
+	//UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void PlayerTurn();
 	/** Checks if enemy is dead if not cycles back */
-	UFUNCTION(BlueprintCallable, Category = "Turn System")
+	//UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void EnemyTurn();
 	/** Ends the battle sequence*/
-	UFUNCTION(BlueprintCallable, Category = "Turn System")
+	//UFUNCTION(BlueprintCallable, Category = "Turn System")
 	void EndBattle();
 
 };
